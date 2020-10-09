@@ -16,15 +16,6 @@ def home():
 
     return render_template('index.html', mars_scrape=mars_scrape)
 
-@app.route("/scrape")
-def scrape():
-    
-    mars_scrape = scrape_mars.scrape()
-    
-    mongo.db.mars_scrape.update({}, mars_scrape, upsert=True)
-    
-    return redirect('/', code=302)
-
 
 if __name__ == "__main__":
     app.run(debug=True)
