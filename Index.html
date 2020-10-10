@@ -2,7 +2,10 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>United States</title>
+    
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
     integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
@@ -11,10 +14,46 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://unpkg.com/simple-statistics@5.0.0/dist/simple-statistics.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   </head>
+
   <body>
+  <div class="container">
+    <div class="jumbotron">
+      <h1>
+        TEST!!!
+      </h1>
+      <p></p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="panel panel-primary">
+          <div class="panel-body">
+            TEST!!
+          </div>
+        </div>
+        <div class="company">
+          TEST!!!!
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            TEST!!!!
+          </div>
+        </div>
+        <div id="plot"></div>
+      </div>
+    </div>
+  </div>
+
     <!-- map div -->
-    <div id="map"></div>
+    <div class= "center" id="map"></div>
+
+
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
     integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
@@ -23,11 +62,8 @@
     <script type="text/javascript" src="static/js/config.js"></script>
       <!-- JS  -->
     <script type="text/javascript" src="static/js/logic.js"></script>
-    <!-- <script type="text/javascript" src="static/js/logic2.js"></script> -->
-    <!-- <script type="text/javascript" src="static/js/logic3.js"></script> -->
-    <!-- <script type="text/javascript" src="static/js/logic4.js"></script> -->
 
-      <!-- Icons -->
-  <script src="static/js/leaflet.extra-markers.min.js"></script>
+        <!-- Icons -->
+    <script src="static/js/leaflet.extra-markers.min.js"></script>
   </body>
 </html>
