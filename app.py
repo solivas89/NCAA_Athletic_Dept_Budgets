@@ -15,7 +15,7 @@ def home():
     data_scrape = mongo.db.mars_scrape.find_one()
 
     return render_template('index.html', mars_scrape=mars_scrape)
-
+ 
 
 if __name__ == "__main__":
     app.run(debug=True)
