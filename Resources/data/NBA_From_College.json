@@ -1,0 +1,1163 @@
+[{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28ef7"
+  },
+  "From NBA Roster": "Advanced Prep International (TX)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28ef8"
+  },
+  "From NBA Roster": "Alabama",
+  "Type": "College",
+  "From School Budget File": "The University of Alabama"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28ef9"
+  },
+  "From NBA Roster": "Arizona",
+  "Type": "College",
+  "From School Budget File": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28efa"
+  },
+  "From NBA Roster": "Arizona State",
+  "Type": "College",
+  "From School Budget File": "Arizona State University-Tempe"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28efb"
+  },
+  "From NBA Roster": "Arkansas",
+  "Type": "College",
+  "From School Budget File": "University of Arkansas"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28efc"
+  },
+  "From NBA Roster": "Auburn",
+  "Type": "College",
+  "From School Budget File": "Auburn University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28efd"
+  },
+  "From NBA Roster": "Australia",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28efe"
+  },
+  "From NBA Roster": "Baylor",
+  "Type": "College",
+  "From School Budget File": "Baylor University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28eff"
+  },
+  "From NBA Roster": "Belmont",
+  "Type": "College",
+  "From School Budget File": "Belmont University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f00"
+  },
+  "From NBA Roster": "Boise State",
+  "Type": "College",
+  "From School Budget File": "Boise State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f01"
+  },
+  "From NBA Roster": "Bosnia and Herzegovina",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f02"
+  },
+  "From NBA Roster": "Boston College",
+  "Type": "College",
+  "From School Budget File": "Boston College"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f03"
+  },
+  "From NBA Roster": "Bowling Green",
+  "Type": "College",
+  "From School Budget File": "Bowling Green State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f04"
+  },
+  "From NBA Roster": "Brazil",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f05"
+  },
+  "From NBA Roster": "Brewster Academy (NH)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f06"
+  },
+  "From NBA Roster": "Bucknell",
+  "Type": "College",
+  "From School Budget File": "Bucknell University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f07"
+  },
+  "From NBA Roster": "Butler",
+  "Type": "College",
+  "From School Budget File": "Butler University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f08"
+  },
+  "From NBA Roster": "Cal Poly San Luis Obispo",
+  "Type": "College",
+  "From School Budget File": "California Polytechnic State University-San Luis Obispo"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f09"
+  },
+  "From NBA Roster": "California",
+  "Type": "College",
+  "From School Budget File": "University of California-Berkeley"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0a"
+  },
+  "From NBA Roster": "Campbell",
+  "Type": "College",
+  "From School Budget File": "Campbell University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0b"
+  },
+  "From NBA Roster": "CCSE Prep Academy (CA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0c"
+  },
+  "From NBA Roster": "Central Florida",
+  "Type": "College",
+  "From School Budget File": "University of Central Florida"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0d"
+  },
+  "From NBA Roster": "Chalmette HS (LA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0e"
+  },
+  "From NBA Roster": "Cincinnati",
+  "Type": "College",
+  "From School Budget File": "University of Cincinnati-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f0f"
+  },
+  "From NBA Roster": "College of Charleston",
+  "Type": "College",
+  "From School Budget File": "College of Charleston"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f10"
+  },
+  "From NBA Roster": "Colorado",
+  "Type": "College",
+  "From School Budget File": "University of Colorado Boulder"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f11"
+  },
+  "From NBA Roster": "Connecticut",
+  "Type": "College",
+  "From School Budget File": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f12"
+  },
+  "From NBA Roster": "Creighton",
+  "Type": "College",
+  "From School Budget File": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f13"
+  },
+  "From NBA Roster": "Croatia",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f14"
+  },
+  "From NBA Roster": "Czech Republic",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f15"
+  },
+  "From NBA Roster": "Davidson",
+  "Type": "College",
+  "From School Budget File": "Davidson College"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f16"
+  },
+  "From NBA Roster": "Dayton",
+  "Type": "College",
+  "From School Budget File": "University of Dayton"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f17"
+  },
+  "From NBA Roster": "DePaul",
+  "Type": "College",
+  "From School Budget File": "DePaul University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f18"
+  },
+  "From NBA Roster": "Dominguez HS (CA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f19"
+  },
+  "From NBA Roster": "Duke",
+  "Type": "College",
+  "From School Budget File": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1a"
+  },
+  "From NBA Roster": "Florida",
+  "Type": "College",
+  "From School Budget File": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1b"
+  },
+  "From NBA Roster": "Florida Gulf Coast",
+  "Type": "College",
+  "From School Budget File": "Florida Gulf Coast University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1c"
+  },
+  "From NBA Roster": "Florida State",
+  "Type": "College",
+  "From School Budget File": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1d"
+  },
+  "From NBA Roster": "Fort Wayne",
+  "Type": "College",
+  "From School Budget File": "Indiana University-Purdue University-Fort Wayne"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1e"
+  },
+  "From NBA Roster": "France",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f1f"
+  },
+  "From NBA Roster": "Fresno State",
+  "Type": "College",
+  "From School Budget File": "California State University-Fresno"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f20"
+  },
+  "From NBA Roster": "George Washington",
+  "Type": "College",
+  "From School Budget File": "George Washington University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f21"
+  },
+  "From NBA Roster": "Georgetown",
+  "Type": "College",
+  "From School Budget File": "Georgetown University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f22"
+  },
+  "From NBA Roster": "Georgia",
+  "Type": "College",
+  "From School Budget File": "University of Georgia"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f23"
+  },
+  "From NBA Roster": "Georgia Tech",
+  "Type": "College",
+  "From School Budget File": "Georgia Institute of Technology-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f24"
+  },
+  "From NBA Roster": "Germany",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f25"
+  },
+  "From NBA Roster": "Gonzaga",
+  "Type": "College",
+  "From School Budget File": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f26"
+  },
+  "From NBA Roster": "Greece",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f27"
+  },
+  "From NBA Roster": "Green Bay",
+  "Type": "College",
+  "From School Budget File": "University of Wisconsin-Green Bay"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f28"
+  },
+  "From NBA Roster": "Hofstra",
+  "Type": "College",
+  "From School Budget File": "Hofstra University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f29"
+  },
+  "From NBA Roster": "Holy Cross",
+  "Type": "College",
+  "From School Budget File": "College of the Holy Cross"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2a"
+  },
+  "From NBA Roster": "Houston",
+  "Type": "College",
+  "From School Budget File": "University of Houston"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2b"
+  },
+  "From NBA Roster": "Illinois",
+  "Type": "College",
+  "From School Budget File": "University of Illinois at Urbana-Champaign"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2c"
+  },
+  "From NBA Roster": "IMG Academy (FL)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2d"
+  },
+  "From NBA Roster": "Indiana",
+  "Type": "College",
+  "From School Budget File": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2e"
+  },
+  "From NBA Roster": "Iowa",
+  "Type": "College",
+  "From School Budget File": "University of Iowa"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f2f"
+  },
+  "From NBA Roster": "Iowa State",
+  "Type": "College",
+  "From School Budget File": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f30"
+  },
+  "From NBA Roster": "Italy",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f31"
+  },
+  "From NBA Roster": "IUPUI",
+  "Type": "College",
+  "From School Budget File": "Indiana University-Purdue University-Indianapolis"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f32"
+  },
+  "From NBA Roster": "Kansas",
+  "Type": "College",
+  "From School Budget File": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f33"
+  },
+  "From NBA Roster": "Kansas State",
+  "Type": "College",
+  "From School Budget File": "Kansas State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f34"
+  },
+  "From NBA Roster": "Kentucky",
+  "Type": "College",
+  "From School Budget File": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f35"
+  },
+  "From NBA Roster": "La Lumiere (IN)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f36"
+  },
+  "From NBA Roster": "La Salle",
+  "Type": "College",
+  "From School Budget File": "La Salle University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f37"
+  },
+  "From NBA Roster": "Latvia",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f38"
+  },
+  "From NBA Roster": "Lausanne CS (TN)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f39"
+  },
+  "From NBA Roster": "Lehigh",
+  "Type": "College",
+  "From School Budget File": "Lehigh University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3a"
+  },
+  "From NBA Roster": "Lipscomb",
+  "Type": "College",
+  "From School Budget File": "Lipscomb University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3b"
+  },
+  "From NBA Roster": "Lithuania",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3c"
+  },
+  "From NBA Roster": "Little Rock",
+  "Type": "College",
+  "From School Budget File": "University of Arkansas at Little Rock"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3d"
+  },
+  "From NBA Roster": "Long Beach State",
+  "Type": "College",
+  "From School Budget File": "California State University-Long Beach"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3e"
+  },
+  "From NBA Roster": "Louisiana",
+  "Type": "College",
+  "From School Budget File": "University of Louisiana at Lafayette"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f3f"
+  },
+  "From NBA Roster": "Louisiana Tech",
+  "Type": "College",
+  "From School Budget File": "Louisiana Tech University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f40"
+  },
+  "From NBA Roster": "Louisville",
+  "Type": "College",
+  "From School Budget File": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f41"
+  },
+  "From NBA Roster": "LSU",
+  "Type": "College",
+  "From School Budget File": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f42"
+  },
+  "From NBA Roster": "Marquette",
+  "Type": "College",
+  "From School Budget File": "Marquette University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f43"
+  },
+  "From NBA Roster": "Marshall",
+  "Type": "College",
+  "From School Budget File": "Marshall University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f44"
+  },
+  "From NBA Roster": "Maryland",
+  "Type": "College",
+  "From School Budget File": "University of Maryland-College Park"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f45"
+  },
+  "From NBA Roster": "Memphis",
+  "Type": "College",
+  "From School Budget File": "University of Memphis"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f46"
+  },
+  "From NBA Roster": "Miami (FL)",
+  "Type": "College",
+  "From School Budget File": "University of Miami"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f47"
+  },
+  "From NBA Roster": "Michigan",
+  "Type": "College",
+  "From School Budget File": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f48"
+  },
+  "From NBA Roster": "Michigan State",
+  "Type": "College",
+  "From School Budget File": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f49"
+  },
+  "From NBA Roster": "Minnesota",
+  "Type": "College",
+  "From School Budget File": "University of Minnesota-Twin Cities"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4a"
+  },
+  "From NBA Roster": "Mississippi",
+  "Type": "College",
+  "From School Budget File": "University of Mississippi"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4b"
+  },
+  "From NBA Roster": "Mississippi State",
+  "Type": "College",
+  "From School Budget File": "Mississippi State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4c"
+  },
+  "From NBA Roster": "Missouri",
+  "Type": "College",
+  "From School Budget File": "University of Missouri-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4d"
+  },
+  "From NBA Roster": "Missouri State",
+  "Type": "College",
+  "From School Budget File": "Missouri Southern State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4e"
+  },
+  "From NBA Roster": "Murray State",
+  "Type": "College",
+  "From School Budget File": "Murray State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f4f"
+  },
+  "From NBA Roster": "Nebraska",
+  "Type": "College",
+  "From School Budget File": "University of Nebraska-Lincoln"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f50"
+  },
+  "From NBA Roster": "Nevada",
+  "Type": "College",
+  "From School Budget File": "University of Nevada-Reno"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f51"
+  },
+  "From NBA Roster": "New Mexico",
+  "Type": "College",
+  "From School Budget File": "University of New Mexico-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f52"
+  },
+  "From NBA Roster": "New Mexico State",
+  "Type": "College",
+  "From School Budget File": "New Mexico State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f53"
+  },
+  "From NBA Roster": "Norfolk State",
+  "Type": "College",
+  "From School Budget File": "Norfolk State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f54"
+  },
+  "From NBA Roster": "North Carolina",
+  "Type": "College",
+  "From School Budget File": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f55"
+  },
+  "From NBA Roster": "North Carolina State",
+  "Type": "College",
+  "From School Budget File": "North Carolina State University at Raleigh"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f56"
+  },
+  "From NBA Roster": "Northeastern",
+  "Type": "College",
+  "From School Budget File": "Northeastern University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f57"
+  },
+  "From NBA Roster": "Northwestern",
+  "Type": "College",
+  "From School Budget File": "Northwest University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f58"
+  },
+  "From NBA Roster": "Notre Dame",
+  "Type": "College",
+  "From School Budget File": "University of Notre Dame"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f59"
+  },
+  "From NBA Roster": "Oakland",
+  "Type": "College",
+  "From School Budget File": "Oakland University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5a"
+  },
+  "From NBA Roster": "Ohio State",
+  "Type": "College",
+  "From School Budget File": "Ohio State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5b"
+  },
+  "From NBA Roster": "Oklahoma",
+  "Type": "College",
+  "From School Budget File": "University of Oklahoma-Norman Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5c"
+  },
+  "From NBA Roster": "Oklahoma State",
+  "Type": "College",
+  "From School Budget File": "Oklahoma State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5d"
+  },
+  "From NBA Roster": "Old Dominion",
+  "Type": "College",
+  "From School Budget File": "Old Dominion University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5e"
+  },
+  "From NBA Roster": "Orangeville Prep (CAN)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f5f"
+  },
+  "From NBA Roster": "Oregon",
+  "Type": "College",
+  "From School Budget File": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f60"
+  },
+  "From NBA Roster": "Oregon State",
+  "Type": "College",
+  "From School Budget File": "Old Dominion University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f61"
+  },
+  "From NBA Roster": "Penn State",
+  "Type": "College",
+  "From School Budget File": "Pennsylvania State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f62"
+  },
+  "From NBA Roster": "Pittsburgh",
+  "Type": "College",
+  "From School Budget File": "University of Pittsburgh-Pittsburgh Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f63"
+  },
+  "From NBA Roster": "Price HS (CA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f64"
+  },
+  "From NBA Roster": "Prime Prep Academy (TX)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f65"
+  },
+  "From NBA Roster": "Princeton HS (OH)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f66"
+  },
+  "From NBA Roster": "Providence",
+  "Type": "College",
+  "From School Budget File": "Providence College"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f67"
+  },
+  "From NBA Roster": "Purdue",
+  "Type": "College",
+  "From School Budget File": "Purdue University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f68"
+  },
+  "From NBA Roster": "Radford",
+  "Type": "College",
+  "From School Budget File": "Radford University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f69"
+  },
+  "From NBA Roster": "Republic of the Congo",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6a"
+  },
+  "From NBA Roster": "Saint Benedict's Prep (NJ)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6b"
+  },
+  "From NBA Roster": "Saint Joseph's",
+  "Type": "College",
+  "From School Budget File": "Saint Joseph's University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6c"
+  },
+  "From NBA Roster": "Saint Mary's",
+  "Type": "College",
+  "From School Budget File": "Saint Mary's College of California"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6d"
+  },
+  "From NBA Roster": "San Diego State",
+  "Type": "College",
+  "From School Budget File": "San Diego State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6e"
+  },
+  "From NBA Roster": "Serbia",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f6f"
+  },
+  "From NBA Roster": "Slovenia",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f70"
+  },
+  "From NBA Roster": "SMU",
+  "Type": "College",
+  "From School Budget File": "Southern Methodist University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f71"
+  },
+  "From NBA Roster": "South Carolina",
+  "Type": "College",
+  "From School Budget File": "University of South Carolina-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f72"
+  },
+  "From NBA Roster": "South Gwinnett HS (GA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f73"
+  },
+  "From NBA Roster": "Southeast Missouri State",
+  "Type": "College",
+  "From School Budget File": "Southeast Missouri State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f74"
+  },
+  "From NBA Roster": "Southern California",
+  "Type": "College",
+  "From School Budget File": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f75"
+  },
+  "From NBA Roster": "Spain",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f76"
+  },
+  "From NBA Roster": "St. Bonaventure",
+  "Type": "College",
+  "From School Budget File": "St Bonaventure University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f77"
+  },
+  "From NBA Roster": "St. John's",
+  "Type": "College",
+  "From School Budget File": "St John's University-New York"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f78"
+  },
+  "From NBA Roster": "St. Vincent–St. Mary HS (OH)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f79"
+  },
+  "From NBA Roster": "Stanford",
+  "Type": "College",
+  "From School Budget File": "Stanford University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7a"
+  },
+  "From NBA Roster": "SW Atlanta Academy (GA)",
+  "Type": "High School",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7b"
+  },
+  "From NBA Roster": "Switzerland",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7c"
+  },
+  "From NBA Roster": "Syracuse",
+  "Type": "College",
+  "From School Budget File": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7d"
+  },
+  "From NBA Roster": "TCU",
+  "Type": "College",
+  "From School Budget File": "Texas Christian University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7e"
+  },
+  "From NBA Roster": "Tennessee",
+  "Type": "College",
+  "From School Budget File": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f7f"
+  },
+  "From NBA Roster": "Tennessee State",
+  "Type": "College",
+  "From School Budget File": "Tennessee State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f80"
+  },
+  "From NBA Roster": "Texas",
+  "Type": "College",
+  "From School Budget File": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f81"
+  },
+  "From NBA Roster": "Texas A&M",
+  "Type": "College",
+  "From School Budget File": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f82"
+  },
+  "From NBA Roster": "Texas Tech",
+  "Type": "College",
+  "From School Budget File": "Texas Tech University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f83"
+  },
+  "From NBA Roster": "Tulane",
+  "Type": "College",
+  "From School Budget File": "Tulane University of Louisiana"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f84"
+  },
+  "From NBA Roster": "Tulsa",
+  "Type": "College",
+  "From School Budget File": "University of Tulsa"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f85"
+  },
+  "From NBA Roster": "Turkey",
+  "Type": "International",
+  "From School Budget File": null
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f86"
+  },
+  "From NBA Roster": "UC Santa Barbara",
+  "Type": "College",
+  "From School Budget File": "University of California-Santa Barbara"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f87"
+  },
+  "From NBA Roster": "UCLA",
+  "Type": "College",
+  "From School Budget File": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f88"
+  },
+  "From NBA Roster": "UNC Wilmington",
+  "Type": "College",
+  "From School Budget File": "University of North Carolina Wilmington"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f89"
+  },
+  "From NBA Roster": "UNLV",
+  "Type": "College",
+  "From School Budget File": "University of Nevada-Las Vegas"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8a"
+  },
+  "From NBA Roster": "USC Upstate",
+  "Type": "College",
+  "From School Budget File": "University of South Carolina-Upstate"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8b"
+  },
+  "From NBA Roster": "Utah",
+  "Type": "College",
+  "From School Budget File": "University of Utah"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8c"
+  },
+  "From NBA Roster": "Valparaiso",
+  "Type": "College",
+  "From School Budget File": "Valparaiso University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8d"
+  },
+  "From NBA Roster": "Vanderbilt",
+  "Type": "College",
+  "From School Budget File": "Vanderbilt University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8e"
+  },
+  "From NBA Roster": "Villanova",
+  "Type": "College",
+  "From School Budget File": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f8f"
+  },
+  "From NBA Roster": "Virginia",
+  "Type": "College",
+  "From School Budget File": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f90"
+  },
+  "From NBA Roster": "Virginia Commonwealth",
+  "Type": "College",
+  "From School Budget File": "Virginia Commonwealth University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f91"
+  },
+  "From NBA Roster": "Virginia Tech",
+  "Type": "College",
+  "From School Budget File": "Virginia Polytechnic Institute and State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f92"
+  },
+  "From NBA Roster": "Wake Forest",
+  "Type": "College",
+  "From School Budget File": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f93"
+  },
+  "From NBA Roster": "Washington",
+  "Type": "College",
+  "From School Budget File": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f94"
+  },
+  "From NBA Roster": "Washington State",
+  "Type": "College",
+  "From School Budget File": "Washington State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f95"
+  },
+  "From NBA Roster": "Weber State",
+  "Type": "College",
+  "From School Budget File": "Weber State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f96"
+  },
+  "From NBA Roster": "West Virginia",
+  "Type": "College",
+  "From School Budget File": "West Virginia University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f97"
+  },
+  "From NBA Roster": "Western Kentucky",
+  "Type": "College",
+  "From School Budget File": "Western Kentucky University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f98"
+  },
+  "From NBA Roster": "Wichita State",
+  "Type": "College",
+  "From School Budget File": "Wichita State University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f99"
+  },
+  "From NBA Roster": "Wisconsin",
+  "Type": "College",
+  "From School Budget File": "University of Wisconsin-Madison"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f9a"
+  },
+  "From NBA Roster": "Wyoming",
+  "Type": "College",
+  "From School Budget File": "University of Wyoming"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f9b"
+  },
+  "From NBA Roster": "Xavier",
+  "Type": "College",
+  "From School Budget File": "Xavier University"
+},{
+  "_id": {
+    "$oid": "5f8204db3c1c053f29f28f9c"
+  },
+  "From NBA Roster": "Yale",
+  "Type": "College",
+  "From School Budget File": "Yale University"
+}]
