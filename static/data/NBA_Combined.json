@@ -1,0 +1,6607 @@
+[{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d53c"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 23,
+  "Name": "Ferguson, Terrance",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1998–05–17",
+  "From": "Advanced Prep International (TX)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d53d"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F/C",
+  "No": 45,
+  "Name": "Hall, Donta (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "229 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1997–08–07",
+  "From": "Alabama",
+  "School": "The University of Alabama"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d53e"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Sexton, Collin",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1999–01–04",
+  "From": "Alabama",
+  "School": "The University of Alabama"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d53f"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F/C",
+  "No": 4,
+  "Name": "Green, JaMychal",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "227 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1990–06–21",
+  "From": "Alabama",
+  "School": "The University of Alabama"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d540"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F",
+  "No": 4,
+  "Name": "Hollis-Jefferson, Rondae",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "217 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1995–01–03",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d541"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G/F",
+  "No": 5,
+  "Name": "Johnson, Stanley",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "242 lb (110 kg)",
+  "DOB (YYYY-MM-DD)": "1996–05–29",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d542"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F/C",
+  "No": 24,
+  "Name": "Markkanen, Lauri",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1997–05–22",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d543"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 9,
+  "Name": "McConnell, T. J.",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1992–03–25",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d544"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G",
+  "No": 23,
+  "Name": "Simmons, Kobi (TW, FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–04",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d545"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 44,
+  "Name": "Hill, Solomon",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "226 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1991–03–18",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d546"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G/F",
+  "No": 28,
+  "Name": "Iguodala, Andre",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1984–01–28",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d547"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 0,
+  "Name": "Gordon, Aaron",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–16",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d548"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "C",
+  "No": 22,
+  "Name": "Ayton, Deandre",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1998–07–23",
+  "From": "Arizona",
+  "School": "University of Arizona"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d549"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Dort, Luguentz",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–19",
+  "From": "Arizona State",
+  "School": "Arizona State University-Tempe"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54a"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 13,
+  "Name": "Harden, James",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1989–08–26",
+  "From": "Arizona State",
+  "School": "Arizona State University-Tempe"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54b"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 45,
+  "Name": "Cheatham, Zylan (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–17",
+  "From": "Arizona State",
+  "School": "Arizona State University-Tempe"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54c"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Portis, Bobby",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–10",
+  "From": "Arkansas",
+  "School": "University of Arkansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54d"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F/C",
+  "No": 12,
+  "Name": "Gafford, Daniel",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "234 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "1998–10–01",
+  "From": "Arkansas",
+  "School": "University of Arkansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54e"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G",
+  "No": 21,
+  "Name": "Beverley, Patrick",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1988–07–12",
+  "From": "Arkansas",
+  "School": "University of Arkansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d54f"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": "–",
+  "Name": "Harper, Jared (TW)",
+  "Height": "5 ft 10 in (1.78 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1997–09–14",
+  "From": "Auburn",
+  "School": "Auburn University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d550"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Exum, Dante",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1995–07–13",
+  "From": "Australia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d551"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G/F",
+  "No": 2,
+  "Name": "Ingles, Joe",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1987–10–02",
+  "From": "Australia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d552"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F",
+  "No": 2,
+  "Name": "Prince, Taurean ",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–22",
+  "From": "Baylor",
+  "School": "Baylor University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d553"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F",
+  "No": 23,
+  "Name": "O'Neale, Royce",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "226 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–05",
+  "From": "Baylor",
+  "School": "Baylor University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d554"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F",
+  "No": 15,
+  "Name": "Motley, Johnathan (TW, FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1995–05–04",
+  "From": "Baylor",
+  "School": "Baylor University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d555"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G/F",
+  "No": 9,
+  "Name": "Windler, Dylan ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "196 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–22",
+  "From": "Belmont",
+  "School": "Belmont University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d556"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G/F",
+  "No": 15,
+  "Name": "Hutchison, Chandler",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1996–04–26",
+  "From": "Boise State",
+  "School": "Boise State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d557"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G/F",
+  "No": 13,
+  "Name": "Musa, Džanan",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "217 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–05–08",
+  "From": "Bosnia and Herzegovina",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d558"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "C",
+  "No": 27,
+  "Name": "Nurkić, Jusuf",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "275 lb (125 kg)",
+  "DOB (YYYY-MM-DD)": "1994–08–23",
+  "From": "Bosnia and Herzegovina",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d559"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 12,
+  "Name": "Robinson, Jerome",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–22",
+  "From": "Boston College",
+  "School": "Boston College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55a"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G",
+  "No": 12,
+  "Name": "Bowman, Ky",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "187 lb (85 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–17",
+  "From": "Boston College",
+  "School": "Boston College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55b"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Jackson, Reggie (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "208 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "1990–04–16",
+  "From": "Boston College",
+  "School": "Boston College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55c"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 10,
+  "Name": "Dudley, Jared",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "237 lb (108 kg)",
+  "DOB (YYYY-MM-DD)": "1985–07–10",
+  "From": "Boston College",
+  "School": "Boston College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55d"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Holmes, Richaun",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1993–10–15",
+  "From": "Bowling Green",
+  "School": "Bowling Green State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55e"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 19,
+  "Name": "Neto, Raul",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–19",
+  "From": "Brazil",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d55f"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Caboclo, Bruno (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–21",
+  "From": "Brazil",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d560"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Lecque, Jalen",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "2000–06–13",
+  "From": "Brewster Academy (NH)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d561"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "F/C",
+  "No": 33,
+  "Name": "Muscala, Mike",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–01",
+  "From": "Bucknell",
+  "School": "Bucknell University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d562"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Hayward, Gordon",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1990–03–23",
+  "From": "Butler",
+  "School": "Butler University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d563"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 30,
+  "Name": "Martin, Kelan (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1995–08–03",
+  "From": "Butler",
+  "School": "Butler University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d564"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G/F",
+  "No": "–",
+  "Name": "Nwaba, David ",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1993–01–14",
+  "From": "Cal Poly San Luis Obispo",
+  "School": "California Polytechnic State University-San Luis Obispo"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d565"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G/F",
+  "No": 7,
+  "Name": "Brown, Jaylen",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "223 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–24",
+  "From": "California",
+  "School": "University of California-Berkeley"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d566"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Clemons, Chris",
+  "Height": "5 ft 9 in (1.75 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–23",
+  "From": "Campbell",
+  "School": "Campbell University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d567"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F/C",
+  "No": 6,
+  "Name": "Felício, Cristiano",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "270 lb (122 kg)",
+  "DOB (YYYY-MM-DD)": "1992–07–07",
+  "From": "CCSE Prep Academy (CA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d568"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "C",
+  "No": 99,
+  "Name": "Fall, Tacko (TW, FA)",
+  "Height": "7 ft 5 in (2.26 m)",
+  "Weight": "311 lb (141 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–10",
+  "From": "Central Florida",
+  "School": "University of Central Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d569"
+  },
+  "Team": "New York Knicks",
+  "Pos": "C",
+  "No": 23,
+  "Name": "Robinson, Mitchell",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1998–04–01",
+  "From": "Chalmette HS (LA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56a"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 12,
+  "Name": "Clark, Gary (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1994–11–16",
+  "From": "Cincinnati",
+  "School": "University of Cincinnati-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56b"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G/F",
+  "No": 12,
+  "Name": "Evans, Jacob",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–18",
+  "From": "Cincinnati",
+  "School": "University of Cincinnati-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56c"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G",
+  "No": 31,
+  "Name": "Chealey, Joe",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–01",
+  "From": "College of Charleston",
+  "School": "College of Charleston"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56d"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Brantley, Jarrell (TW, FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1996–06–07",
+  "From": "College of Charleston",
+  "School": "College of Charleston"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56e"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 26,
+  "Name": "Dinwiddie, Spencer ",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1993–04–06",
+  "From": "Colorado",
+  "School": "University of Colorado Boulder"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d56f"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Burks, Alec",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1990–08–20",
+  "From": "Colorado",
+  "School": "University of Colorado Boulder"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d570"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G/F",
+  "No": 21,
+  "Name": "Roberson, André (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1991–12–04",
+  "From": "Colorado",
+  "School": "University of Colorado Boulder"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d571"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 4,
+  "Name": "White, Derrick",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1994–07–02",
+  "From": "Colorado",
+  "School": "University of Colorado Boulder"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d572"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G",
+  "No": 8,
+  "Name": "Walker, Kemba",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "184 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1990–05–08",
+  "From": "Connecticut",
+  "School": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d573"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "C",
+  "No": 3,
+  "Name": "Drummond, Andre",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "279 lb (127 kg)",
+  "DOB (YYYY-MM-DD)": "1993–08–10",
+  "From": "Connecticut",
+  "School": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d574"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G/F",
+  "No": 26,
+  "Name": "Lamb, Jeremy",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–30",
+  "From": "Connecticut",
+  "School": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d575"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Napier, Shabazz (FA)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–14",
+  "From": "Connecticut",
+  "School": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d576"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G/F",
+  "No": 22,
+  "Name": "Gay, Rudy",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1986–08–17",
+  "From": "Connecticut",
+  "School": "University of Connecticut"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d577"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "C",
+  "No": "—",
+  "Name": "Patton, Justin",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "241 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–14",
+  "From": "Creighton",
+  "School": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d578"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 13,
+  "Name": "Thomas, Khyri",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1996–05–08",
+  "From": "Creighton",
+  "School": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d579"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F",
+  "No": 20,
+  "Name": "McDermott, Doug",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1992–01–03",
+  "From": "Creighton",
+  "School": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57a"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G/F",
+  "No": 26,
+  "Name": "Korver, Kyle",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "212 lb (96 kg)",
+  "DOB (YYYY-MM-DD)": "1981–03–17",
+  "From": "Creighton",
+  "School": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57b"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "F",
+  "No": 44,
+  "Name": "Tolliver, Anthony",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1985–06–01",
+  "From": "Creighton",
+  "School": "Creighton University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57c"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "C",
+  "No": 41,
+  "Name": "Žižić, Ante",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "266 lb (121 kg)",
+  "DOB (YYYY-MM-DD)": "1997–01–04",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57d"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 44,
+  "Name": "Hezonja, Mario",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–25",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57e"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F",
+  "No": 44,
+  "Name": "Bogdanović, Bojan ",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "226 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1989–04–18",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d57f"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "C",
+  "No": 40,
+  "Name": "Zubac, Ivica",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–18",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d580"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Šarić, Dario (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1994–04–08",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d581"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "F",
+  "No": 19,
+  "Name": "Šamanić, Luka",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "227 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "2000–01–09",
+  "From": "Croatia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d582"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 31,
+  "Name": "Satoranský, Tomáš",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1991–10–30",
+  "From": "Czech Republic",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d583"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G",
+  "No": 30,
+  "Name": "Curry, Stephen (C)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1988–03–14",
+  "From": "Davidson",
+  "School": "Davidson College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d584"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 37,
+  "Name": "Antetokounmpo, Kostas (TW)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1997–11–20",
+  "From": "Dayton",
+  "School": "University of Dayton"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d585"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F",
+  "No": 21,
+  "Name": "Chandler, Wilson  (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1987–05–10",
+  "From": "DePaul",
+  "School": "DePaul University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d586"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G/F",
+  "No": 28,
+  "Name": "Strus, Max  (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–28",
+  "From": "DePaul",
+  "School": "DePaul University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d587"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "C",
+  "No": 19,
+  "Name": "Chandler, Tyson (FA)",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1982–10–02",
+  "From": "Dominguez HS (CA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d588"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G/F",
+  "No": 0,
+  "Name": "Tatum, Jayson",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1998–03–03",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d589"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Irving, Kyrie ",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1992–03–23",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58a"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F",
+  "No": 42,
+  "Name": "Thomas, Lance (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1988–04–24",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58b"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Barrett, RJ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "2000–07–14",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58c"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F/C",
+  "No": 34,
+  "Name": "Carter, Wendell",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "270 lb (122 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–16",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58d"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Kennard, Luke ",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "206 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1996–06–24",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58e"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G/F",
+  "No": 22,
+  "Name": "Reddish, Cam",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1999–09–01",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d58f"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F/C",
+  "No": 7,
+  "Name": "Plumlee, Mason (FA)",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "254 lb (115 kg)",
+  "DOB (YYYY-MM-DD)": "1990–03–05",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d590"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Hood, Rodney ",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "206 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1992–10–20",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d591"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Trent, Gary",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1999–01–18",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d592"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 28,
+  "Name": "Cook, Quinn",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1993–03–23",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d593"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F",
+  "No": 35,
+  "Name": "Bagley, Marvin",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1999–03–14",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d594"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F/C",
+  "No": 20,
+  "Name": "Giles, Harry",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1998–04–22",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d595"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F",
+  "No": 33,
+  "Name": "Parker, Jabari",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1995–05–15",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d596"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 30,
+  "Name": "Curry, Seth",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1990–08–23",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d597"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 25,
+  "Name": "Rivers, Austin",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1992–08–01",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d598"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Allen, Grayson",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "198 lb (90 kg)",
+  "DOB (YYYY-MM-DD)": "1995–10–08",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d599"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 21,
+  "Name": "Jones, Tyus",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "196 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1996–05–10",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59a"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 7,
+  "Name": "Winslow, Justise ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "222 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–26",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59b"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 14,
+  "Name": "Ingram, Brandon",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–09–02",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59c"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Jackson, Frank",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1998–05–04",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59d"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F/C",
+  "No": 9,
+  "Name": "Okafor, Jahlil",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "270 lb (122 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–15",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59e"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Redick, JJ",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1984–06–24",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d59f"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Williamson, Zion",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "284 lb (129 kg)",
+  "DOB (YYYY-MM-DD)": "2000–07–06",
+  "From": "Duke",
+  "School": "Duke University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a0"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Chiozza, Chris (TW, FA)",
+  "Height": "5 ft 11 in (1.80 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–25",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a1"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F/C",
+  "No": 42,
+  "Name": "Horford, Al",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1986–06–03",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a2"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 40,
+  "Name": "Haslem, Udonis (C)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1980–06–09",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a3"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Beal, Bradley ",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "207 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–28",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a4"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F/C",
+  "No": 55,
+  "Name": "Noah, Joakim",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "232 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1985–02–25",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a5"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G/F",
+  "No": 13,
+  "Name": "Brewer, Corey",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "186 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1986–03–05",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a6"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F",
+  "No": 10,
+  "Name": "Finney-Smith, Dorian",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–05–04",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a7"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 21,
+  "Name": "Frazier, Michael (TW, FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–08",
+  "From": "Florida",
+  "School": "University of Florida"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a8"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Goodwin, Brandon (FA)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1995–10–02",
+  "From": "Florida Gulf Coast",
+  "School": "Florida Gulf Coast University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5a9"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G/F",
+  "No": 7,
+  "Name": "Bacon, Dwayne (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "221 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1995–08–30",
+  "From": "Florida State",
+  "School": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5aa"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Isaac, Jonathan ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1997–10–03",
+  "From": "Florida State",
+  "School": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ab"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Beasley, Malik",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "187 lb (85 kg)",
+  "DOB (YYYY-MM-DD)": "1996–11–26",
+  "From": "Florida State",
+  "School": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ac"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F/C",
+  "No": 25,
+  "Name": "Kabengele, Mfiondu",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1997–08–14",
+  "From": "Florida State",
+  "School": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ad"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G/F",
+  "No": 14,
+  "Name": "Mann, Terance",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–18",
+  "From": "Florida State",
+  "School": "Florida State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ae"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 46,
+  "Name": "Konchar, John (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–22",
+  "From": "Fort Wayne",
+  "School": "Indiana University-Purdue University-Fort Wayne"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5af"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F/C",
+  "No": 77,
+  "Name": "Poirier, Vincent",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1993–10–27",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b0"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G/F",
+  "No": 9,
+  "Name": "Luwawu-Cabarrot, Timothé",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1995–05–09",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b1"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Ntilikina, Frank",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1998–07–28",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b2"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Mokoka, Adam (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1998–07–18",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b3"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F",
+  "No": 45,
+  "Name": "Doumbouya, Sekou",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "2000–12–23",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b4"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G/F",
+  "No": 5,
+  "Name": "Batum, Nicolas ",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1988–12–14",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b5"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "Fournier, Evan",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1992–10–29",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b6"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "C",
+  "No": 28,
+  "Name": "Mahinmi, Ian (FA)",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "262 lb (119 kg)",
+  "DOB (YYYY-MM-DD)": "1986–11–05",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b7"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "C",
+  "No": 27,
+  "Name": "Gobert, Rudy",
+  "Height": "7 ft 1 in (2.16 m)",
+  "Weight": "258 lb (117 kg)",
+  "DOB (YYYY-MM-DD)": "1992–06–26",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b8"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G/F",
+  "No": 2,
+  "Name": "Okobo, Élie",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–10–23",
+  "From": "France",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5b9"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 8,
+  "Name": "Johnson, Tyler (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "186 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–07",
+  "From": "Fresno State",
+  "School": "California State University-Fresno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ba"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Watson, Paul (TW)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–12–30",
+  "From": "Fresno State",
+  "School": "California State University-Fresno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5bb"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F",
+  "No": 13,
+  "Name": "George, Paul",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1990–05–02",
+  "From": "Fresno State",
+  "School": "California State University-Fresno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5bc"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 18,
+  "Name": "Watanabe, Yuta (TW)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1994–10–13",
+  "From": "George Washington",
+  "School": "George Washington University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5bd"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Porter, Otto",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "198 lb (90 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–03",
+  "From": "Georgetown",
+  "School": "Georgetown University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5be"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 32,
+  "Name": "Green, Jeff (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1986–08–28",
+  "From": "Georgetown",
+  "School": "Georgetown University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5bf"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F/C",
+  "No": 33,
+  "Name": "Claxton, Nicolas ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–17",
+  "From": "Georgia",
+  "School": "University of Georgia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c0"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F/C",
+  "No": 88,
+  "Name": "Bitadze, Goga",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1999–07–20",
+  "From": "Georgia",
+  "School": "University of Georgia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c1"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Caldwell-Pope, Kentavious",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "204 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1993–02–18",
+  "From": "Georgia",
+  "School": "University of Georgia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c2"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F",
+  "No": 21,
+  "Name": "Young, Thaddeus",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1988–06–21",
+  "From": "Georgia Tech",
+  "School": "Georgia Institute of Technology-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c3"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Okogie, Josh",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "213 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1998–09–01",
+  "From": "Georgia Tech",
+  "School": "Georgia Institute of Technology-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c4"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Favors, Derrick",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–15",
+  "From": "Georgia Tech",
+  "School": "Georgia Institute of Technology-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c5"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F/C",
+  "No": 27,
+  "Name": "Theis, Daniel",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1992–04–04",
+  "From": "Germany",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c6"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 17,
+  "Name": "Bonga, Isaac",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1999–11–08",
+  "From": "Germany",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c7"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 17,
+  "Name": "Schröder, Dennis",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "172 lb (78 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–15",
+  "From": "Germany",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c8"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F",
+  "No": 42,
+  "Name": "Kleber, Maxi",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1992–01–29",
+  "From": "Germany",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5c9"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F/C",
+  "No": 11,
+  "Name": "Sabonis, Domantas",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1996–05–03",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ca"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F/C",
+  "No": 9,
+  "Name": "Olynyk, Kelly",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1991–04–19",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5cb"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F",
+  "No": 8,
+  "Name": "Hachimura, Rui",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1998–02–08",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5cc"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F/C",
+  "No": 33,
+  "Name": "Collins, Zach",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1997–11–19",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5cd"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Williams-Goss, Nigel",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1994–09–16",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ce"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 15,
+  "Name": "Clarke, Brandon",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–19",
+  "From": "Gonzaga",
+  "School": "Gonzaga University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5cf"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 34,
+  "Name": "Antetokounmpo, Giannis",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "242 lb (110 kg)",
+  "DOB (YYYY-MM-DD)": "1994–12–06",
+  "From": "Greece",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d0"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 43,
+  "Name": "Antetokounmpo, Thanasis",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1992–07–18",
+  "From": "Greece",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d1"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F",
+  "No": 28,
+  "Name": "McKinnie, Alfonzo",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1992–09–17",
+  "From": "Green Bay",
+  "School": "University of Wisconsin-Green Bay"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d2"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Wright-Foreman, Justin (TW, FA)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–10–27",
+  "From": "Hofstra",
+  "School": "Hofstra University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d3"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G/F",
+  "No": 13,
+  "Name": "Miller, Malcolm",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1993–03–06",
+  "From": "Holy Cross",
+  "School": "College of the Holy Cross"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d4"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 21,
+  "Name": "Dotson, Damyean (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–05–06",
+  "From": "Houston",
+  "School": "University of Houston"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d5"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F/C",
+  "No": 0,
+  "Name": "Leonard, Meyers",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "260 lb (118 kg)",
+  "DOB (YYYY-MM-DD)": "1992–02–27",
+  "From": "Illinois",
+  "School": "University of Illinois at Urbana-Champaign"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d6"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Simons, Anfernee",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1999–06–08",
+  "From": "IMG Academy (FL)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d7"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G/F",
+  "No": 45,
+  "Name": "Langford, Romeo ",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "216 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–10–25",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d8"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F",
+  "No": 3,
+  "Name": "Anunoby, OG",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "232 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–17",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5d9"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Oladipo, Victor",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "213 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–04",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5da"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F/C",
+  "No": 40,
+  "Name": "Zeller, Cody",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1992–10–05",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5db"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F/C",
+  "No": 13,
+  "Name": "Bryant, Thomas",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "248 lb (112 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–31",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5dc"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 32,
+  "Name": "Vonleh, Noah (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "257 lb (117 kg)",
+  "DOB (YYYY-MM-DD)": "1995–08–24",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5dd"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F",
+  "No": 16,
+  "Name": "Morgan, Juwan (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "232 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1997–04–17",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5de"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Ferrell, Yogi",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "178 lb (81 kg)",
+  "DOB (YYYY-MM-DD)": "1993–05–09",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5df"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 10,
+  "Name": "Gordon, Eric ",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1988–12–25",
+  "From": "Indiana",
+  "School": "Indiana University-Bloomington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e0"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F",
+  "No": 7,
+  "Name": "Uthoff, Jarrod (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–05–19",
+  "From": "Iowa",
+  "School": "University of Iowa"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e1"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 25,
+  "Name": "Cook, Tyler (TW)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1997–09–23",
+  "From": "Iowa",
+  "School": "University of Iowa"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e2"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 35,
+  "Name": "Shayok, Marial (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "196 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1995–07–26",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e3"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 21,
+  "Name": "Thomas, Matt",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1994–08–04",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e4"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Mitrou-Long, Naz (TW)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1993–08–03",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e5"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Morris, Monté",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "183 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1995–06–27",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e6"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G/F",
+  "No": 30,
+  "Name": "Burton, Deonte",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1994–01–31",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e7"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "F",
+  "No": 11,
+  "Name": "Nader, Abdel",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–25",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e8"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F",
+  "No": 31,
+  "Name": "Niang, Georges",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–17",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5e9"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Horton-Tucker, Talen",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "234 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "2000–11–25",
+  "From": "Iowa State",
+  "School": "Iowa State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ea"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "F",
+  "No": 8,
+  "Name": "Gallinari, Danilo (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "233 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "1988–08–08",
+  "From": "Italy",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5eb"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Melli, Nicolò",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "236 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1991–01–26",
+  "From": "Italy",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ec"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 18,
+  "Name": "Belinelli, Marco (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1986–03–25",
+  "From": "Italy",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ed"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Hill, George",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "188 lb (85 kg)",
+  "DOB (YYYY-MM-DD)": "1986–05–04",
+  "From": "IUPUI",
+  "School": "Indiana University-Purdue University-Indianapolis"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ee"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F/C",
+  "No": 21,
+  "Name": "Embiid, Joel",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "280 lb (127 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–16",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ef"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G/F",
+  "No": 19,
+  "Name": "Mykhailiuk, Sviatoslav",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–10",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f0"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Mason, Frank (TW)",
+  "Height": "5 ft 11 in (1.80 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1994–04–03",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f1"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Graham, Devonte'",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–22",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f2"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Wiggins, Andrew",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "197 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–23",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f3"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F",
+  "No": 31,
+  "Name": "Morris, Marcus (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1989–09–02",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f4"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 88,
+  "Name": "Morris, Markieff",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1989–09–02",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f5"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F/C",
+  "No": 14,
+  "Name": "Diallo, Cheick",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–13",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f6"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G/F",
+  "No": 3,
+  "Name": "Oubre, Kelly ",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "203 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–09",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f7"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 16,
+  "Name": "McLemore, Ben",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1993–02–11",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f8"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 20,
+  "Name": "Jackson, Josh",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "207 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–10",
+  "From": "Kansas",
+  "School": "University of Kansas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5f9"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F/C",
+  "No": 32,
+  "Name": "Wade, Dean",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "228 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1996–11–20",
+  "From": "Kansas State",
+  "School": "Kansas State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5fa"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 25,
+  "Name": "Iwundu, Wes (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1994–12–20",
+  "From": "Kansas State",
+  "School": "Kansas State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5fb"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G",
+  "No": 19,
+  "Name": "McGruder, Rodney",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–29",
+  "From": "Kansas State",
+  "School": "Kansas State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5fc"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Knox, Kevin",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–08–11",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5fd"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 30,
+  "Name": "Randle, Julius",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1994–11–29",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5fe"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Knight, Brandon (FA)",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "182 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1991–12–02",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d5ff"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 6,
+  "Name": "Bledsoe, Eric",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1989–12–09",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d600"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "F",
+  "No": 7,
+  "Name": "Labissière, Skal (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–18",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d601"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Monk, Malik (S)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1998–02–04",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d602"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F",
+  "No": 25,
+  "Name": "Washington, P. J.",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1998–08–23",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d603"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F/C",
+  "No": 13,
+  "Name": "Adebayo, Bam",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–18",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d604"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G",
+  "No": 14,
+  "Name": "Herro, Tyler",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": {
+    "$date": "2000-01-20T00:00:00Z"
+  },
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d605"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Wall, John ",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1990–09–06",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d606"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G",
+  "No": 27,
+  "Name": "Murray, Jamal",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–23",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d607"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F/C",
+  "No": 32,
+  "Name": "Towns, Karl-Anthony",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "248 lb (112 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–15",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d608"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 3,
+  "Name": "Vanderbilt, Jarred",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–03",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d609"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 6,
+  "Name": "Diallo, Hamidou",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "202 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "1998–07–31",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60a"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G/F",
+  "No": 2,
+  "Name": "Gilgeous-Alexander, Shai",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1998–07–12",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60b"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "F/C",
+  "No": 9,
+  "Name": "Noel, Nerlens (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1994–04–10",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60c"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 35,
+  "Name": "Gabriel, Wenyen (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–26",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60d"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Mulder, Mychal",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "184 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1994–06–14",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60e"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F",
+  "No": 54,
+  "Name": "Patterson, Patrick (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1989–03–14",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d60f"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F/C",
+  "No": 3,
+  "Name": "Davis, Anthony",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "253 lb (115 kg)",
+  "DOB (YYYY-MM-DD)": "1993–03–11",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d610"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Rondo, Rajon",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1986–02–22",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d611"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Booker, Devin",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "206 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–30",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d612"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Fox, De'Aaron",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1997–12–20",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d613"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "C",
+  "No": 33,
+  "Name": "Cauley-Stein, Willie",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1993–08–18",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d614"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F",
+  "No": 9,
+  "Name": "Kidd-Gilchrist, Michael (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "232 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–26",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d615"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F",
+  "No": 21,
+  "Name": "Miller, Darius ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1990–03–21",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d616"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G/F",
+  "No": 3,
+  "Name": "Johnson, Keldon",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "211 lb (96 kg)",
+  "DOB (YYYY-MM-DD)": "1999–10–11",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d617"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "F",
+  "No": 41,
+  "Name": "Lyles, Trey ",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "234 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–05",
+  "From": "Kentucky",
+  "School": "University of Kentucky"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d618"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "Bowen, Brian (TW)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1998–10–02",
+  "From": "La Lumiere (IN)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d619"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G",
+  "No": 13,
+  "Name": "Johnson, B. J. (TW, FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–21",
+  "From": "La Salle",
+  "School": "La Salle University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61a"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F",
+  "No": 0,
+  "Name": "Kurucs, Rodions",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "228 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1998–02–05",
+  "From": "Latvia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61b"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F",
+  "No": 42,
+  "Name": "Bertāns, Dāvis (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1992–11–12",
+  "From": "Latvia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61c"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F/C",
+  "No": 18,
+  "Name": "Pasečņiks, Anžejs",
+  "Height": "7 ft 2 in (2.18 m)",
+  "Weight": "229 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–20",
+  "From": "Latvia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61d"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F/C",
+  "No": 6,
+  "Name": "Porziņģis, Kristaps ",
+  "Height": "7 ft 3 in (2.21 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1995–08–02",
+  "From": "Latvia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61e"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "C",
+  "No": 33,
+  "Name": "Gasol, Marc",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1985–01–29",
+  "From": "Lausanne CS (TN)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d61f"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "G",
+  "No": 3,
+  "Name": "McCollum, CJ",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1991–09–19",
+  "From": "Lehigh",
+  "School": "Lehigh University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d620"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 24,
+  "Name": "Mathews, Garrison (TW, FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–24",
+  "From": "Lipscomb",
+  "School": "Lipscomb University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d621"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "C",
+  "No": 17,
+  "Name": "Valančiūnas, Jonas",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–06",
+  "From": "Lithuania",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d622"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 6,
+  "Name": "Tucker, Rayjon",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1997–09–24",
+  "From": "Little Rock",
+  "School": "University of Arkansas at Little Rock"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d623"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 11,
+  "Name": "Ennis, James",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1990–07–01",
+  "From": "Long Beach State",
+  "School": "California State University-Long Beach"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d624"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 6,
+  "Name": "Payton, Elfrid",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1994–02–22",
+  "From": "Louisiana",
+  "School": "University of Louisiana at Lafayette"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d625"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 4,
+  "Name": "Millsap, Paul (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "257 lb (117 kg)",
+  "DOB (YYYY-MM-DD)": "1985–02–10",
+  "From": "Louisiana Tech",
+  "School": "Louisiana Tech University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d626"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Rozier, Terry",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–17",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d627"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F",
+  "No": 26,
+  "Name": "Spalding, Ray (TW)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–11",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d628"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 45,
+  "Name": "Mitchell, Donovan",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–07",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d629"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G/F",
+  "No": 1,
+  "Name": "Lee, Damion",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1992–10–21",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62a"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F/C",
+  "No": 5,
+  "Name": "Harrell, Montrezl (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1994–01–26",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62b"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "C",
+  "No": 14,
+  "Name": "Dieng, Gorgui",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "252 lb (114 kg)",
+  "DOB (YYYY-MM-DD)": "1990–01–18",
+  "From": "Louisville",
+  "School": "University of Louisville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62c"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G",
+  "No": 51,
+  "Name": "Waters, Tremont (TW, FA)",
+  "Height": "5 ft 10 in (1.78 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1998–01–10",
+  "From": "LSU",
+  "School": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62d"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G/F",
+  "No": 17,
+  "Name": "Temple, Garrett",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1986–05–08",
+  "From": "LSU",
+  "School": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62e"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G/F",
+  "No": 25,
+  "Name": "Simmons, Ben",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1996–07–20",
+  "From": "LSU",
+  "School": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d62f"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F/C",
+  "No": 11,
+  "Name": "Reid, Naz",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "264 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1999–08–26",
+  "From": "LSU",
+  "School": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d630"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Gray, Josh (TW)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–09",
+  "From": "LSU",
+  "School": "Louisiana State University and Agricultural & Mechanical College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d631"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Matthews, Wesley",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1986–10–14",
+  "From": "Marquette",
+  "School": "Marquette University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d632"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Butler, Jimmy (C)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1989–09–14",
+  "From": "Marquette",
+  "School": "Marquette University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d633"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 99,
+  "Name": "Crowder, Jae",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1990–07–06",
+  "From": "Marquette",
+  "School": "Marquette University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d634"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 95,
+  "Name": "Toscano-Anderson, Juan",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1993–04–10",
+  "From": "Marquette",
+  "School": "Marquette University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d635"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "C",
+  "No": 21,
+  "Name": "Whiteside, Hassan (FA)",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1989–06–13",
+  "From": "Marshall",
+  "School": "Marshall University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d636"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "F/C",
+  "No": 24,
+  "Name": "Fernando, Bruno",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1998–08–15",
+  "From": "Maryland",
+  "School": "University of Maryland-College Park"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d637"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G/F",
+  "No": 3,
+  "Name": "Huerter, Kevin",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1998–08–27",
+  "From": "Maryland",
+  "School": "University of Maryland-College Park"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d638"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 10,
+  "Name": "Layman, Jake",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–07",
+  "From": "Maryland",
+  "School": "University of Maryland-College Park"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d639"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "C",
+  "No": 25,
+  "Name": "Len, Alex",
+  "Height": "7 ft 1 in (2.16 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–16",
+  "From": "Maryland",
+  "School": "University of Maryland-College Park"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63a"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Martin, Jeremiah (TW)",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1996–06–19",
+  "From": "Memphis",
+  "School": "University of Memphis"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63b"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 25,
+  "Name": "Rose, Derrick ",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1988–10–04",
+  "From": "Memphis",
+  "School": "University of Memphis"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63c"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Barton, Will",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "181 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1991–01–06",
+  "From": "Memphis",
+  "School": "University of Memphis"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63d"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F/C",
+  "No": 20,
+  "Name": "Hernandez, Dewan",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1996–12–09",
+  "From": "Miami (FL)",
+  "School": "University of Miami"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63e"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G/F",
+  "No": 6,
+  "Name": "Brown, Bruce",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "202 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "1996–08–15",
+  "From": "Miami (FL)",
+  "School": "University of Miami"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d63f"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G/F",
+  "No": 1,
+  "Name": "Walker, Lonnie",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1998–12–14",
+  "From": "Miami (FL)",
+  "School": "University of Miami"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d640"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Crawford, Jamal  (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1980–03–26",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d641"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G",
+  "No": 22,
+  "Name": "LeVert, Caris",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1994–08–25",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d642"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 17,
+  "Name": "Brazdeikis, Ignas",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "221 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1999–01–08",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d643"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F",
+  "No": 40,
+  "Name": "Robinson, Glenn",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "222 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1994–01–08",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d644"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Wilson, D. J.",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "231 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1996–02–19",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d645"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 55,
+  "Name": "Robinson, Duncan",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1994–04–22",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d646"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "F/C",
+  "No": 21,
+  "Name": "Wagner, Moritz",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1997–04–26",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d647"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Poole, Jordan",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "194 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1999–06–19",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d648"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 32,
+  "Name": "Burke, Trey (FA)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1992–11–12",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d649"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G/F",
+  "No": 11,
+  "Name": "Hardaway, Tim",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1992–03–16",
+  "From": "Michigan",
+  "School": "University of Michigan-Ann Arbor"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64a"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 45,
+  "Name": "Valentine, Denzel (FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–11–16",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64b"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F",
+  "No": 0,
+  "Name": "Bridges, Miles",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1998–03–21",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64c"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G",
+  "No": 14,
+  "Name": "Harris, Gary",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–09–14",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64d"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 23,
+  "Name": "Green, Draymond",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1990–03–04",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64e"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "F/C",
+  "No": 13,
+  "Name": "Jackson, Jaren ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "242 lb (110 kg)",
+  "DOB (YYYY-MM-DD)": "1999–09–15",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d64f"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Forbes, Bryn (FA)",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1993–07–23",
+  "From": "Michigan State",
+  "School": "Michigan State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d650"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G/F",
+  "No": 7,
+  "Name": "Coffey, Amir (TW)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–17",
+  "From": "Minnesota",
+  "School": "University of Minnesota-Twin Cities"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d651"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Davis, Terence",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "201 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1997–05–16",
+  "From": "Mississippi",
+  "School": "University of Mississippi"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d652"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Weatherspoon, Quinndary (TW, FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "207 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–10",
+  "From": "Mississippi State",
+  "School": "Mississippi State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d653"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Porter, Michael",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1998–06–29",
+  "From": "Missouri",
+  "School": "University of Missouri-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d654"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Clarkson, Jordan (FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "194 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1992–06–07",
+  "From": "Missouri",
+  "School": "University of Missouri-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d655"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 9,
+  "Name": "Carroll, DeMarre (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1986–07–27",
+  "From": "Missouri",
+  "School": "University of Missouri-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d656"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "F/C",
+  "No": "–",
+  "Name": "Porter, Jontay ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1999–11–15",
+  "From": "Missouri",
+  "School": "University of Missouri-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d657"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F",
+  "No": 24,
+  "Name": "Johnson, Alize",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "212 lb (96 kg)",
+  "DOB (YYYY-MM-DD)": "1996–04–22",
+  "From": "Missouri State",
+  "School": "Missouri Southern State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d658"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Payne, Cameron",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "183 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1994–08–08",
+  "From": "Murray State",
+  "School": "Murray State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d659"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 12,
+  "Name": "Morant, Ja",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "174 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1999–08–10",
+  "From": "Murray State",
+  "School": "Murray State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65a"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Roby, Isaiah ",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1998–02–03",
+  "From": "Nebraska",
+  "School": "University of Nebraska-Lincoln"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65b"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F",
+  "No": 10,
+  "Name": "Martin, Caleb",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–28",
+  "From": "Nevada",
+  "School": "University of Nevada-Reno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65c"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F",
+  "No": 11,
+  "Name": "Martin, Cody",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–28",
+  "From": "Nevada",
+  "School": "University of Nevada-Reno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65d"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "C",
+  "No": 7,
+  "Name": "McGee, JaVale",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "270 lb (122 kg)",
+  "DOB (YYYY-MM-DD)": "1988–01–19",
+  "From": "Nevada",
+  "School": "University of Nevada-Reno"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65e"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 17,
+  "Name": "Snell, Tony",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "213 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1991–11–10",
+  "From": "New Mexico",
+  "School": "University of New Mexico-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d65f"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F",
+  "No": 43,
+  "Name": "Siakam, Pascal",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1994–04–02",
+  "From": "New Mexico State",
+  "School": "New Mexico State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d660"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F/C",
+  "No": 9,
+  "Name": "O'Quinn, Kyle",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1990–03–26",
+  "From": "Norfolk State",
+  "School": "Norfolk State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d661"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G/F",
+  "No": 25,
+  "Name": "Bullock, Reggie",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1991–03–16",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d662"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Ellington, Wayne",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "207 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "1987–11–29",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d663"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G/F",
+  "No": "–",
+  "Name": "Pinson, Theo",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "212 lb (96 kg)",
+  "DOB (YYYY-MM-DD)": "1995–11–05",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d664"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 0,
+  "Name": "White, Coby",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "2000–02–16",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d665"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F/C",
+  "No": 31,
+  "Name": "Henson, John (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1990–12–28",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d666"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Williams, Marvin",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "237 lb (108 kg)",
+  "DOB (YYYY-MM-DD)": "1986–06–19",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d667"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 9,
+  "Name": "Little, Nassir",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "2000–02–11",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d668"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F/C",
+  "No": 13,
+  "Name": "Bradley, Tony",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "248 lb (112 kg)",
+  "DOB (YYYY-MM-DD)": "1998–01–08",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d669"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "F/C",
+  "No": 17,
+  "Name": "Davis, Ed",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "218 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1989–06–05",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66a"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G/F",
+  "No": 14,
+  "Name": "Green, Danny",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1987–06–22",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66b"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F",
+  "No": 23,
+  "Name": "Johnson, Cameron",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–03",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66c"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F",
+  "No": 40,
+  "Name": "Barnes, Harrison",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–30",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66d"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F",
+  "No": 44,
+  "Name": "Jackson, Justin",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1995–03–28",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66e"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "C",
+  "No": 45,
+  "Name": "Zeller, Tyler",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1990–01–17",
+  "From": "North Carolina",
+  "School": "University of North Carolina at Chapel Hill"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d66f"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Smith, Dennis",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1997–11–25",
+  "From": "North Carolina State",
+  "School": "North Carolina State University at Raleigh"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d670"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Warren, T. J.",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–05",
+  "From": "North Carolina State",
+  "School": "North Carolina State University at Raleigh"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d671"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Barea, J. J. (FA)",
+  "Height": "5 ft 10 in (1.78 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1984–06–26",
+  "From": "Northeastern",
+  "School": "Northeastern University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d672"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 23,
+  "Name": "Law, Vic (TW, FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–19",
+  "From": "Northwestern",
+  "School": "Northwest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d673"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 24,
+  "Name": "Connaughton, Pat",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1993–01–06",
+  "From": "Notre Dame",
+  "School": "University of Notre Dame"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d674"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 22,
+  "Name": "Grant, Jerian (FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "198 lb (90 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–31",
+  "From": "Notre Dame",
+  "School": "University of Notre Dame"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d675"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G",
+  "No": 25,
+  "Name": "Nunn, Kendrick",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1995–08–03",
+  "From": "Oakland",
+  "School": "Oakland University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d676"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 6,
+  "Name": "Bates-Diop, Keita",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "229 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1996–01–23",
+  "From": "Ohio State",
+  "School": "Ohio State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d677"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Russell, D'Angelo",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "193 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1996–02–23",
+  "From": "Ohio State",
+  "School": "Ohio State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d678"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G/F",
+  "No": 1,
+  "Name": "Turner, Evan",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1988–06–10",
+  "From": "Ohio State",
+  "School": "Ohio State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d679"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 10,
+  "Name": "Conley, Mike",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1987–10–11",
+  "From": "Ohio State",
+  "School": "Ohio State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67a"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F",
+  "No": 23,
+  "Name": "Griffin, Blake ",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1989–03–16",
+  "From": "Oklahoma",
+  "School": "University of Oklahoma-Norman Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67b"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Young, Trae",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1998–09–19",
+  "From": "Oklahoma",
+  "School": "University of Oklahoma-Norman Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67c"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 24,
+  "Name": "Hield, Buddy",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1992–12–17",
+  "From": "Oklahoma",
+  "School": "University of Oklahoma-Norman Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67d"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G",
+  "No": 36,
+  "Name": "Smart, Marcus",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–06",
+  "From": "Oklahoma State",
+  "School": "Oklahoma State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67e"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 26,
+  "Name": "Bazemore, Kent",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "201 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1989–07–01",
+  "From": "Old Dominion",
+  "School": "Old Dominion University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d67f"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F/C",
+  "No": 7,
+  "Name": "Maker, Thon (FA)",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "221 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–25",
+  "From": "Orangeville Prep (CAN)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d680"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 45,
+  "Name": "Wooten, Kenny (TW)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1998–04–17",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d681"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "F/C",
+  "No": 25,
+  "Name": "Boucher, Chris",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1993–01–11",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d682"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F",
+  "No": "–",
+  "Name": "Bell, Jordan",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "224 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1995–01–07",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d683"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F",
+  "No": 14,
+  "Name": "King, Louis (TW, FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–06",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d684"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G/F",
+  "No": 6,
+  "Name": "Brown, Troy",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–07–28",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d685"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F/C",
+  "No": 10,
+  "Name": "Bol, Bol (TW)",
+  "Height": "7 ft 2 in (2.18 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1999–11–16",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d686"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 24,
+  "Name": "Brooks, Dillon",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1996–01–22",
+  "From": "Oregon",
+  "School": "University of Oregon"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d687"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Payton, Gary (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1992–12–01",
+  "From": "Oregon State",
+  "School": "Oregon State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d688"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "F/C",
+  "No": 14,
+  "Name": "Eubanks, Drew (TW, FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–01",
+  "From": "Oregon State",
+  "School": "Oregon State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d689"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G/F",
+  "No": 23,
+  "Name": "Reaves, Josh (TW, FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1997–06–04",
+  "From": "Penn State",
+  "School": "Pennsylvania State University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68a"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Wanamaker, Brad (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1989–07–25",
+  "From": "Pittsburgh",
+  "School": "University of Pittsburgh-Pittsburgh Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68b"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "C",
+  "No": 12,
+  "Name": "Adams, Steven",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1993–07–20",
+  "From": "Pittsburgh",
+  "School": "University of Pittsburgh-Pittsburgh Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68c"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F",
+  "No": 14,
+  "Name": "Pelle, Norvel",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "231 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1993–02–03",
+  "From": "Price HS (CA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68d"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G",
+  "No": 15,
+  "Name": "Mudiay, Emmanuel (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–05",
+  "From": "Prime Prep Academy (TX)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68e"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G/F",
+  "No": 7,
+  "Name": "Bazley, Darius",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "208 lb (94 kg)",
+  "DOB (YYYY-MM-DD)": "2000–06–12",
+  "From": "Princeton HS (OH)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d68f"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 32,
+  "Name": "Dunn, Kris (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–18",
+  "From": "Providence",
+  "School": "Providence College"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d690"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Edwards, Carsen",
+  "Height": "5 ft 11 in (1.80 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1998–03–12",
+  "From": "Purdue",
+  "School": "Purdue University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d691"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 50,
+  "Name": "Swanigan, Caleb (FA)",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "260 lb (118 kg)",
+  "DOB (YYYY-MM-DD)": "1997–04–18",
+  "From": "Purdue",
+  "School": "Purdue University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d692"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 55,
+  "Name": "Moore, E'Twaun",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "191 lb (87 kg)",
+  "DOB (YYYY-MM-DD)": "1989–02–25",
+  "From": "Purdue",
+  "School": "Purdue University-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d693"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "G/F",
+  "No": 43,
+  "Name": "Green, Javonte ",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1993–07–23",
+  "From": "Radford",
+  "School": "Radford University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d694"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "C",
+  "No": 9,
+  "Name": "Ibaka, Serge",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1989–09–18",
+  "From": "Republic of the Congo",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d695"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "C",
+  "No": 8,
+  "Name": "Biyombo, Bismack (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1992–08–28",
+  "From": "Republic of the Congo",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d696"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G/F",
+  "No": 21,
+  "Name": "Smith, J. R.",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1985–09–09",
+  "From": "Saint Benedict's Prep (NJ)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d697"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Galloway, Langston (FA)",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1991–12–09",
+  "From": "Saint Joseph's",
+  "School": "Saint Joseph's University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d698"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G/F",
+  "No": 95,
+  "Name": "Bembry, DeAndre' (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–07–04",
+  "From": "Saint Joseph's",
+  "School": "Saint Joseph's University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d699"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Brown, Charlie (TW, FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "199 lb (90 kg)",
+  "DOB (YYYY-MM-DD)": "1998–02–02",
+  "From": "Saint Joseph's",
+  "School": "Saint Joseph's University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69a"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G",
+  "No": 18,
+  "Name": "Dellavedova, Matthew",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1990–09–08",
+  "From": "Saint Mary's",
+  "School": "Saint Mary's College of California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69b"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 8,
+  "Name": "Mills, Patty",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1988–08–11",
+  "From": "Saint Mary's",
+  "School": "Saint Mary's College of California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69c"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F/C",
+  "No": 6,
+  "Name": "McDaniels, Jalen",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1998–01–31",
+  "From": "San Diego State",
+  "School": "San Diego State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69d"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "F",
+  "No": 2,
+  "Name": "Leonard, Kawhi",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1991–06–29",
+  "From": "San Diego State",
+  "School": "San Diego State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69e"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "C",
+  "No": 15,
+  "Name": "Jokić, Nikola (C)",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "284 lb (129 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–19",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d69f"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 6,
+  "Name": "Smailagić, Alen",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "2000–08–18",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a0"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "F",
+  "No": 88,
+  "Name": "Bjelica, Nemanja",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "234 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "1988–05–09",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a1"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 8,
+  "Name": "Bogdanović, Bogdan",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1992–08–18",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a2"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "C",
+  "No": 51,
+  "Name": "Marjanović, Boban",
+  "Height": "7 ft 4 in (2.24 m)",
+  "Weight": "290 lb (132 kg)",
+  "DOB (YYYY-MM-DD)": "1988–08–15",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a3"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 23,
+  "Name": "Gudurić, Marko",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "201 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1995–03–08",
+  "From": "Serbia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a4"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G",
+  "No": 7,
+  "Name": "Dragić, Goran",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1986–05–06",
+  "From": "Slovenia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a5"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 31,
+  "Name": "Čančar, Vlatko",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "236 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1997–04–10",
+  "From": "Slovenia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a6"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G/F",
+  "No": 77,
+  "Name": "Dončić, Luka",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1999–02–28",
+  "From": "Slovenia",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a7"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F",
+  "No": 37,
+  "Name": "Ojeleye, Semi",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1994–12–05",
+  "From": "SMU",
+  "School": "Southern Methodist University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a8"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G/F",
+  "No": 18,
+  "Name": "Milton, Shake",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–26",
+  "From": "SMU",
+  "School": "Southern Methodist University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6a9"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G/F",
+  "No": 23,
+  "Name": "Brown, Sterling",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–10",
+  "From": "SMU",
+  "School": "Southern Methodist University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6aa"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 30,
+  "Name": "Silva, Chris",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "234 lb (106 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–19",
+  "From": "South Carolina",
+  "School": "University of South Carolina-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ab"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G/F",
+  "No": 35,
+  "Name": "Dozier, PJ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–25",
+  "From": "South Carolina",
+  "School": "University of South Carolina-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ac"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 12,
+  "Name": "Thornwell, Sindarius",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1994–11–15",
+  "From": "South Carolina",
+  "School": "University of South Carolina-Columbia"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ad"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G",
+  "No": 23,
+  "Name": "Williams, Lou",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1986–10–27",
+  "From": "South Gwinnett HS (GA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ae"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Cleveland, Antonius (TW, FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1994–02–02",
+  "From": "Southeast Missouri State",
+  "School": "Southeast Missouri State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6af"
+  },
+  "Team": "New York Knicks",
+  "Pos": "F",
+  "No": 67,
+  "Name": "Gibson, Taj",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "232 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1985–06–24",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b0"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G/F",
+  "No": 4,
+  "Name": "Porter, Kevin ",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "203 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "2000–05–04",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b1"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "C",
+  "No": 14,
+  "Name": "Dedmon, Dewayne",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1989–08–12",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b2"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "C",
+  "No": 9,
+  "Name": "Vučević, Nikola",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "260 lb (118 kg)",
+  "DOB (YYYY-MM-DD)": "1990–10–24",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b3"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G",
+  "No": 6,
+  "Name": "McLaughlin, Jordan (TW)",
+  "Height": "5 ft 11 in (1.80 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1996–04–09",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b4"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Melton, De'Anthony",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1998–05–28",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b5"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "DeRozan, DeMar",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1989–08–07",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b6"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "F/C",
+  "No": 7,
+  "Name": "Metu, Chimezie",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–22",
+  "From": "Southern California",
+  "School": "University of Southern California"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b7"
+  },
+  "Team": "Charlotte Hornets",
+  "Pos": "F/C",
+  "No": 9,
+  "Name": "Hernangómez, Willy (FA)",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1994–05–27",
+  "From": "Spain",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b8"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 41,
+  "Name": "Hernangómez, Juan",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–28",
+  "From": "Spain",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6b9"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Rubio, Ricky",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1990–10–21",
+  "From": "Spain",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ba"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "G",
+  "No": 10,
+  "Name": "Adams, Jaylen (FA)",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1996–05–04",
+  "From": "St. Bonaventure",
+  "School": "St Bonaventure University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6bb"
+  },
+  "Team": "New York Knicks",
+  "Pos": "G/F",
+  "No": 3,
+  "Name": "Harkless, Maurice (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–05–11",
+  "From": "St. John's",
+  "School": "St John's University-New York"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6bc"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G/F",
+  "No": 15,
+  "Name": "Pointer, Sir'Dominic",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "192 lb (87 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–06",
+  "From": "St. John's",
+  "School": "St John's University-New York"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6bd"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F",
+  "No": 14,
+  "Name": "Sampson, JaKarr",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1993–02–20",
+  "From": "St. John's",
+  "School": "St John's University-New York"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6be"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 23,
+  "Name": "James, LeBron",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1984–12–30",
+  "From": "St. Vincent–St. Mary HS (OH)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6bf"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "C",
+  "No": 11,
+  "Name": "Lopez, Brook",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "282 lb (128 kg)",
+  "DOB (YYYY-MM-DD)": "1988–04–01",
+  "From": "Stanford",
+  "School": "Stanford University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c0"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "C",
+  "No": 42,
+  "Name": "Lopez, Robin",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "281 lb (127 kg)",
+  "DOB (YYYY-MM-DD)": "1988–04–01",
+  "From": "Stanford",
+  "School": "Stanford University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c1"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G/F",
+  "No": 4,
+  "Name": "Okpala, KZ",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–04–28",
+  "From": "Stanford",
+  "School": "Stanford University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c2"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "F/C",
+  "No": 7,
+  "Name": "Powell, Dwight ",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–20",
+  "From": "Stanford",
+  "School": "Stanford University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c3"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "C",
+  "No": 39,
+  "Name": "Howard, Dwight",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1985–12–08",
+  "From": "SW Atlanta Academy (GA)",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c4"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "F/C",
+  "No": 17,
+  "Name": "Capela, Clint",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1994–05–18",
+  "From": "Switzerland",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c5"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G/F",
+  "No": 18,
+  "Name": "Sefolosha, Thabo (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1984–05–02",
+  "From": "Switzerland",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c6"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G/F",
+  "No": 12,
+  "Name": "Brissett, Oshae  (TW)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1998–06–20",
+  "From": "Syracuse",
+  "School": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c7"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G",
+  "No": 7,
+  "Name": "Carter-Williams, Michael (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1991–10–10",
+  "From": "Syracuse",
+  "School": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c8"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 9,
+  "Name": "Grant, Jerami",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–12",
+  "From": "Syracuse",
+  "School": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6c9"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 0,
+  "Name": "Anthony, Carmelo (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1984–05–29",
+  "From": "Syracuse",
+  "School": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ca"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 18,
+  "Name": "Waiters, Dion",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1991–12–10",
+  "From": "Syracuse",
+  "School": "Syracuse University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6cb"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G/F",
+  "No": 34,
+  "Name": "Williams, Kenrich",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1994–12–02",
+  "From": "TCU",
+  "School": "Texas Christian University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6cc"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F",
+  "No": 12,
+  "Name": "Williams, Grant",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "236 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1998–11–30",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6cd"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F",
+  "No": 12,
+  "Name": "Harris, Tobias",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "226 lb (103 kg)",
+  "DOB (YYYY-MM-DD)": "1992–07–15",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ce"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Richardson, Josh",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–15",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6cf"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 18,
+  "Name": "Bone, Jordan (TW, FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1997–11–05",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d0"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "G",
+  "No": 52,
+  "Name": "McRae, Jordan (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "179 lb (81 kg)",
+  "DOB (YYYY-MM-DD)": "1991–03–28",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d1"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F/C",
+  "No": 17,
+  "Name": "Alexander, Kyle (TW)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "216 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–21",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d2"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G/F",
+  "No": 1,
+  "Name": "Schofield, Admiral",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "241 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–30",
+  "From": "Tennessee",
+  "School": "The University of Tennessee-Knoxville"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d3"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 33,
+  "Name": "Covington, Robert",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1990–12–14",
+  "From": "Tennessee State",
+  "School": "Tennessee State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d4"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "F",
+  "No": 7,
+  "Name": "Durant, Kevin ",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1988–09–29",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d5"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "C",
+  "No": 31,
+  "Name": "Allen, Jarrett",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "243 lb (110 kg)",
+  "DOB (YYYY-MM-DD)": "1998–04–21",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d6"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F/C",
+  "No": 13,
+  "Name": "Thompson, Tristan",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "254 lb (115 kg)",
+  "DOB (YYYY-MM-DD)": "1991–03–13",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d7"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F/C",
+  "No": 33,
+  "Name": "Turner, Myles",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1996–03–24",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d8"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G",
+  "No": 14,
+  "Name": "Augustin, D. J. (FA)",
+  "Height": "5 ft 11 in (1.80 m)",
+  "Weight": "183 lb (83 kg)",
+  "DOB (YYYY-MM-DD)": "1987–11–10",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6d9"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "C",
+  "No": 5,
+  "Name": "Bamba, Mohamed",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "231 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1998–05–12",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6da"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Bradley, Avery (L)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1990–11–26",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6db"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 9,
+  "Name": "Joseph, Cory",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1991–08–20",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6dc"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 17,
+  "Name": "Tucker, P. J.",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1985–05–05",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6dd"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "F/C",
+  "No": 10,
+  "Name": "Hayes, Jaxson",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "2000–05–23",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6de"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "F/C",
+  "No": 12,
+  "Name": "Aldridge, LaMarcus ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "260 lb (118 kg)",
+  "DOB (YYYY-MM-DD)": "1985–07–19",
+  "From": "Texas",
+  "School": "The University of Texas at Austin"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6df"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "F/C",
+  "No": 44,
+  "Name": "Williams, Robert",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "237 lb (108 kg)",
+  "DOB (YYYY-MM-DD)": "1997–10–17",
+  "From": "Texas A&M",
+  "School": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e0"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "C",
+  "No": 6,
+  "Name": "Jordan, DeAndre ",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "265 lb (120 kg)",
+  "DOB (YYYY-MM-DD)": "1988–07–21",
+  "From": "Texas A&M",
+  "School": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e1"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Middleton, Khris",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "222 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1991–08–12",
+  "From": "Texas A&M",
+  "School": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e2"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Caruso, Alex",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "186 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1994–02–28",
+  "From": "Texas A&M",
+  "School": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e3"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G/F",
+  "No": 4,
+  "Name": "House, Danuel",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1993–06–07",
+  "From": "Texas A&M",
+  "School": "Texas A & M University-College Station"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e4"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Smith, Zhaire",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1999–06–04",
+  "From": "Texas Tech",
+  "School": "Texas Tech University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e5"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G",
+  "No": 31,
+  "Name": "Mooney, Matt (TW)",
+  "Height": "6 ft 2 in (1.88 m)",
+  "Weight": "199 lb (90 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–07",
+  "From": "Texas Tech",
+  "School": "Texas Tech University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e6"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G/F",
+  "No": 23,
+  "Name": "Culver, Jarrett",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1999–02–20",
+  "From": "Texas Tech",
+  "School": "Texas Tech University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e7"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F",
+  "No": 41,
+  "Name": "Owens, Tariq (TW, FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1995–06–30",
+  "From": "Texas Tech",
+  "School": "Texas Tech University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e8"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G/F",
+  "No": 13,
+  "Name": "Reynolds, Cameron (TW)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1995–02–07",
+  "From": "Tulane",
+  "School": "Tulane University of Louisiana"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6e9"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G/F",
+  "No": 35,
+  "Name": "Frazier, Melvin",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1996–08–30",
+  "From": "Tulane",
+  "School": "Tulane University of Louisiana"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ea"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Harrison, Shaquille (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1993–10–06",
+  "From": "Tulsa",
+  "School": "University of Tulsa"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6eb"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G/F",
+  "No": 19,
+  "Name": "Jeffries, DaQuan (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1997–08–30",
+  "From": "Tulsa",
+  "School": "University of Tulsa"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ec"
+  },
+  "Team": "Boston Celtics",
+  "Pos": "C",
+  "No": 11,
+  "Name": "Kanter, Enes",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1992–05–20",
+  "From": "Turkey",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ed"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G/F",
+  "No": 30,
+  "Name": "Korkmaz, Furkan",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "202 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–24",
+  "From": "Turkey",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ee"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F",
+  "No": 16,
+  "Name": "Osman, Cedi",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1995–04–08",
+  "From": "Turkey",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ef"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "F",
+  "No": 7,
+  "Name": "İlyasova, Ersan",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1987–05–15",
+  "From": "Turkey",
+  "School": null
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f0"
+  },
+  "Team": "Miami Heat",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Vincent, Gabe (TW)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1996–06–14",
+  "From": "UC Santa Barbara",
+  "School": "University of California-Santa Barbara"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f1"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 24,
+  "Name": "Powell, Norman",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1993–05–25",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f2"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G/F",
+  "No": 8,
+  "Name": "LaVine, Zach",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1995–03–10",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f3"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F/C",
+  "No": 0,
+  "Name": "Love, Kevin",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "251 lb (114 kg)",
+  "DOB (YYYY-MM-DD)": "1988–09–07",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f4"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Holiday, Aaron",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–30",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f5"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "F",
+  "No": 22,
+  "Name": "Leaf, T. J.",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "222 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1997–04–30",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f6"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 8,
+  "Name": "Ariza, Trevor",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1985–06–30",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f7"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "C",
+  "No": 4,
+  "Name": "Brown, Moses (TW, FA)",
+  "Height": "7 ft 1 in (2.16 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1999–10–13",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f8"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Looney, Kevon ",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "222 lb (101 kg)",
+  "DOB (YYYY-MM-DD)": "1996–02–06",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6f9"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "F",
+  "No": 12,
+  "Name": "Mbah a Moute, Luc (FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1986–09–09",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6fa"
+  },
+  "Team": "Houston Rockets",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Westbrook, Russell",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1988–11–12",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6fb"
+  },
+  "Team": "Memphis Grizzlies",
+  "Pos": "G/F",
+  "No": 1,
+  "Name": "Anderson, Kyle",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1993–09–20",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6fc"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 2,
+  "Name": "Ball, Lonzo",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–10–27",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6fd"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Holiday, Jrue",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1990–06–12",
+  "From": "UCLA",
+  "School": "University of California-Los Angeles"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6fe"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 12,
+  "Name": "Cacok, Devontae (TW)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1996–10–08",
+  "From": "UNC Wilmington",
+  "School": "University of North Carolina Wilmington"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d6ff"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 22,
+  "Name": "McCaw, Patrick ",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "181 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1995–10–25",
+  "From": "UNLV",
+  "School": "University of Nevada-Las Vegas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d700"
+  },
+  "Team": "Detroit Pistons",
+  "Pos": "F",
+  "No": 35,
+  "Name": "Wood, Christian (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "214 lb (97 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–27",
+  "From": "UNLV",
+  "School": "University of Nevada-Las Vegas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d701"
+  },
+  "Team": "Miami Heat",
+  "Pos": "F",
+  "No": 5,
+  "Name": "Jones, Derrick",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "210 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1997–02–15",
+  "From": "UNLV",
+  "School": "University of Nevada-Las Vegas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d702"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "C",
+  "No": 24,
+  "Name": "Birch, Khem",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1992–09–28",
+  "From": "UNLV",
+  "School": "University of Nevada-Las Vegas"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d703"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "F",
+  "No": 3,
+  "Name": "Craig, Torrey (FA)",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "221 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1990–12–19",
+  "From": "USC Upstate",
+  "School": "University of South Carolina-Upstate"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d704"
+  },
+  "Team": "Los Angeles Lakers",
+  "Pos": "F",
+  "No": 0,
+  "Name": "Kuzma, Kyle",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "221 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1995–07–24",
+  "From": "Utah",
+  "School": "University of Utah"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d705"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 55,
+  "Name": "Wright, Delon",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "185 lb (84 kg)",
+  "DOB (YYYY-MM-DD)": "1992–04–26",
+  "From": "Utah",
+  "School": "University of Utah"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d706"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "C",
+  "No": 25,
+  "Name": "Pöltl, Jakob (FA)",
+  "Height": "7 ft 1 in (2.16 m)",
+  "Weight": "230 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1995–10–15",
+  "From": "Utah",
+  "School": "University of Utah"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d707"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G/F",
+  "No": 45,
+  "Name": "Broekhoff, Ryan",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1991–07–23",
+  "From": "Valparaiso",
+  "School": "Valparaiso University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d708"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "F/C",
+  "No": 2,
+  "Name": "Kornet, Luke",
+  "Height": "7 ft 2 in (2.18 m)",
+  "Weight": "250 lb (113 kg)",
+  "DOB (YYYY-MM-DD)": "1995–07–15",
+  "From": "Vanderbilt",
+  "School": "Vanderbilt University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d709"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "G",
+  "No": 10,
+  "Name": "Garland, Darius",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "192 lb (87 kg)",
+  "DOB (YYYY-MM-DD)": "2000–01–26",
+  "From": "Vanderbilt",
+  "School": "Vanderbilt University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70a"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "C",
+  "No": 30,
+  "Name": "Jones, Damian (FA)",
+  "Height": "6 ft 11 in (2.11 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1995–06–30",
+  "From": "Vanderbilt",
+  "School": "Vanderbilt University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70b"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 7,
+  "Name": "Lowry, Kyle",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "196 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1986–03–25",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70c"
+  },
+  "Team": "Chicago Bulls",
+  "Pos": "G",
+  "No": 51,
+  "Name": "Arcidiacono, Ryan",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1994–03–26",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70d"
+  },
+  "Team": "Milwaukee Bucks",
+  "Pos": "G",
+  "No": 0,
+  "Name": "DiVincenzo, Donte",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "203 lb (92 kg)",
+  "DOB (YYYY-MM-DD)": "1997–01–31",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70e"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 14,
+  "Name": "Spellman, Omari",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–21",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d70f"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 7,
+  "Name": "Paschall, Eric",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "255 lb (116 kg)",
+  "DOB (YYYY-MM-DD)": "1996–11–04",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d710"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F",
+  "No": 25,
+  "Name": "Bridges, Mikal",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1996–08–30",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d711"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 13,
+  "Name": "Brunson, Jalen ",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1996–08–31",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d712"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Hart, Josh",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1995–03–06",
+  "From": "Villanova",
+  "School": "Villanova University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d713"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "Anderson, Justin (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "231 lb (105 kg)",
+  "DOB (YYYY-MM-DD)": "1993–11–19",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d714"
+  },
+  "Team": "Brooklyn Nets",
+  "Pos": "G/F",
+  "No": 12,
+  "Name": "Harris, Joe (FA)",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1991–09–07",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d715"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "F",
+  "No": 1,
+  "Name": "Scott, Mike",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "237 lb (108 kg)",
+  "DOB (YYYY-MM-DD)": "1988–07–16",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d716"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 7,
+  "Name": "Brogdon, Malcolm",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "229 lb (104 kg)",
+  "DOB (YYYY-MM-DD)": "1992–12–11",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d717"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G/F",
+  "No": 12,
+  "Name": "Hunter, De'Andre",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "225 lb (102 kg)",
+  "DOB (YYYY-MM-DD)": "1997–12–02",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d718"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 14,
+  "Name": "Hall, Devon (TW)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1995–07–07",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d719"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "Jerome, Ty",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–08",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71a"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G",
+  "No": 7,
+  "Name": "Guy, Kyle (TW)",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "167 lb (76 kg)",
+  "DOB (YYYY-MM-DD)": "1997–08–11",
+  "From": "Virginia",
+  "School": "University of Virginia-Main Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71b"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G/F",
+  "No": 2,
+  "Name": "Graham, Treveon",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "219 lb (99 kg)",
+  "DOB (YYYY-MM-DD)": "1993–10–28",
+  "From": "Virginia Commonwealth",
+  "School": "Virginia Commonwealth University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71c"
+  },
+  "Team": "Denver Nuggets",
+  "Pos": "G",
+  "No": 30,
+  "Name": "Daniels, Troy (FA)",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1991–06–15",
+  "From": "Virginia Commonwealth",
+  "School": "Virginia Commonwealth University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71d"
+  },
+  "Team": "New Orleans Pelicans",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Alexander-Walker, Nickeil",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "205 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1998–09–02",
+  "From": "Virginia Tech",
+  "School": "Virginia Polytechnic Institute and State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71e"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "F",
+  "No": 20,
+  "Name": "Collins, John",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "235 lb (107 kg)",
+  "DOB (YYYY-MM-DD)": "1997–09–23",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d71f"
+  },
+  "Team": "Atlanta Hawks",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Teague, Jeff (FA)",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1988–06–10",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d720"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "F",
+  "No": 2,
+  "Name": "Aminu, Al-Farouq ",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "220 lb (100 kg)",
+  "DOB (YYYY-MM-DD)": "1990–09–21",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d721"
+  },
+  "Team": "Washington Wizards",
+  "Pos": "G",
+  "No": 14,
+  "Name": "Smith, Ish",
+  "Height": "6 ft 0 in (1.83 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1988–07–05",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d722"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "F",
+  "No": 16,
+  "Name": "Johnson, James",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1987–02–20",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d723"
+  },
+  "Team": "Oklahoma City Thunder",
+  "Pos": "G",
+  "No": 3,
+  "Name": "Paul, Chris",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "175 lb (79 kg)",
+  "DOB (YYYY-MM-DD)": "1985–05–06",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d724"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "F",
+  "No": 6,
+  "Name": "Hoard, Jaylen (TW, FA)",
+  "Height": "6 ft 8 in (2.03 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1999–03–30",
+  "From": "Wake Forest",
+  "School": "Wake Forest University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d725"
+  },
+  "Team": "Philadelphia 76ers",
+  "Pos": "G",
+  "No": 22,
+  "Name": "Thybulle, Matisse",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–04",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d726"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G/F",
+  "No": 8,
+  "Name": "Holiday, Justin",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "180 lb (82 kg)",
+  "DOB (YYYY-MM-DD)": "1989–04–05",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d727"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Fultz, Markelle",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "209 lb (95 kg)",
+  "DOB (YYYY-MM-DD)": "1998–05–29",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d728"
+  },
+  "Team": "Orlando Magic",
+  "Pos": "G/F",
+  "No": 31,
+  "Name": "Ross, Terrence",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "206 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1991–02–05",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d729"
+  },
+  "Team": "Minnesota Timberwolves",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Nowell, Jaylen",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "201 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1999–07–09",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72a"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "F",
+  "No": 32,
+  "Name": "Chriss, Marquese",
+  "Height": "6 ft 9 in (2.06 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1997–07–02",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72b"
+  },
+  "Team": "San Antonio Spurs",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Murray, Dejounte",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "170 lb (77 kg)",
+  "DOB (YYYY-MM-DD)": "1996–09–19",
+  "From": "Washington",
+  "School": "University of Washington-Seattle Campus"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72c"
+  },
+  "Team": "Golden State Warriors",
+  "Pos": "G",
+  "No": 11,
+  "Name": "Thompson, Klay ",
+  "Height": "6 ft 6 in (1.98 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1990–02–08",
+  "From": "Washington State",
+  "School": "Washington State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72d"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F/C",
+  "No": 46,
+  "Name": "Baynes, Aron (FA)",
+  "Height": "6 ft 10 in (2.08 m)",
+  "Weight": "260 lb (118 kg)",
+  "DOB (YYYY-MM-DD)": "1986–12–09",
+  "From": "Washington State",
+  "School": "Washington State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72e"
+  },
+  "Team": "Portland Trail Blazers",
+  "Pos": "G",
+  "No": 0,
+  "Name": "Lillard, Damian",
+  "Height": "6 ft 3 in (1.91 m)",
+  "Weight": "195 lb (88 kg)",
+  "DOB (YYYY-MM-DD)": "1990–07–15",
+  "From": "Weber State",
+  "School": "Weber State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d72f"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "G",
+  "No": 4,
+  "Name": "Carter, Jevon (FA)",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "200 lb (91 kg)",
+  "DOB (YYYY-MM-DD)": "1995–09–14",
+  "From": "West Virginia",
+  "School": "West Virginia University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d730"
+  },
+  "Team": "Dallas Mavericks",
+  "Pos": "G",
+  "No": 1,
+  "Name": "Lee, Courtney  (FA)",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "215 lb (98 kg)",
+  "DOB (YYYY-MM-DD)": "1985–10–03",
+  "From": "Western Kentucky",
+  "School": "Western Kentucky University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d731"
+  },
+  "Team": "Toronto Raptors",
+  "Pos": "G",
+  "No": 23,
+  "Name": "VanVleet, Fred",
+  "Height": "6 ft 1 in (1.85 m)",
+  "Weight": "197 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1994–02–25",
+  "From": "Wichita State",
+  "School": "Wichita State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d732"
+  },
+  "Team": "Los Angeles Clippers",
+  "Pos": "G",
+  "No": 20,
+  "Name": "Shamet, Landry ",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–03–13",
+  "From": "Wichita State",
+  "School": "Wichita State University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d733"
+  },
+  "Team": "Phoenix Suns",
+  "Pos": "F/C",
+  "No": 8,
+  "Name": "Kaminsky, Frank",
+  "Height": "7 ft 0 in (2.13 m)",
+  "Weight": "240 lb (109 kg)",
+  "DOB (YYYY-MM-DD)": "1993–04–04",
+  "From": "Wisconsin",
+  "School": "University of Wisconsin-Madison"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d734"
+  },
+  "Team": "Cleveland Cavaliers",
+  "Pos": "F/C",
+  "No": 22,
+  "Name": "Nance, Larry",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "245 lb (111 kg)",
+  "DOB (YYYY-MM-DD)": "1993–01–01",
+  "From": "Wyoming",
+  "School": "University of Wyoming"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d735"
+  },
+  "Team": "Sacramento Kings",
+  "Pos": "G/F",
+  "No": 10,
+  "Name": "James, Justin",
+  "Height": "6 ft 7 in (2.01 m)",
+  "Weight": "190 lb (86 kg)",
+  "DOB (YYYY-MM-DD)": "1997–01–24",
+  "From": "Wyoming",
+  "School": "University of Wyoming"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d736"
+  },
+  "Team": "Indiana Pacers",
+  "Pos": "G",
+  "No": 5,
+  "Name": "Sumner, Edmond",
+  "Height": "6 ft 4 in (1.93 m)",
+  "Weight": "196 lb (89 kg)",
+  "DOB (YYYY-MM-DD)": "1995–12–31",
+  "From": "Xavier",
+  "School": "Xavier University"
+},{
+  "_id": {
+    "$oid": "5f8222f43c1c053f29f2d737"
+  },
+  "Team": "Utah Jazz",
+  "Pos": "G/F",
+  "No": 81,
+  "Name": "Oni, Miye",
+  "Height": "6 ft 5 in (1.96 m)",
+  "Weight": "206 lb (93 kg)",
+  "DOB (YYYY-MM-DD)": "1997–08–04",
+  "From": "Yale",
+  "School": "Yale University"
+}]
