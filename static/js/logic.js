@@ -108,6 +108,28 @@ function chooseColor(NAME){
                 return "green";
         case "Delaware":
                 return "purple";
+        case "Kansas":
+                return "yellow";
+        case "New Mexico":
+                return "yellow";
+        case "Tennessee":
+                return "yellow";
+        case "West Virginia":
+                return "yellow";
+        case "Wyoming":
+                return "yellow";
+        case "Colorado":
+                return "red";
+        case "Ohio":
+                return "red";
+        case "Illinois":
+                return "green";
+        case "Virginia":
+                return "red";
+        case "Wisconsin":
+                return "orange";
+        case "Kentucky":
+                return "purple";
         default:
                 return "black";
     }
