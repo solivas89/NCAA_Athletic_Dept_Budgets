@@ -21,6 +21,6 @@ html {
   background-color: white;
   color: blue;
   font-size: 8px;
-  border: black solid;
+  border: black solid 1px;
   border-radius: 2px;
 }

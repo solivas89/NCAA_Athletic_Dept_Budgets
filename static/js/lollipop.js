@@ -1,7 +1,7 @@
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 30, bottom: 40, left: 100},
-    width = 460 - margin.left - margin.right,
-    height = 510 - margin.top - margin.bottom;
+    width = 500 - margin.left - margin.right,
+    height = 550 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select(".lollipop")
@@ -98,7 +98,7 @@ var circlesGroup = svg.selectAll("mycircle")
 
 // Tooltip
 var toolTip = d3.tip()
-    // .classed('toolTip', true)
+    .attr('class', 'toolTip')
     .offset([15,50])
     .html(d => (`${d.Q2_2019_2020_Delta}%`))
 
