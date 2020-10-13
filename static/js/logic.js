@@ -31,15 +31,85 @@ function chooseColor(NAME){
         case "California":
             return "red";
         case "Arizona":
-            return "green";
-        case "Manhattan":
+            return "blue";
+        case "New York":
             return "orange";
-        case "Queens":
+        case "Oregon":
             return "green";
-        case "Staten Island":
+        case "Texas":
             return "purple";
+        case "Florida":
+                return "red";
+        case "Georgia":
+                return "blue";
+        case "Washington":
+                return "orange";
+        case "Maryland":
+                return "green";
+        case "Michigan":
+                return "purple";
+        case "Iowa":
+                return "red";
+        case "Minnesota":
+                return "blue";
+        case "Utah":
+                return "orange";
+        case "Nebraska":
+                return "green";
+        case "Mississippi":
+                return "purple";
+        case "Montana":
+                return "red";
+        case "Missouri":
+                return "blue";
+        case "Arkansas":
+                return "orange";
+        case "Hawaii":
+                return "green";
+        case "North Carolina":
+                return "purple";
+        case "Alaska":
+                return "red";
+        case "Idaho":
+                return "blue";
+        case "South Carolina":
+                return "orange";
+        case "Alabama":
+                return "green";
+        case "South Dakota":
+                return "purple";
+        case "New Jersey":
+                return "red";
+        case "Pennsylvania":
+                return "blue";
+        case "Indiana":
+                return "orange";
+        case "Vermont":
+                return "green";
+        case "Maine":
+                return "purple";
+        case "Oklahoma":
+                return "red";
+        case "Pennsylvania":
+                return "blue";
+        case "North Dakota":
+                return "orange";
+        case "Louisiana":
+                return "green";
+        case "Nevada":
+                return "purple";
+        case "New Hampshire":
+                return "red";
+        case "Massachusetts":
+                return "blue";
+        case "Rhode Island":
+                return "orange";
+        case "Connecticut":
+                return "green";
+        case "Delaware":
+                return "purple";
         default:
-            return "black";
+                return "black";
     }
 }
 
