@@ -107,9 +107,6 @@ svg.call(toolTip);
 circlesGroup.on('mouseover', d => toolTip.show(d, this))
     .on('mouseout', d=>toolTip.hide(d));
 
-
-
-
 // Change the X coordinates of line and circle
 svg.selectAll("circle")
   .transition()
