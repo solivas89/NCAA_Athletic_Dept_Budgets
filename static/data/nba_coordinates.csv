@@ -1,0 +1,436 @@
+name,team,school,address,latitude,longitude
+"Hall, Donta (FA)",Brooklyn Nets,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-33.2096093
+"Sexton, Collin",Cleveland Cavaliers,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-33.2096093
+"Green, JaMychal",Los Angeles Clippers,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-33.2096093
+"Hollis-Jefferson, Rondae",Toronto Raptors,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Johnson, Stanley",Toronto Raptors,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Markkanen, Lauri",Chicago Bulls,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"McConnell, T. J.",Indiana Pacers,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Simmons, Kobi (TW, FA)",Charlotte Hornets,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Hill, Solomon",Miami Heat,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Iguodala, Andre",Miami Heat,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Gordon, Aaron",Orlando Magic,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Ayton, Deandre",Phoenix Suns,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
+"Dort, Luguentz",Oklahoma City Thunder,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-33.4219437
+"Harden, James",Houston Rockets,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-33.4219437
+"Cheatham, Zylan (TW)",New Orleans Pelicans,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-33.4219437
+"Portis, Bobby",New York Knicks,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-36.0699572
+"Gafford, Daniel",Chicago Bulls,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-36.0699572
+"Beverley, Patrick",Los Angeles Clippers,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-36.0699572
+"Harper, Jared (TW)",New York Knicks,Auburn University,P.O. Box 351 Auburn AL 36849,32.5909562,-32.5909562
+"Prince, Taurean ",Brooklyn Nets,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-31.5447753
+"O''Neale, Royce",Utah Jazz,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-31.5447753
+"Motley, Johnathan (TW, FA)",Los Angeles Clippers,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-31.5447753
+"Windler, Dylan ",Cleveland Cavaliers,Belmont University,1900 Belmont Blvd Nashville TN 37212,36.1336191,-36.1336191
+"Hutchison, Chandler",Chicago Bulls,Boise State University,1910 University Dr Boise ID 83725,43.609316,-43.609316
+"Robinson, Jerome",Washington Wizards,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-42.3355488
+"Bowman, Ky",Golden State Warriors,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-42.3355488
+"Jackson, Reggie (FA)",Los Angeles Clippers,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-42.3355488
+"Dudley, Jared",Los Angeles Lakers,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-42.3355488
+"Holmes, Richaun",Sacramento Kings,Bowling Green State University-Main Campus,220 McFall Ctr Bowling Green OH 43403,41.3754425,-41.3754425
+"Muscala, Mike",Oklahoma City Thunder,Bucknell University,One Dent Drive Lewisburg PA 17837,40.9547722,-40.9547722
+"Hayward, Gordon",Boston Celtics,Butler University,4600 Sunset Ave Indianapolis IN 46208,39.8381669,-39.8381669
+"Martin, Kelan (TW)",Minnesota Timberwolves,Butler University,4600 Sunset Ave Indianapolis IN 46208,39.8381669,-39.8381669
+"Nwaba, David ",Houston Rockets,California Polytechnic State University-San Luis Obispo,1 Grand Ave. San Luis Obispo CA 93407,35.3011339,-35.3011339
+"Brown, Jaylen",Boston Celtics,University of California-Berkeley,200 California Hall Berkeley CA 94720,37.8718399,-37.8718399
+"Clemons, Chris",Houston Rockets,Campbell University,143 Main Street Buies Creek NC 27506,35.4091517,-35.4091517
+"Fall, Tacko (TW, FA)",Boston Celtics,University of Central Florida,4465 Knights Victory Way Orlando FL 32816,28.6082727,-28.6082727
+"Clark, Gary (FA)",Orlando Magic,University of Cincinnati-Main Campus,2624 Clifton Avenue Cincinnati OH 45221,39.1343961,-39.1343961
+"Evans, Jacob",Minnesota Timberwolves,University of Cincinnati-Main Campus,2624 Clifton Avenue Cincinnati OH 45221,39.1343961,-39.1343961
+"Chealey, Joe",Charlotte Hornets,College of Charleston,66 George St Charleston SC 29424,32.7834631,-32.7834631
+"Brantley, Jarrell (TW, FA)",Utah Jazz,College of Charleston,66 George St Charleston SC 29424,32.7834631,-32.7834631
+"Dinwiddie, Spencer ",Brooklyn Nets,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-40.0034965
+"Burks, Alec",Philadelphia 76ers,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-40.0034965
+"Roberson, André (FA)",Oklahoma City Thunder,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-40.0034965
+"White, Derrick",San Antonio Spurs,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-40.0034965
+"Walker, Kemba",Boston Celtics,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+"Drummond, Andre",Cleveland Cavaliers,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+"Lamb, Jeremy",Indiana Pacers,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+"Napier, Shabazz (FA)",Washington Wizards,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+"Gay, Rudy",San Antonio Spurs,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+"Patton, Justin",Detroit Pistons,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
+"Thomas, Khyri",Detroit Pistons,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
+"McDermott, Doug",Indiana Pacers,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
+"Korver, Kyle",Milwaukee Bucks,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
+"Tolliver, Anthony",Memphis Grizzlies,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
+"Curry, Stephen (C)",Golden State Warriors,Davidson College,102 N. Main Street Davidson NC 28035,35.499519,-35.499519
+"Antetokounmpo, Kostas (TW)",Los Angeles Lakers,University of Dayton,300 College Park Dayton OH 45469,39.7394599,-39.7394599
+"Chandler, Wilson  (FA)",Brooklyn Nets,DePaul University,1 E Jackson Blvd Chicago IL 60604,41.8781342,-41.8781342
+"Strus, Max  (TW)",Chicago Bulls,DePaul University,1 E Jackson Blvd Chicago IL 60604,41.8781342,-41.8781342
+"Tatum, Jayson",Boston Celtics,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Irving, Kyrie ",Brooklyn Nets,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Thomas, Lance (FA)",Brooklyn Nets,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Barrett, RJ",New York Knicks,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Carter, Wendell",Chicago Bulls,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Kennard, Luke ",Detroit Pistons,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Reddish, Cam",Atlanta Hawks,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Plumlee, Mason (FA)",Denver Nuggets,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Hood, Rodney ",Portland Trail Blazers,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Trent, Gary",Portland Trail Blazers,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Cook, Quinn",Los Angeles Lakers,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Bagley, Marvin",Sacramento Kings,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Giles, Harry",Sacramento Kings,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Parker, Jabari",Sacramento Kings,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Curry, Seth",Dallas Mavericks,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Rivers, Austin",Houston Rockets,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Allen, Grayson",Memphis Grizzlies,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Jones, Tyus",Memphis Grizzlies,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Winslow, Justise ",Memphis Grizzlies,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Ingram, Brandon",New Orleans Pelicans,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Jackson, Frank",New Orleans Pelicans,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Okafor, Jahlil",New Orleans Pelicans,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Redick, JJ",New Orleans Pelicans,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Williamson, Zion",New Orleans Pelicans,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
+"Chiozza, Chris (TW, FA)",Brooklyn Nets,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Horford, Al",Philadelphia 76ers,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Haslem, Udonis (C)",Miami Heat,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Beal, Bradley ",Washington Wizards,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Noah, Joakim",Los Angeles Clippers,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Brewer, Corey",Sacramento Kings,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Finney-Smith, Dorian",Dallas Mavericks,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Frazier, Michael (TW, FA)",Houston Rockets,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
+"Goodwin, Brandon (FA)",Atlanta Hawks,Florida Gulf Coast University,10501 Fgcu Blvd S Fort Myers FL 33965,26.4616473,-26.4616473
+"Bacon, Dwayne (FA)",Charlotte Hornets,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
+"Isaac, Jonathan ",Orlando Magic,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
+"Beasley, Malik",Minnesota Timberwolves,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
+"Kabengele, Mfiondu",Los Angeles Clippers,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
+"Mann, Terance",Los Angeles Clippers,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
+"Konchar, John (TW)",Memphis Grizzlies,Indiana University-Purdue University-Fort Wayne,2101 E Coliseum Blvd Fort Wayne IN 46805,41.1157605,-41.1157605
+"Johnson, Tyler (FA)",Brooklyn Nets,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-36.8108284
+"Watson, Paul (TW)",Toronto Raptors,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-36.8108284
+"George, Paul",Los Angeles Clippers,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-36.8108284
+"Watanabe, Yuta (TW)",Memphis Grizzlies,George Washington University,2121 I Street  NW Washington DC 20052,38.9009637,-38.9009637
+"Porter, Otto",Chicago Bulls,Georgetown University,37th and O St NW Washington DC 20057,38.9076192,-38.9076192
+"Green, Jeff (FA)",Houston Rockets,Georgetown University,37th and O St NW Washington DC 20057,38.9076192,-38.9076192
+"Claxton, Nicolas ",Brooklyn Nets,University of Georgia,Administration Building Athens GA 30602,33.9562553,-33.9562553
+"Bitadze, Goga",Indiana Pacers,University of Georgia,Administration Building Athens GA 30602,33.9562553,-33.9562553
+"Caldwell-Pope, Kentavious",Los Angeles Lakers,University of Georgia,Administration Building Athens GA 30602,33.9562553,-33.9562553
+"Young, Thaddeus",Chicago Bulls,Georgia Institute of Technology-Main Campus,225 North Ave Atlanta GA 30332,33.7724173,-33.7724173
+"Okogie, Josh",Minnesota Timberwolves,Georgia Institute of Technology-Main Campus,225 North Ave Atlanta GA 30332,33.7724173,-33.7724173
+"Favors, Derrick",New Orleans Pelicans,Georgia Institute of Technology-Main Campus,225 North Ave Atlanta GA 30332,33.7724173,-33.7724173
+"Sabonis, Domantas",Indiana Pacers,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"Olynyk, Kelly",Miami Heat,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"Hachimura, Rui",Washington Wizards,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"Collins, Zach",Portland Trail Blazers,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"Williams-Goss, Nigel",Utah Jazz,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"Clarke, Brandon",Memphis Grizzlies,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
+"McKinnie, Alfonzo",Cleveland Cavaliers,University of Wisconsin-Green Bay,2420 Nicolet Dr Green Bay WI 54311,44.532204,-44.532204
+"Wright-Foreman, Justin (TW, FA)",Utah Jazz,Hofstra University,100 Hofstra University Hempstead NY 11549,40.7166872,-40.7166872
+"Miller, Malcolm",Toronto Raptors,College of the Holy Cross,One College Street Worcester MA 1610,42.2392391,-42.2392391
+"Dotson, Damyean (FA)",New York Knicks,University of Houston,212 E. Cullen Building Houston TX 77204,29.7203176,-29.7203176
+"Leonard, Meyers",Miami Heat,University of Illinois at Urbana-Champaign,601 E John Street Champaign IL 61820,40.1088318,-40.1088318
+"Langford, Romeo ",Boston Celtics,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Anunoby, OG",Toronto Raptors,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Oladipo, Victor",Indiana Pacers,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Zeller, Cody",Charlotte Hornets,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Bryant, Thomas",Washington Wizards,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Vonleh, Noah (FA)",Denver Nuggets,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Morgan, Juwan (FA)",Utah Jazz,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Ferrell, Yogi",Sacramento Kings,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Gordon, Eric ",Houston Rockets,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
+"Uthoff, Jarrod (FA)",Washington Wizards,University of Iowa,101 Jessup Hall Iowa City IA 52242,41.661897,-41.661897
+"Cook, Tyler (TW)",Denver Nuggets,University of Iowa,101 Jessup Hall Iowa City IA 52242,41.661897,-41.661897
+"Shayok, Marial (TW)",Philadelphia 76ers,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Thomas, Matt",Toronto Raptors,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Mitrou-Long, Naz (TW)",Indiana Pacers,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Morris, Monté",Denver Nuggets,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Burton, Deonte",Oklahoma City Thunder,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Nader, Abdel",Oklahoma City Thunder,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Niang, Georges",Utah Jazz,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Horton-Tucker, Talen",Los Angeles Lakers,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
+"Hill, George",Milwaukee Bucks,Indiana University-Purdue University-Indianapolis,425 University Blvd Indianapolis IN 46202,39.7737388,-39.7737388
+"Embiid, Joel",Philadelphia 76ers,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Mykhailiuk, Sviatoslav",Detroit Pistons,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Mason, Frank (TW)",Milwaukee Bucks,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Graham, Devonte",Charlotte Hornets,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Wiggins, Andrew",Golden State Warriors,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Morris, Marcus (FA)",Los Angeles Clippers,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Morris, Markieff",Los Angeles Lakers,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Diallo, Cheick",Phoenix Suns,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Oubre, Kelly ",Phoenix Suns,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"McLemore, Ben",Houston Rockets,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Jackson, Josh",Memphis Grizzlies,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
+"Wade, Dean",Cleveland Cavaliers,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-39.1886244
+"Iwundu, Wes (FA)",Orlando Magic,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-39.1886244
+"McGruder, Rodney",Los Angeles Clippers,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-39.1886244
+"Knox, Kevin",New York Knicks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Randle, Julius",New York Knicks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Knight, Brandon (FA)",Detroit Pistons,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Bledsoe, Eric",Milwaukee Bucks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Labissière, Skal (FA)",Atlanta Hawks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Monk, Malik (S)",Charlotte Hornets,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Washington, P. J.",Charlotte Hornets,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Adebayo, Bam",Miami Heat,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Herro, Tyler",Miami Heat,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Wall, John ",Washington Wizards,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Murray, Jamal",Denver Nuggets,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Towns, Karl-Anthony",Minnesota Timberwolves,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Vanderbilt, Jarred",Minnesota Timberwolves,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Diallo, Hamidou",Oklahoma City Thunder,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Gilgeous-Alexander, Shai",Oklahoma City Thunder,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Noel, Nerlens (FA)",Oklahoma City Thunder,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Gabriel, Wenyen (FA)",Portland Trail Blazers,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Mulder, Mychal",Golden State Warriors,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Patterson, Patrick (FA)",Los Angeles Clippers,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Davis, Anthony",Los Angeles Lakers,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Rondo, Rajon",Los Angeles Lakers,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Booker, Devin",Phoenix Suns,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Fox, De''Aaron",Sacramento Kings,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Cauley-Stein, Willie",Dallas Mavericks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Kidd-Gilchrist, Michael (FA)",Dallas Mavericks,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Miller, Darius ",New Orleans Pelicans,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Johnson, Keldon",San Antonio Spurs,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Lyles, Trey ",San Antonio Spurs,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
+"Johnson, B. J. (TW, FA)",Orlando Magic,La Salle University,1900 W Olney Ave Philadelphia PA 19141,40.0377071,-40.0377071
+"McCollum, CJ",Portland Trail Blazers,Lehigh University,27 Memorial Drive West Bethlehem PA 18015,40.6068348,-40.6068348
+"Mathews, Garrison (TW, FA)",Washington Wizards,Lipscomb University,One University Park Drive Nashville TN 37204,36.105632,-36.105632
+"Tucker, Rayjon",Utah Jazz,University of Arkansas at Little Rock,2801 S University Ave Little Rock AR 72204,34.7257004,-34.7257004
+"Ennis, James",Orlando Magic,California State University-Long Beach,1250 Bellflower Blvd Long Beach CA 90840,33.7826983,-33.7826983
+"Payton, Elfrid",New York Knicks,University of Louisiana at Lafayette,104 University Circle Lafayette LA 70503,30.2324598,-30.2324598
+"Millsap, Paul (FA)",Denver Nuggets,Louisiana Tech University,1310 West Railroad Avenue Ruston LA 71272,32.5281991,-32.5281991
+"Rozier, Terry",Charlotte Hornets,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Spalding, Ray (TW)",Charlotte Hornets,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Mitchell, Donovan",Utah Jazz,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Lee, Damion",Golden State Warriors,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Harrell, Montrezl (FA)",Los Angeles Clippers,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Dieng, Gorgui",Memphis Grizzlies,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
+"Waters, Tremont (TW, FA)",Boston Celtics,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
+"Temple, Garrett",Brooklyn Nets,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
+"Simmons, Ben",Philadelphia 76ers,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
+"Reid, Naz",Minnesota Timberwolves,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
+"Gray, Josh (TW)",New Orleans Pelicans,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
+"Matthews, Wesley",Milwaukee Bucks,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-43.0389659
+"Butler, Jimmy (C)",Miami Heat,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-43.0389659
+"Crowder, Jae",Miami Heat,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-43.0389659
+"Toscano-Anderson, Juan",Golden State Warriors,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-43.0389659
+"Whiteside, Hassan (FA)",Portland Trail Blazers,Marshall University,1 John Marshall Dr Huntington WV 25755,38.4223904,-38.4223904
+"Fernando, Bruno",Atlanta Hawks,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-38.9859963
+"Huerter, Kevin",Atlanta Hawks,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-38.9859963
+"Layman, Jake",Minnesota Timberwolves,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-38.9859963
+"Len, Alex",Sacramento Kings,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-38.9859963
+"Martin, Jeremiah (TW)",Brooklyn Nets,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-35.1158539
+"Rose, Derrick ",Detroit Pistons,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-35.1158539
+"Barton, Will",Denver Nuggets,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-35.1158539
+"Hernandez, Dewan",Toronto Raptors,University of Miami,University of Miami Coral Gables FL 33146,25.7178924,-25.7178924
+"Brown, Bruce",Detroit Pistons,University of Miami,University of Miami Coral Gables FL 33146,25.7178924,-25.7178924
+"Walker, Lonnie",San Antonio Spurs,University of Miami,University of Miami Coral Gables FL 33146,25.7178924,-25.7178924
+"Crawford, Jamal  (FA)",Brooklyn Nets,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"LeVert, Caris",Brooklyn Nets,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Brazdeikis, Ignas",New York Knicks,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Robinson, Glenn",Philadelphia 76ers,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Wilson, D. J.",Milwaukee Bucks,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Robinson, Duncan",Miami Heat,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Wagner, Moritz",Washington Wizards,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Poole, Jordan",Golden State Warriors,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Burke, Trey (FA)",Dallas Mavericks,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Hardaway, Tim",Dallas Mavericks,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
+"Valentine, Denzel (FA)",Chicago Bulls,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Bridges, Miles",Charlotte Hornets,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Harris, Gary",Denver Nuggets,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Green, Draymond",Golden State Warriors,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Jackson, Jaren ",Memphis Grizzlies,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Forbes, Bryn (FA)",San Antonio Spurs,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
+"Coffey, Amir (TW)",Los Angeles Clippers,University of Minnesota-Twin Cities,100 Church Street SE Minneapolis MN 55455,44.9758602,-44.9758602
+"Davis, Terence",Toronto Raptors,University of Mississippi,Oxford  Mississippi University MS 38677,34.3662913,-34.3662913
+"Weatherspoon, Quinndary (TW, FA)",San Antonio Spurs,Mississippi State University,Lee Boulevard Mississippi State MS 39762,33.455202,-33.455202
+"Porter, Michael",Denver Nuggets,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-38.9453385
+"Clarkson, Jordan (FA)",Utah Jazz,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-38.9453385
+"Carroll, DeMarre (FA)",Houston Rockets,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-38.9453385
+"Porter, Jontay ",Memphis Grizzlies,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-38.9453385
+"Johnson, Alize",Indiana Pacers,Missouri Southern State University,3950 E. Newman Road Joplin MO 64801,37.0972414,-37.0972414
+"Payne, Cameron",Phoenix Suns,Murray State University,218 Wells Hall Murray KY 42071,36.6163842,-36.6163842
+"Morant, Ja",Memphis Grizzlies,Murray State University,218 Wells Hall Murray KY 42071,36.6163842,-36.6163842
+"Roby, Isaiah ",Oklahoma City Thunder,University of Nebraska-Lincoln,14th and R St Lincoln NE 68588,40.8175693,-40.8175693
+"Martin, Caleb",Charlotte Hornets,University of Nevada-Reno,North Virginia Street Reno NV 89557,39.5438691,-39.5438691
+"Martin, Cody",Charlotte Hornets,University of Nevada-Reno,North Virginia Street Reno NV 89557,39.5438691,-39.5438691
+"McGee, JaVale",Los Angeles Lakers,University of Nevada-Reno,North Virginia Street Reno NV 89557,39.5438691,-39.5438691
+"Snell, Tony",Detroit Pistons,University of New Mexico-Main Campus,1700 Lomas Blvd NE Albuquerque NM 87106,35.0893968,-35.0893968
+"Siakam, Pascal",Toronto Raptors,New Mexico State University-Main Campus,2850 Weddell Street Las Cruces NM 88003,32.2824831,-32.2824831
+"O''Quinn, Kyle",Philadelphia 76ers,Norfolk State University,700 Park Avenue Norfolk VA 23504,36.8480161,-36.8480161
+"Bullock, Reggie",New York Knicks,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Ellington, Wayne",New York Knicks,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Pinson, Theo",New York Knicks,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"White, Coby",Chicago Bulls,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Henson, John (FA)",Detroit Pistons,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Williams, Marvin",Milwaukee Bucks,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Little, Nassir",Portland Trail Blazers,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Bradley, Tony",Utah Jazz,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Davis, Ed",Utah Jazz,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Green, Danny",Los Angeles Lakers,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Johnson, Cameron",Phoenix Suns,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Barnes, Harrison",Sacramento Kings,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Jackson, Justin",Dallas Mavericks,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Zeller, Tyler",San Antonio Spurs,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
+"Smith, Dennis",New York Knicks,North Carolina State University at Raleigh,2101 Hillsborough Street Raleigh NC 27695,35.7863971,-35.7863971
+"Warren, T. J.",Indiana Pacers,North Carolina State University at Raleigh,2101 Hillsborough Street Raleigh NC 27695,35.7863971,-35.7863971
+"Barea, J. J. (FA)",Dallas Mavericks,Northeastern University,360 Huntington Ave Boston MA 2115,42.3403745,-42.3403745
+"Law, Vic (TW, FA)",Orlando Magic,Northwest University,P.O. Box 579 Kirkland WA 98083,47.7933719,-47.7933719
+"Connaughton, Pat",Milwaukee Bucks,University of Notre Dame,400 Main Building Notre Dame IN 46556,41.703084,-41.703084
+"Grant, Jerian (FA)",Washington Wizards,University of Notre Dame,400 Main Building Notre Dame IN 46556,41.703084,-41.703084
+"Nunn, Kendrick",Miami Heat,Oakland University,201 Meadow Brook Rd Rochester MI 483094451,42.671408,-42.671408
+"Bates-Diop, Keita",Denver Nuggets,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-40.0007775
+"Russell, D''Angelo",Minnesota Timberwolves,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-40.0007775
+"Turner, Evan",Minnesota Timberwolves,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-40.0007775
+"Conley, Mike",Utah Jazz,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-40.0007775
+"Griffin, Blake ",Detroit Pistons,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-35.2085041
+"Young, Trae",Atlanta Hawks,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-35.2085041
+"Hield, Buddy",Sacramento Kings,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-35.2085041
+"Smart, Marcus",Boston Celtics,Oklahoma State University-Main Campus,107 Whitehurst Stillwater OK 74078,36.1219844,-36.1219844
+"Bazemore, Kent",Sacramento Kings,Old Dominion University,5115 Hampton Blvd Norfolk VA 23529,36.8839664,-36.8839664
+"Wooten, Kenny (TW)",New York Knicks,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Boucher, Chris",Toronto Raptors,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Bell, Jordan",Cleveland Cavaliers,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"King, Louis (TW, FA)",Detroit Pistons,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Brown, Troy",Washington Wizards,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Bol, Bol (TW)",Denver Nuggets,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Brooks, Dillon",Memphis Grizzlies,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
+"Payton, Gary (FA)",Washington Wizards,Oregon State University,1500 SW Jefferson Avenue Corvallis OR 97331,44.5639127,-44.5639127
+"Eubanks, Drew (TW, FA)",San Antonio Spurs,Oregon State University,1500 SW Jefferson Avenue Corvallis OR 97331,44.5639127,-44.5639127
+"Reaves, Josh (TW, FA)",Dallas Mavericks,Pennsylvania State University-Main Campus,201 Old Main University Park PA 16802,40.7964727,-40.7964727
+"Wanamaker, Brad (FA)",Boston Celtics,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue Pittsburgh PA 15260,40.44439,-40.44439
+"Adams, Steven",Oklahoma City Thunder,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue Pittsburgh PA 15260,40.44439,-40.44439
+"Dunn, Kris (FA)",Chicago Bulls,Providence College,1 Cunningham Square Providence RI 2918,41.8441035,-41.8441035
+"Edwards, Carsen",Boston Celtics,Purdue University-Main Campus,Hovde Hall of Administration West Lafayette IN 47907,40.4282112,-40.4282112
+"Swanigan, Caleb (FA)",Portland Trail Blazers,Purdue University-Main Campus,Hovde Hall of Administration West Lafayette IN 47907,40.4282112,-40.4282112
+"Moore, E''Twaun",New Orleans Pelicans,Purdue University-Main Campus,Hovde Hall of Administration West Lafayette IN 47907,40.4282112,-40.4282112
+"Green, Javonte ",Boston Celtics,Radford University,801 East Main St. Radford VA 24142,37.1398766,-37.1398766
+"Galloway, Langston (FA)",Detroit Pistons,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-39.995634
+"Bembry, DeAndre'' (FA)",Atlanta Hawks,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-39.995634
+"Brown, Charlie (TW, FA)",Atlanta Hawks,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-39.995634
+"Dellavedova, Matthew",Cleveland Cavaliers,Saint Mary's College of California,1928 Saint Marys Road Moraga CA 94575,37.8414569,-37.8414569
+"Mills, Patty",San Antonio Spurs,Saint Mary's College of California,1928 Saint Marys Road Moraga CA 94575,37.8414569,-37.8414569
+"McDaniels, Jalen",Charlotte Hornets,San Diego State University,5500 Campanile Dr San Diego CA 92182,32.7720012,-32.7720012
+"Leonard, Kawhi",Los Angeles Clippers,San Diego State University,5500 Campanile Dr San Diego CA 92182,32.7720012,-32.7720012
+"Ojeleye, Semi",Boston Celtics,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-32.8449511
+"Milton, Shake",Philadelphia 76ers,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-32.8449511
+"Brown, Sterling",Milwaukee Bucks,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-32.8449511
+"Silva, Chris",Miami Heat,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-33.9937575
+"Dozier, PJ",Denver Nuggets,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-33.9937575
+"Thornwell, Sindarius",New Orleans Pelicans,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-33.9937575
+"Cleveland, Antonius (TW, FA)",Dallas Mavericks,Southeast Missouri State University,One University Plaza  MS3200 Cape Girardeau MO 63701,37.3148783,-37.3148783
+"Gibson, Taj",New York Knicks,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Porter, Kevin ",Cleveland Cavaliers,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Dedmon, Dewayne",Atlanta Hawks,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Vučević, Nikola",Orlando Magic,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"McLaughlin, Jordan (TW)",Minnesota Timberwolves,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Melton, De''Anthony",Memphis Grizzlies,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"DeRozan, DeMar",San Antonio Spurs,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Metu, Chimezie",San Antonio Spurs,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
+"Adams, Jaylen (FA)",Portland Trail Blazers,St Bonaventure University,3261 W. State Road Saint Bonaventure NY 14778,42.0799022,-42.0799022
+"Harkless, Maurice (FA)",New York Knicks,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-40.7247555
+"Pointer, Sir''Dominic",Cleveland Cavaliers,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-40.7247555
+"Sampson, JaKarr",Indiana Pacers,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-40.7247555
+"Lopez, Brook",Milwaukee Bucks,Stanford University,450 Serra Mall Stanford CA 94305,37.4274745,-37.4274745
+"Lopez, Robin",Milwaukee Bucks,Stanford University,450 Serra Mall Stanford CA 94305,37.4274745,-37.4274745
+"Okpala, KZ",Miami Heat,Stanford University,450 Serra Mall Stanford CA 94305,37.4274745,-37.4274745
+"Powell, Dwight ",Dallas Mavericks,Stanford University,450 Serra Mall Stanford CA 94305,37.4274745,-37.4274745
+"Brissett, Oshae  (TW)",Toronto Raptors,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
+"Carter-Williams, Michael (FA)",Orlando Magic,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
+"Grant, Jerami",Denver Nuggets,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
+"Anthony, Carmelo (FA)",Portland Trail Blazers,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
+"Waiters, Dion",Los Angeles Lakers,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
+"Williams, Kenrich",New Orleans Pelicans,Texas Christian University,2800 S University Dr Fort Worth TX 76129,32.709151,-32.709151
+"Williams, Grant",Boston Celtics,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Harris, Tobias",Philadelphia 76ers,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Richardson, Josh",Philadelphia 76ers,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Bone, Jordan (TW, FA)",Detroit Pistons,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"McRae, Jordan (FA)",Detroit Pistons,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Alexander, Kyle (TW)",Miami Heat,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Schofield, Admiral",Washington Wizards,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
+"Covington, Robert",Houston Rockets,Tennessee State University,3500 John A. Merritt Blvd Nashville TN 37209,36.1682397,-36.1682397
+"Durant, Kevin ",Brooklyn Nets,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Allen, Jarrett",Brooklyn Nets,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Thompson, Tristan",Cleveland Cavaliers,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Turner, Myles",Indiana Pacers,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Augustin, D. J. (FA)",Orlando Magic,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Bamba, Mohamed",Orlando Magic,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Bradley, Avery (L)",Los Angeles Lakers,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Joseph, Cory",Sacramento Kings,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Tucker, P. J.",Houston Rockets,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Hayes, Jaxson",New Orleans Pelicans,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Aldridge, LaMarcus ",San Antonio Spurs,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
+"Williams, Robert",Boston Celtics,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
+"Jordan, DeAndre ",Brooklyn Nets,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
+"Middleton, Khris",Milwaukee Bucks,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
+"Caruso, Alex",Los Angeles Lakers,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
+"House, Danuel",Houston Rockets,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
+"Smith, Zhaire",Philadelphia 76ers,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-33.5842591
+"Mooney, Matt (TW)",Cleveland Cavaliers,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-33.5842591
+"Culver, Jarrett",Minnesota Timberwolves,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-33.5842591
+"Owens, Tariq (TW, FA)",Phoenix Suns,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-33.5842591
+"Reynolds, Cameron (TW)",Milwaukee Bucks,Tulane University of Louisiana,6823 St. Charles Avenue New Orleans LA 70118,29.9354099,-29.9354099
+"Frazier, Melvin",Orlando Magic,Tulane University of Louisiana,6823 St. Charles Avenue New Orleans LA 70118,29.9354099,-29.9354099
+"Harrison, Shaquille (FA)",Chicago Bulls,University of Tulsa,800 South Tucker Drive Tulsa OK 74104,36.1492597,-36.1492597
+"Jeffries, DaQuan (TW)",Sacramento Kings,University of Tulsa,800 South Tucker Drive Tulsa OK 74104,36.1492597,-36.1492597
+"Vincent, Gabe (TW)",Miami Heat,University of California-Santa Barbara,5221 Cheadle Hall Santa Barbara CA 93106,34.4139629,-34.4139629
+"Powell, Norman",Toronto Raptors,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"LaVine, Zach",Chicago Bulls,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Love, Kevin",Cleveland Cavaliers,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Holiday, Aaron",Indiana Pacers,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Leaf, T. J.",Indiana Pacers,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Ariza, Trevor",Portland Trail Blazers,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Brown, Moses (TW, FA)",Portland Trail Blazers,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Looney, Kevon ",Golden State Warriors,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Mbah a Moute, Luc (FA)",Houston Rockets,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Westbrook, Russell",Houston Rockets,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Anderson, Kyle",Memphis Grizzlies,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Ball, Lonzo",New Orleans Pelicans,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Holiday, Jrue",New Orleans Pelicans,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
+"Cacok, Devontae (TW)",Los Angeles Lakers,University of North Carolina Wilmington,601 South College Road Wilmington NC 28403,34.2277698,-34.2277698
+"McCaw, Patrick ",Toronto Raptors,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-36.1065217
+"Wood, Christian (FA)",Detroit Pistons,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-36.1065217
+"Jones, Derrick",Miami Heat,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-36.1065217
+"Birch, Khem",Orlando Magic,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-36.1065217
+"Craig, Torrey (FA)",Denver Nuggets,University of South Carolina-Upstate,800 University Way Spartanburg SC 29303,35.003074,-35.003074
+"Kuzma, Kyle",Los Angeles Lakers,University of Utah,201 Presidents Circle  ROOM 201 Salt Lake City UT 84112,40.7650458,-40.7650458
+"Wright, Delon",Dallas Mavericks,University of Utah,201 Presidents Circle  ROOM 201 Salt Lake City UT 84112,40.7650458,-40.7650458
+"Pöltl, Jakob (FA)",San Antonio Spurs,University of Utah,201 Presidents Circle  ROOM 201 Salt Lake City UT 84112,40.7650458,-40.7650458
+"Broekhoff, Ryan",Philadelphia 76ers,Valparaiso University,US Highway 30 and Sturdy Road Valparaiso IN 46383,41.4602103,-41.4602103
+"Kornet, Luke",Chicago Bulls,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-36.1490297
+"Garland, Darius",Cleveland Cavaliers,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-36.1490297
+"Jones, Damian (FA)",Atlanta Hawks,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-36.1490297
+"Lowry, Kyle",Toronto Raptors,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Arcidiacono, Ryan",Chicago Bulls,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"DiVincenzo, Donte",Milwaukee Bucks,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Spellman, Omari",Minnesota Timberwolves,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Paschall, Eric",Golden State Warriors,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Bridges, Mikal",Phoenix Suns,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Brunson, Jalen ",Dallas Mavericks,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Hart, Josh",New Orleans Pelicans,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
+"Anderson, Justin (FA)",Brooklyn Nets,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Harris, Joe (FA)",Brooklyn Nets,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Scott, Mike",Philadelphia 76ers,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Brogdon, Malcolm",Indiana Pacers,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Hunter, De''Andre",Atlanta Hawks,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Hall, Devon (TW)",Oklahoma City Thunder,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Jerome, Ty",Phoenix Suns,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Guy, Kyle (TW)",Sacramento Kings,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+"Graham, Treveon",Atlanta Hawks,Virginia Commonwealth University,910 W Franklin St Richmond VA 23284,37.5496312,-37.5496312
+"Daniels, Troy (FA)",Denver Nuggets,Virginia Commonwealth University,910 W Franklin St Richmond VA 23284,37.5496312,-37.5496312
+"Alexander-Walker, Nickeil",New Orleans Pelicans,Virginia Polytechnic Institute and State University,210 Burruss Hall  800 Drillfield Dr. Blacksburg VA 24061,37.2290053,-37.2290053
+"Collins, John",Atlanta Hawks,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Teague, Jeff (FA)",Atlanta Hawks,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Aminu, Al-Farouq ",Orlando Magic,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Smith, Ish",Washington Wizards,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Johnson, James",Minnesota Timberwolves,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Paul, Chris",Oklahoma City Thunder,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Hoard, Jaylen (TW, FA)",Portland Trail Blazers,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
+"Thybulle, Matisse",Philadelphia 76ers,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Holiday, Justin",Indiana Pacers,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Fultz, Markelle",Orlando Magic,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Ross, Terrence",Orlando Magic,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Nowell, Jaylen",Minnesota Timberwolves,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Chriss, Marquese",Golden State Warriors,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Murray, Dejounte",San Antonio Spurs,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+"Thompson, Klay ",Golden State Warriors,Washington State University,French Administration Building Pullman WA 99164,46.7304151,-46.7304151
+"Baynes, Aron (FA)",Phoenix Suns,Washington State University,French Administration Building Pullman WA 99164,46.7304151,-46.7304151
+"Lillard, Damian",Portland Trail Blazers,Weber State University,3850 Dixon Parkway Dr. Dept. 1031 Ogden UT 84408,41.1932522,-41.1932522
+"Carter, Jevon (FA)",Phoenix Suns,West Virginia University,PO Box 6201 Morgantown WV 26506,39.6480359,-39.6480359
+"Lee, Courtney  (FA)",Dallas Mavericks,Western Kentucky University,1906 College Heights Blvd Bowling Green KY 42101,36.9833474,-36.9833474
+"VanVleet, Fred",Toronto Raptors,Wichita State University,1845 N. Fairmount Wichita KS 67260,37.716465,-37.716465
+"Shamet, Landry ",Los Angeles Clippers,Wichita State University,1845 N. Fairmount Wichita KS 67260,37.716465,-37.716465
+"Kaminsky, Frank",Phoenix Suns,University of Wisconsin-Madison,500 Lincoln Dr Madison WI 53706,43.075486,-43.075486
+"Nance, Larry",Cleveland Cavaliers,University of Wyoming,1000 E University Ave. Laramie WY 82071,41.3139433,-41.3139433
+"James, Justin",Sacramento Kings,University of Wyoming,1000 E University Ave. Laramie WY 82071,41.3139433,-41.3139433
+"Sumner, Edmond",Indiana Pacers,Xavier University,3800 Victory Parkway Cincinnati OH 45207,39.148913,-39.148913
+"Oni, Miye",Utah Jazz,Yale University,2 Whitney Ave. New Haven CT 6520,41.3108107,-41.3108107
