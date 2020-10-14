@@ -1,267 +1,135 @@
 count,school,address,latitude,longitude
 28,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-84.5071374
-28,University of Kentucky,South Limestone Lexington KY 40506,38.0380607,-38.0380607
-24,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-36.0014258
 24,Duke University,103 Allen Bldg Durham NC 27708,36.0014258,-78.9382286
-14,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-35.9132961
 14,University of North Carolina at Chapel Hill,103 South Bldg Cb 9100 Chapel Hill NC 27599,35.9132961,-79.050072
 13,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-118.439277
-13,University of California-Los Angeles,405 Hilgard Ave Los Angeles CA 90095,34.0725988,-34.0725988
-11,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-30.2861062
-11,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-38.958542
 11,The University of Texas at Austin,110 Inner Campus Drive Austin TX 78712,30.2861062,-97.7393634
 11,University of Kansas,Strong Hall  1450 Jayhawk Blvd  Room 230 Lawrence KS 66045,38.958542,-95.2476138
-10,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-42.2758739
 10,University of Michigan-Ann Arbor,503 Thompson Street Ann Arbor MI 48109,42.2758739,-83.7427632
-9,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-39.166111
-9,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-32.2327247
-9,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-110.9508944
 9,Indiana University-Bloomington,107 South Indiana Ave. Bloomington IN 47405,39.166111,-86.5267824
-8,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-29.6494246
-8,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-82.3399209
-8,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-38.0370443
+9,University of Arizona,1401 E University Tucson AZ 85721,32.2327247,-110.9508944
 8,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-75.3444079
-8,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-34.0309703
-8,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-78.5026341
 8,University of Southern California,University Park Los Angeles CA 90089,34.0309703,-118.2789735
+8,University of Virginia-Main Campus,1827 University Avenue Charlottesville VA 22903,38.0370443,-78.5026341
+8,University of Florida,Tigert Hall Gainesville FL 32611,29.6494246,-82.3399209
 8,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-93.6464516
-8,Iowa State University,1750 Beardshear Hall Ames IA 50011,42.0266573,-42.0266573
-8,Villanova University,800 Lancaster Avenue Villanova PA 19085,40.0369846,-40.0369846
-7,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-44.0637862
-7,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-83.9258338
-7,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-36.1348359
-7,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-35.9520732
-7,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-122.3127075
 7,University of Oregon,110 Johnson Hall Eugene OR 97403,44.0637862,-123.0787724
-7,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-47.6565538
+7,The University of Tennessee-Knoxville,527 Andy Holt Tower Knoxville TN 37996,35.9520732,-83.9258338
+7,University of Washington-Seattle Campus,1400 NE Campus Parkway Seattle WA 98195,47.6565538,-122.3127075
 7,Wake Forest University,1834 Wake Forest Road Winston-Salem NC 27106,36.1348359,-80.2708623
-6,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-38.2157954
-6,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-42.7296495
 6,University of Louisville,2301 S 3rd St Louisville KY 40292,38.2157954,-85.7614322
 6,Michigan State University,426 Auditorium Road East Lansing MI 48824,42.7296495,-84.4815268
 6,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-117.4015208
-6,Gonzaga University,E 502 Boone Ave Spokane WA 99258,47.6664473,-47.6664473
-5,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-84.2908283
-5,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-30.4404775
-5,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-72.2498767
-5,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-96.3364772
-5,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-30.6187558
-5,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-30.4150707
 5,Louisiana State University and Agricultural & Mechanical College,156 Thomas Boyd Hall Baton Rouge LA 70803,30.4150707,-91.1791769
-5,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-41.2655878
-5,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-95.9486026
-5,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-41.8088143
+5,Texas A & M University-College Station,JKW Administration Building  Suite 200 College Station TX 77843,30.6187558,-96.3364772
+5,University of Connecticut,352 Mansfield Road Storrs CT 6269,41.8088143,-72.2498767
 5,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-76.138055
-5,Syracuse University,900 South Crouse Ave. Syracuse NY 13244,43.049345,-43.049345
-4,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-105.2677112
-4,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-36.1065217
-4,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-83.0132446
-4,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-92.3282738
-4,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-43.0389659
-4,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-87.9280415
-4,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-42.3355488
-4,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-115.1444487
-4,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-101.8782822
-4,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-33.5842591
-4,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-40.0007775
-4,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-38.9453385
-4,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-71.1684945
-4,Stanford University,450 Serra Mall Stanford CA 94305,37.4400665,-122.1696059
-4,Stanford University,450 Serra Mall Stanford CA 94305,37.4274745,-37.4274745
-4,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-40.0034965
-4,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-38.9859963
+5,Creighton University,2500 California Plaza Omaha NE 68178,41.2655878,-95.9486026
+5,Florida State University,222 S. Copeland Street Tallahassee FL 32306,30.4404775,-84.2908283
 4,University of Maryland-College Park,Main Administration Building College Park MD 20742,38.9859963,-76.9398645
-3,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-97.4456811
-3,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-39.1886244
+4,Stanford University,450 Serra Mall Stanford CA 94305,37.4400665,-122.1696059
+4,Ohio State University-Main Campus,190 N. Oval Mall Columbus OH 43210,40.0007775,-83.0132446
+4,Boston College,140 Commonwealth Avenue Chestnut Hill MA 2467,42.3355488,-71.1684945
+4,Texas Tech University,Broadway and University Avenue Lubbock TX 79409,33.5842591,-101.8782822
+4,University of Colorado Boulder,Regent Drive at Broadway Boulder CO 80309,40.0034965,-105.2677112
+4,Marquette University,1250 W Wisconsin Ave Milwaukee WI 53233,43.0389659,-87.9280415
+4,University of Missouri-Columbia,105 Jesse Hall Columbia MO 65211,38.9453385,-92.3282738
+4,University of Nevada-Las Vegas,4505 S Maryland Pky Las Vegas NV 89154,36.1065217,-115.1444487
 3,University of Utah,201 Presidents Circle  ROOM 201 Salt Lake City UT 84112,40.7650458,-111.8489555
 3,University of Nevada-Reno,North Virginia Street Reno NV 89557,39.5438691,-119.8185305
-3,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-96.7859334
-3,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-33.4219437
-3,Georgia Institute of Technology-Main Campus,225 North Ave Atlanta GA 30332,33.7724173,-33.7724173
-3,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-81.0299186
-3,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-119.7462226
-3,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-89.9311296
-3,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-73.7923154
-3,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-35.1158539
-3,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-96.5810747
-3,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-97.1182662
 3,Purdue University-Main Campus,Hovde Hall of Administration West Lafayette IN 47907,40.4282112,-86.9143951
-3,University of Georgia,Administration Building Athens GA 30602,33.9562553,-83.3740399
-3,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-87.5466476
-3,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-36.1490297
-3,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-33.9937575
-3,University of Georgia,Administration Building Athens GA 30602,33.9562553,-33.9562553
-3,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-39.995634
-3,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-111.9400636
-3,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-36.0699572
-3,University of Nevada-Reno,North Virginia Street Reno NV 89557,39.5438691,-39.5438691
-3,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-36.8108284
-3,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-35.2085041
-3,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-86.802263
-3,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-75.2406137
-3,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-32.8449511
-3,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-94.1769533
 3,University of Miami,University of Miami Coral Gables FL 33146,25.7178924,-80.2746368
-3,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-40.7247555
-3,University of Miami,University of Miami Coral Gables FL 33146,25.7178924,-25.7178924
-3,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-33.2096093
-3,University of Utah,201 Presidents Circle  ROOM 201 Salt Lake City UT 84112,40.7650458,-40.7650458
-3,Purdue University-Main Campus,Hovde Hall of Administration West Lafayette IN 47907,40.4282112,-40.4282112
 3,Georgia Institute of Technology-Main Campus,225 North Ave Atlanta GA 30332,33.7724173,-84.3947916
-3,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-31.5447753
-2,DePaul University,1 E Jackson Blvd Chicago IL 60604,41.8781342,-87.6271172
-2,Tulane University of Louisiana,6823 St. Charles Avenue New Orleans LA 70118,29.9354099,-29.9354099
-2,University of Cincinnati-Main Campus,2624 Clifton Avenue Cincinnati OH 45221,39.1343961,-84.5184317
-2,Virginia Commonwealth University,910 W Franklin St Richmond VA 23284,37.5496312,-37.5496312
-2,Butler University,4600 Sunset Ave Indianapolis IN 46208,39.8381669,-39.8381669
-2,San Diego State University,5500 Campanile Dr San Diego CA 92182,32.7720012,-117.0726966
-2,Butler University,4600 Sunset Ave Indianapolis IN 46208,39.8381669,-86.1705391
-2,University of Iowa,101 Jessup Hall Iowa City IA 52242,41.661897,-91.5364924
-2,University of Cincinnati-Main Campus,2624 Clifton Avenue Cincinnati OH 45221,39.1343961,-39.1343961
-2,University of Notre Dame,400 Main Building Notre Dame IN 46556,41.703084,-41.703084
-2,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue Pittsburgh PA 15260,40.44439,-40.44439
+3,University of Arkansas,Administration Bldg 425 Fayetteville AR 72701,36.0699572,-94.1769533
+3,University of Memphis,Southern Avenue Memphis TN 38152,35.1158539,-89.9311296
+3,University of Georgia,Administration Building Athens GA 30602,33.9562553,-83.3740399
+3,Arizona State University-Tempe,University Drive and Mill Avenue Tempe AZ 85287,33.4219437,-111.9400636
+3,Saint Joseph's University,5600 City Avenue Philadelphia PA 19131,39.995634,-75.2406137
+3,University of Oklahoma-Norman Campus,660 Parrington Oval Norman OK 73019,35.2085041,-97.4456811
+3,The University of Alabama,739 University Blvd Tuscaloosa AL 35487,33.2096093,-87.5466476
+3,Southern Methodist University,6425 Boaz St Dallas TX 75275,32.8449511,-96.7859334
+3,Baylor University,500 Speight Ave. Waco TX 76798,31.5447753,-97.1182662
+3,California State University-Fresno,5241 N Maple Ave Fresno CA 93740,36.8108284,-119.7462226
+3,University of South Carolina-Columbia,Columbia-Campus Columbia SC 29208,33.9937575,-81.0299186
+3,St John's University-New York,8000 Utopia Pky Queens NY 11439,40.7247555,-73.7923154
+3,Kansas State University,919 Mid-Campus Drive  Anderson Hall Manhattan KS 66506,39.1886244,-96.5810747
+3,Vanderbilt University,2101 West End Avenue Nashville TN 37240,36.1490297,-86.802263
 2,North Carolina State University at Raleigh,2101 Hillsborough Street Raleigh NC 27695,35.7863971,-78.6631364
-2,University of Wyoming,1000 E University Ave. Laramie WY 82071,41.3140214,-105.5846008
+2,University of Cincinnati-Main Campus,2624 Clifton Avenue Cincinnati OH 45221,39.1343961,-84.5184317
 2,Wichita State University,1845 N. Fairmount Wichita KS 67260,37.716465,-97.2955956
-2,College of Charleston,66 George St Charleston SC 29424,32.7834631,-32.7834631
-2,Oregon State University,1500 SW Jefferson Avenue Corvallis OR 97331,44.5639127,-44.5639127
-2,Saint Mary's College of California,1928 Saint Marys Road Moraga CA 94575,37.8414569,-37.8414569
-2,North Carolina State University at Raleigh,2101 Hillsborough Street Raleigh NC 27695,35.7863971,-35.7863971
-2,Wichita State University,1845 N. Fairmount Wichita KS 67260,37.716465,-37.716465
-2,DePaul University,1 E Jackson Blvd Chicago IL 60604,41.8781342,-41.8781342
-2,Murray State University,218 Wells Hall Murray KY 42071,36.6163842,-88.3214979
-2,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue Pittsburgh PA 15260,40.44439,-79.9534133
-2,Saint Mary's College of California,1928 Saint Marys Road Moraga CA 94575,37.8414569,-122.1107267
-2,University of Notre Dame,400 Main Building Notre Dame IN 46556,41.703084,-86.2389844
-2,Washington State University,French Administration Building Pullman WA 99164,46.7304151,-46.7304151
-2,Washington State University,French Administration Building Pullman WA 99164,46.7304151,-117.1581928
-2,College of Charleston,66 George St Charleston SC 29424,32.7834631,-79.9372833
-2,University of Tulsa,800 South Tucker Drive Tulsa OK 74104,36.1492597,-95.9465855
-2,San Diego State University,5500 Campanile Dr San Diego CA 92182,32.7720012,-32.7720012
-2,Georgetown University,37th and O St NW Washington DC 20057,38.9076192,-77.0716128
 2,Virginia Commonwealth University,910 W Franklin St Richmond VA 23284,37.5496312,-77.4526597
-2,University of Wyoming,1000 E University Ave. Laramie WY 82071,41.3139433,-41.3139433
-2,Oregon State University,1500 SW Jefferson Avenue Corvallis OR 97331,44.5639127,-123.2747161
-2,Murray State University,218 Wells Hall Murray KY 42071,36.6163842,-36.6163842
-2,University of Iowa,101 Jessup Hall Iowa City IA 52242,41.661897,-41.661897
-2,Georgetown University,37th and O St NW Washington DC 20057,38.9076192,-38.9076192
+2,University of Iowa,101 Jessup Hall Iowa City IA 52242,41.661897,-91.5364924
+2,Saint Mary's College of California,1928 Saint Marys Road Moraga CA 94575,37.8414569,-122.1107267
+2,College of Charleston,66 George St Charleston SC 29424,32.7834631,-79.9372833
 2,Tulane University of Louisiana,6823 St. Charles Avenue New Orleans LA 70118,29.9354099,-90.122739
-2,University of Tulsa,800 South Tucker Drive Tulsa OK 74104,36.1492597,-36.1492597
-1,Norfolk State University,700 Park Avenue Norfolk VA 23504,36.8480161,-76.262085
-1,Tennessee State University,3500 John A. Merritt Blvd Nashville TN 37209,36.1682397,-86.8259623
-1,Indiana University-Purdue University-Fort Wayne,2101 E Coliseum Blvd Fort Wayne IN 46805,41.1157605,-85.1117714
-1,Campbell University,143 Main Street Buies Creek NC 27506,35.4091517,-78.7382773
-1,New Mexico State University-Main Campus,2850 Weddell Street Las Cruces NM 88003,32.2824831,-32.2824831
-1,University of Mississippi,Oxford  Mississippi University MS 38677,34.3662913,-34.3662913
-1,Providence College,1 Cunningham Square Providence RI 2918,41.8441035,-41.8441035
-1,University of South Carolina-Upstate,800 University Way Spartanburg SC 29303,35.003074,-35.003074
-1,University of Houston,212 E. Cullen Building Houston TX 77204,29.7203176,-95.343528
-1,University of Wisconsin-Green Bay,2420 Nicolet Dr Green Bay WI 54311,44.532204,-44.532204
-1,Weber State University,3850 Dixon Parkway Dr. Dept. 1031 Ogden UT 84408,41.1932522,-111.9460552
-1,University of Dayton,300 College Park Dayton OH 45469,39.7394599,-84.1799547
-1,College of the Holy Cross,One College Street Worcester MA 1610,42.2392391,-42.2392391
-1,Providence College,1 Cunningham Square Providence RI 2918,41.8441035,-71.4379605
-1,California State University-Long Beach,1250 Bellflower Blvd Long Beach CA 90840,33.7826983,-118.1223045
-1,Xavier University,3800 Victory Parkway Cincinnati OH 45207,39.148913,-84.4795628
-1,Hofstra University,100 Hofstra University Hempstead NY 11549,40.7166872,-40.7166872
-1,Louisiana Tech University,1310 West Railroad Avenue Ruston LA 71272,32.5281991,-32.5281991
-1,Pennsylvania State University-Main Campus,201 Old Main University Park PA 16802,40.7964727,-40.7964727
-1,University of Nebraska-Lincoln,14th and R St Lincoln NE 68588,40.8175693,-96.7005013
-1,Oakland University,201 Meadow Brook Rd Rochester MI 483094451,42.671408,-83.218935
-1,California State University-Long Beach,1250 Bellflower Blvd Long Beach CA 90840,33.7826983,-33.7826983
-1,University of Houston,212 E. Cullen Building Houston TX 77204,29.7203176,-29.7203176
-1,Valparaiso University,US Highway 30 and Sturdy Road Valparaiso IN 46383,41.4602103,-87.0366594
+2,University of Notre Dame,400 Main Building Notre Dame IN 46556,41.703084,-86.2389844
+2,Washington State University,French Administration Building Pullman WA 99164,46.7304151,-117.1581928
+2,San Diego State University,5500 Campanile Dr San Diego CA 92182,32.7720012,-117.0726966
+2,University of Tulsa,800 South Tucker Drive Tulsa OK 74104,36.1492597,-95.9465855
+2,Oregon State University,1500 SW Jefferson Avenue Corvallis OR 97331,44.5639127,-123.2747161
+2,Murray State University,218 Wells Hall Murray KY 42071,36.6163842,-88.3214979
+2,University of Wyoming,1000 E University Ave. Laramie WY 82071,41.3140214,-105.5846008
+2,Butler University,4600 Sunset Ave Indianapolis IN 46208,39.8381669,-86.1705391
+2,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue Pittsburgh PA 15260,40.44439,-79.9534133
+2,DePaul University,1 E Jackson Blvd Chicago IL 60604,41.8781342,-87.6271172
+2,Georgetown University,37th and O St NW Washington DC 20057,38.9076192,-77.0716128
 1,Radford University,801 East Main St. Radford VA 24142,37.1398766,-80.5510635
-1,Boise State University,1910 University Dr Boise ID 83725,43.609316,-116.2108121
-1,Bucknell University,One Dent Drive Lewisburg PA 17837,40.9547722,-40.9547722
-1,Lipscomb University,One University Park Drive Nashville TN 37204,36.105632,-36.105632
-1,Southeast Missouri State University,One University Plaza  MS3200 Cape Girardeau MO 63701,37.3148783,-89.5280438
-1,University of Illinois at Urbana-Champaign,601 E John Street Champaign IL 61820,40.1088318,-88.2300373
-1,Indiana University-Purdue University-Fort Wayne,2101 E Coliseum Blvd Fort Wayne IN 46805,41.1157605,-41.1157605
-1,Auburn University,P.O. Box 351 Auburn AL 36849,32.5909562,-85.4929785
-1,Yale University,2 Whitney Ave. New Haven CT 6520,41.3108107,-41.3108107
-1,George Washington University,2121 I Street  NW Washington DC 20052,38.9009637,-77.0476606
-1,College of the Holy Cross,One College Street Worcester MA 1610,42.2392391,-71.8079608
-1,University of California-Berkeley,200 California Hall Berkeley CA 94720,37.8718399,-122.2603363
-1,Campbell University,143 Main Street Buies Creek NC 27506,35.4091517,-35.4091517
-1,Texas Christian University,2800 S University Dr Fort Worth TX 76129,32.709151,-97.3593366
-1,Tennessee State University,3500 John A. Merritt Blvd Nashville TN 37209,36.1682397,-36.1682397
-1,Auburn University,P.O. Box 351 Auburn AL 36849,32.5909562,-32.5909562
-1,University of Louisiana at Lafayette,104 University Circle Lafayette LA 70503,30.2324598,-30.2324598
+1,University of New Mexico-Main Campus,1700 Lomas Blvd NE Albuquerque NM 87106,35.0893968,-106.6246758
+1,Valparaiso University,US Highway 30 and Sturdy Road Valparaiso IN 46383,41.4602103,-87.0366594
+1,University of Mississippi,Oxford  Mississippi University MS 38677,34.3662913,-89.5379826
+1,Davidson College,102 N. Main Street Davidson NC 28035,35.499519,-80.847593
+1,New Mexico State University-Main Campus,2850 Weddell Street Las Cruces NM 88003,32.2824831,-106.7529053
+1,Marshall University,1 John Marshall Dr Huntington WV 25755,38.4223904,-82.4289042
+1,Tennessee State University,3500 John A. Merritt Blvd Nashville TN 37209,36.1682397,-86.8259623
+1,University of California-Santa Barbara,5221 Cheadle Hall Santa Barbara CA 93106,34.4139629,-119.848947
+1,Oakland University,201 Meadow Brook Rd Rochester MI 483094451,42.671408,-83.218935
+1,Louisiana Tech University,1310 West Railroad Avenue Ruston LA 71272,32.5281991,-92.6472759
+1,University of Nebraska-Lincoln,14th and R St Lincoln NE 68588,40.8175693,-96.7005013
+1,University of South Carolina-Upstate,800 University Way Spartanburg SC 29303,35.003074,-81.969488
+1,Oklahoma State University-Main Campus,107 Whitehurst Stillwater OK 74078,36.1219844,-97.070567
+1,Old Dominion University,5115 Hampton Blvd Norfolk VA 23529,36.8839664,-76.3039779
+1,Xavier University,3800 Victory Parkway Cincinnati OH 45207,39.148913,-84.4795628
+1,Florida Gulf Coast University,10501 Fgcu Blvd S Fort Myers FL 33965,26.4616473,-81.7715464
+1,University of Wisconsin-Madison,500 Lincoln Dr Madison WI 53706,43.075486,-89.4043511
+1,California State University-Long Beach,1250 Bellflower Blvd Long Beach CA 90840,33.7826983,-118.1223045
+1,Northwest University,P.O. Box 579 Kirkland WA 98083,47.6576921,-122.1924837
+1,Norfolk State University,700 Park Avenue Norfolk VA 23504,36.8480161,-76.262085
+1,Lipscomb University,One University Park Drive Nashville TN 37204,36.105632,-86.79999
+1,University of Arkansas at Little Rock,2801 S University Ave Little Rock AR 72204,34.7257004,-92.340731
+1,Providence College,1 Cunningham Square Providence RI 2918,41.8441035,-71.4379605
+1,Pennsylvania State University-Main Campus,201 Old Main University Park PA 16802,40.7964727,-77.8628163
+1,University of Minnesota-Twin Cities,100 Church Street SE Minneapolis MN 55455,44.9758602,-93.2345109
+1,Indiana University-Purdue University-Indianapolis,425 University Blvd Indianapolis IN 46202,39.7737388,-86.1752156
+1,St Bonaventure University,3261 W. State Road Saint Bonaventure NY 14778,42.0799022,-78.4845212
+1,University of Dayton,300 College Park Dayton OH 45469,39.7394599,-84.1799547
+1,University of North Carolina Wilmington,601 South College Road Wilmington NC 28403,34.2277698,-77.8796689
+1,Weber State University,3850 Dixon Parkway Dr. Dept. 1031 Ogden UT 84408,41.1932522,-111.9460552
+1,University of Houston,212 E. Cullen Building Houston TX 77204,29.7203176,-95.343528
+1,Campbell University,143 Main Street Buies Creek NC 27506,35.4091517,-78.7382773
 1,University of Central Florida,4465 Knights Victory Way Orlando FL 32816,28.6082727,-81.1926631
-1,St Bonaventure University,3261 W. State Road Saint Bonaventure NY 14778,42.0799022,-42.0799022
-1,Weber State University,3850 Dixon Parkway Dr. Dept. 1031 Ogden UT 84408,41.1932522,-41.1932522
+1,Texas Christian University,2800 S University Dr Fort Worth TX 76129,32.709151,-97.3593366
 1,California Polytechnic State University-San Luis Obispo,1 Grand Ave. San Luis Obispo CA 93407,35.3011339,-120.658758
+1,Indiana University-Purdue University-Fort Wayne,2101 E Coliseum Blvd Fort Wayne IN 46805,41.1157605,-85.1117714
+1,University of California-Berkeley,200 California Hall Berkeley CA 94720,37.8718399,-122.2603363
 1,Western Kentucky University,1906 College Heights Blvd Bowling Green KY 42101,36.9833474,-86.4579446
-1,University of New Mexico-Main Campus,1700 Lomas Blvd NE Albuquerque NM 87106,35.0893968,-35.0893968
 1,Bucknell University,One Dent Drive Lewisburg PA 17837,40.9547722,-76.8850759
-1,Western Kentucky University,1906 College Heights Blvd Bowling Green KY 42101,36.9833474,-36.9833474
 1,Northeastern University,360 Huntington Ave Boston MA 2115,42.3403745,-71.0893904
-1,University of North Carolina Wilmington,601 South College Road Wilmington NC 28403,34.2277698,-34.2277698
 1,Mississippi State University,Lee Boulevard Mississippi State MS 39762,33.455202,-88.7882108
 1,Virginia Polytechnic Institute and State University,210 Burruss Hall  800 Drillfield Dr. Blacksburg VA 24061,37.2290053,-80.4236441
-1,University of Minnesota-Twin Cities,100 Church Street SE Minneapolis MN 55455,44.9758602,-44.9758602
-1,Valparaiso University,US Highway 30 and Sturdy Road Valparaiso IN 46383,41.4602103,-41.4602103
-1,University of Central Florida,4465 Knights Victory Way Orlando FL 32816,28.6082727,-28.6082727
-1,University of Arkansas at Little Rock,2801 S University Ave Little Rock AR 72204,34.7257004,-34.7257004
+1,George Washington University,2121 I Street  NW Washington DC 20052,38.9009637,-77.0476606
+1,Auburn University,P.O. Box 351 Auburn AL 36849,32.5909562,-85.4929785
 1,Lehigh University,27 Memorial Drive West Bethlehem PA 18015,40.6068348,-75.3801693
 1,University of Louisiana at Lafayette,104 University Circle Lafayette LA 70503,30.2324598,-92.0323738
 1,West Virginia University,PO Box 6201 Morgantown WV 26506,39.6480359,-79.9697147
+1,Missouri Southern State University,3950 E. Newman Road Joplin MO 64801,37.0972414,-94.4598183
 1,Bowling Green State University-Main Campus,220 McFall Ctr Bowling Green OH 43403,41.3754425,-83.640953
-1,Davidson College,102 N. Main Street Davidson NC 28035,35.499519,-35.499519
-1,West Virginia University,PO Box 6201 Morgantown WV 26506,39.6480359,-39.6480359
+1,University of Illinois at Urbana-Champaign,601 E John Street Champaign IL 61820,40.1088318,-88.2300373
 1,University of Wisconsin-Green Bay,2420 Nicolet Dr Green Bay WI 54311,44.532204,-87.9217003
 1,Belmont University,1900 Belmont Blvd Nashville TN 37212,36.1336191,-86.7939242
 1,Yale University,2 Whitney Ave. New Haven CT 6520,41.3108107,-72.9228177
-1,La Salle University,1900 W Olney Ave Philadelphia PA 19141,40.0377071,-75.1533282
-1,University of Dayton,300 College Park Dayton OH 45469,39.7394599,-39.7394599
-1,La Salle University,1900 W Olney Ave Philadelphia PA 19141,40.0377071,-40.0377071
-1,Belmont University,1900 Belmont Blvd Nashville TN 37212,36.1336191,-36.1336191
-1,University of New Mexico-Main Campus,1700 Lomas Blvd NE Albuquerque NM 87106,35.0893968,-106.6246758
-1,Radford University,801 East Main St. Radford VA 24142,37.1398766,-37.1398766
-1,Florida Gulf Coast University,10501 Fgcu Blvd S Fort Myers FL 33965,26.4616473,-26.4616473
-1,University of Mississippi,Oxford  Mississippi University MS 38677,34.3662913,-89.5379826
-1,Davidson College,102 N. Main Street Davidson NC 28035,35.499519,-80.847593
-1,Southeast Missouri State University,One University Plaza  MS3200 Cape Girardeau MO 63701,37.3148783,-37.3148783
-1,Missouri Southern State University,3950 E. Newman Road Joplin MO 64801,37.0972414,-37.0972414
-1,Marshall University,1 John Marshall Dr Huntington WV 25755,38.4223904,-82.4289042
-1,Old Dominion University,5115 Hampton Blvd Norfolk VA 23529,36.8839664,-36.8839664
-1,Xavier University,3800 Victory Parkway Cincinnati OH 45207,39.148913,-39.148913
-1,Oakland University,201 Meadow Brook Rd Rochester MI 483094451,42.671408,-42.671408
-1,University of South Carolina-Upstate,800 University Way Spartanburg SC 29303,35.003074,-81.969488
-1,George Washington University,2121 I Street  NW Washington DC 20052,38.9009637,-38.9009637
-1,Marshall University,1 John Marshall Dr Huntington WV 25755,38.4223904,-38.4223904
-1,Oklahoma State University-Main Campus,107 Whitehurst Stillwater OK 74078,36.1219844,-97.070567
-1,Northeastern University,360 Huntington Ave Boston MA 2115,42.3403745,-42.3403745
-1,Old Dominion University,5115 Hampton Blvd Norfolk VA 23529,36.8839664,-76.3039779
-1,Indiana University-Purdue University-Indianapolis,425 University Blvd Indianapolis IN 46202,39.7737388,-39.7737388
-1,Virginia Polytechnic Institute and State University,210 Burruss Hall  800 Drillfield Dr. Blacksburg VA 24061,37.2290053,-37.2290053
-1,Florida Gulf Coast University,10501 Fgcu Blvd S Fort Myers FL 33965,26.4616473,-81.7715464
-1,Oklahoma State University-Main Campus,107 Whitehurst Stillwater OK 74078,36.1219844,-36.1219844
-1,Northwest University,P.O. Box 579 Kirkland WA 98083,47.6576921,-122.1924837
-1,University of Wisconsin-Madison,500 Lincoln Dr Madison WI 53706,43.075486,-43.075486
-1,Lipscomb University,One University Park Drive Nashville TN 37204,36.105632,-86.79999
-1,University of Arkansas at Little Rock,2801 S University Ave Little Rock AR 72204,34.7257004,-92.340731
-1,Northwest University,P.O. Box 579 Kirkland WA 98083,47.7933719,-47.7933719
-1,Pennsylvania State University-Main Campus,201 Old Main University Park PA 16802,40.7964727,-77.8628163
-1,University of Nebraska-Lincoln,14th and R St Lincoln NE 68588,40.8175693,-40.8175693
-1,University of Minnesota-Twin Cities,100 Church Street SE Minneapolis MN 55455,44.9758602,-93.2345109
-1,Indiana University-Purdue University-Indianapolis,425 University Blvd Indianapolis IN 46202,39.7737388,-86.1752156
-1,Texas Christian University,2800 S University Dr Fort Worth TX 76129,32.709151,-32.709151
-1,Lehigh University,27 Memorial Drive West Bethlehem PA 18015,40.6068348,-40.6068348
-1,St Bonaventure University,3261 W. State Road Saint Bonaventure NY 14778,42.0799022,-78.4845212
-1,University of North Carolina Wilmington,601 South College Road Wilmington NC 28403,34.2277698,-77.8796689
-1,University of California-Berkeley,200 California Hall Berkeley CA 94720,37.8718399,-37.8718399
-1,University of Illinois at Urbana-Champaign,601 E John Street Champaign IL 61820,40.1088318,-40.1088318
-1,Norfolk State University,700 Park Avenue Norfolk VA 23504,36.8480161,-36.8480161
-1,Bowling Green State University-Main Campus,220 McFall Ctr Bowling Green OH 43403,41.3754425,-41.3754425
-1,Mississippi State University,Lee Boulevard Mississippi State MS 39762,33.455202,-33.455202
 1,Hofstra University,100 Hofstra University Hempstead NY 11549,40.7166872,-73.5993965
-1,New Mexico State University-Main Campus,2850 Weddell Street Las Cruces NM 88003,32.2824831,-106.7529053
-1,Boise State University,1910 University Dr Boise ID 83725,43.609316,-43.609316
-1,University of California-Santa Barbara,5221 Cheadle Hall Santa Barbara CA 93106,34.4139629,-119.848947
-1,Louisiana Tech University,1310 West Railroad Avenue Ruston LA 71272,32.5281991,-92.6472759
-1,University of California-Santa Barbara,5221 Cheadle Hall Santa Barbara CA 93106,34.4139629,-34.4139629
-1,University of Wisconsin-Madison,500 Lincoln Dr Madison WI 53706,43.075486,-89.4043511
-1,California Polytechnic State University-San Luis Obispo,1 Grand Ave. San Luis Obispo CA 93407,35.3011339,-35.3011339
-1,Missouri Southern State University,3950 E. Newman Road Joplin MO 64801,37.0972414,-94.4598183
+1,La Salle University,1900 W Olney Ave Philadelphia PA 19141,40.0377071,-75.1533282
+1,Southeast Missouri State University,One University Plaza  MS3200 Cape Girardeau MO 63701,37.3148783,-89.5280438
+1,Boise State University,1910 University Dr Boise ID 83725,43.609316,-116.2108121
+1,College of the Holy Cross,One College Street Worcester MA 1610,42.2392391,-71.8079608
+0,,,,
