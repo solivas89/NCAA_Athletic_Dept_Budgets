@@ -19,8 +19,8 @@ html {
 
 .toolTip {
   background-color: white;
-  color: blue;
-  font-size: 8px;
+  color: red;
+  font-size: 10px;
   border: black solid 1px;
   border-radius: 2px;
 }

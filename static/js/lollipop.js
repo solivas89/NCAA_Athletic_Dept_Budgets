@@ -31,7 +31,7 @@ svg.append('text')
 // Y axis label
 svg.append('text')
     .attr("transform", "rotate(-90)")
-    .attr('y', 0-margin.left)
+    .attr('y', 0-margin.left-5)
     .attr('x', 0-(height/2))
     .attr('dy', '1em')
     .style('text-anchor', 'middle')
@@ -57,7 +57,7 @@ taxData.sort(function(a, b) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+5])
+  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+2])
   .range([ 0, width]);
 svg.append("g")
   .attr("transform", "translate(0," + (height-50) + ")")
@@ -99,7 +99,7 @@ var circlesGroup = svg.selectAll("mycircle")
 // Tooltip
 var toolTip = d3.tip()
     .attr('class', 'toolTip')
-    .offset([15,50])
+    .offset([10,30])
     .html(d => (`${d.Q2_2019_2020_Delta}%`))
 
 svg.call(toolTip);
