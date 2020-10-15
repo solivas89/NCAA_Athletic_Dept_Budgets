@@ -1,19 +1,24 @@
+var svgWidth = 400;
+var svgHeight = 1000;
+
 // set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 40, left: 100},
-    width = 500 - margin.left - margin.right,
-    height = 550 - margin.top - margin.bottom;
+var margin = {top: 500, right: 30, bottom: 40, left: 100};
+
+var width = svgWidth - margin.left - margin.right;
+var height = svgHeight - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select(".lollipop")
   .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .attr("width", svgWidth)
+    .attr("height", svgHeight)
+
+var chartGroup = svg.append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
 // Title of the chart
-svg.append('text')
+chartGroup.append('text')
     .attr('x', (width/2))
     .attr('y', 0)
     .attr('text-anchor', 'middle')
@@ -22,14 +27,14 @@ svg.append('text')
     .text('Change in Q2 Taxes from 2019 to 2020 (%) ')
 
 // X axis label
-svg.append('text')
+chartGroup.append('text')
     .attr('x', width/2)
     .attr('y', height)
     .style('text-anchor', 'middle')
     .text('Percentage change')
 
 // Y axis label
-svg.append('text')
+chartGroup.append('text')
     .attr("transform", "rotate(-90)")
     .attr('y', 0-margin.left-5)
     .attr('x', 0-(height/2))
@@ -38,7 +43,7 @@ svg.append('text')
     .text('State')
 
 // Read json file
-d3.json("static/data/Tax_Data.json", function(taxData) {
+d3.json("static/data/Tax_Data.json").then(function(taxData) {
     // console.log(taxData)
 
     taxData.forEach(function(data){
@@ -47,38 +52,43 @@ d3.json("static/data/Tax_Data.json", function(taxData) {
         data.Q2_2019 = +data.Q2_2019,
         data.Q1_Q2_2020_Delta = +data.Q1_Q2_2020_Delta,
         data.Q2_2019_2020_Delta = +data.Q2_2019_2020_Delta
-    })
+    });
     // console.log(taxData)
 
 // sort data
-taxData.sort(function(a, b) {
+var sortedData = taxData.sort(function(a, b) {
   return a.Q2_2019_2020_Delta - b.Q2_2019_2020_Delta;
 });
+// console.log(sortedData)
 
 // Add X axis
 var x = d3.scaleLinear()
   .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+2])
   .range([ 0, width]);
-svg.append("g")
+
+var xAxis = chartGroup.append("g")
   .attr("transform", "translate(0," + (height-50) + ")")
   .call(d3.axisBottom(x))
-  .selectAll("text")
-    .attr("transform", "translate(-10,0)rotate(-45)")
-    .style("text-anchor", "end")
+  // .selectAll("text")
+  //   .attr("transform", "translate(-10,0)rotate(-45)")
+  //   .style("text-anchor", "end")
 
 // Y axis
 var y = d3.scaleBand()
   .range([ 0, height-50])
   .domain(taxData.map(function(d) { return d.State; }))
   .padding(1);
-svg.append("g")
+
+var yAxis = chartGroup.append("g")
   .call(d3.axisLeft(y))
 
 // Lines
-var linesGroup = svg.selectAll("myline")
+var linesGroup = chartGroup.selectAll("line")
   .data(taxData)
   .enter()
-  .append("line")
+  .append('g')
+
+var lines = linesGroup.append('line')
     .attr("x1", x(0))
     .attr("x2", x(0))
     .attr("y1", function(d) { return y(d.State); })
@@ -86,10 +96,12 @@ var linesGroup = svg.selectAll("myline")
     .attr("stroke", "grey")
 
 // Circles -> start at X=0
-var circlesGroup = svg.selectAll("mycircle")
+var circlesGroup = chartGroup.selectAll("circle")
   .data(taxData)
   .enter()
-  .append("circle")
+  .append('g')
+
+var circles = circlesGroup.append("circle")
     .attr("cx", x(0) )
     .attr("cy", function(d) { return y(d.State); })
     .attr("r", "3")
@@ -102,18 +114,18 @@ var toolTip = d3.tip()
     .offset([10,30])
     .html(d => (`${d.Q2_2019_2020_Delta}%`))
 
-svg.call(toolTip);
+chartGroup.call(toolTip);
 
 circlesGroup.on('mouseover', d => toolTip.show(d, this))
     .on('mouseout', d=>toolTip.hide(d));
 
 // Change the X coordinates of line and circle
-svg.selectAll("circle")
+chartGroup.selectAll("circle")
   .transition()
   .duration(2000)
   .attr("cx", function(d) { return x(d.Q2_2019_2020_Delta); })
 
-svg.selectAll("line")
+chartGroup.selectAll("line")
   .transition()
   .duration(2000)
   .attr("x1", function(d) { return x(d.Q2_2019_2020_Delta); })

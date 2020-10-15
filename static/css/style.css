@@ -15,6 +15,11 @@
   padding: 10px;
 }
 
+#logo {
+  margin: 0rem;
+  padding: 0px;
+}
+
 .jumbotron {
   background-image: url('/static/images/NCAAchamps.jpg');
   background-repeat: no-repeat;
@@ -27,6 +32,12 @@
   margin: 0px;
   padding: 10px;
   background-color: #007bff; 
+}
+
+#heading {
+  background-color: #2d2e2f; 
+  font-size: 1.5rem;
+  color: whitesmoke;
 }
 
 /* .container {
