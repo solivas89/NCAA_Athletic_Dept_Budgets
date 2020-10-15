@@ -1,11 +1,9 @@
-body {
+/* body {
   padding: 10;
   margin: 10;
-}
+} */
 
-#map,
-body,
-html {
+#map {
   height: 90%;
   width: 90%
 }
@@ -16,6 +14,36 @@ html {
   border: 4px solid black;
   padding: 10px;
 }
+
+#logo {
+  margin: 0rem;
+  padding: 0px;
+}
+
+.jumbotron {
+  background-image: url('/static/images/NCAAchamps.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
+  /* border: black solid 2px; */
+}
+
+.content {
+  margin: 0px;
+  padding: 10px;
+  background-color: #007bff; 
+}
+
+#heading {
+  background-color: #2d2e2f; 
+  font-size: 1.5rem;
+  color: whitesmoke;
+}
+
+/* .container {
+  margin: 0px;
+  padding: 0px;
+} */
 
 .toolTip {
   background-color: white;
