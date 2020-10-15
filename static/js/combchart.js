@@ -1,42 +1,70 @@
+var svgWidth = 500;
+var svgHeight = 500;
+
+var margin = {
+	top: 20,
+	right: 40,
+	bottom: 80,
+	left: 100
+  };
+  
+  var width = svgWidth - margin.left - margin.right;
+  var height = svgHeight - margin.top - margin.bottom;
+  
+  // Create an SVG wrapper, append an SVG group that will hold our chart,
+  // and shift the latter by left and top margins.
+  var svg = d3
+	.select("#combined")
+	.append("svg")
+	.attr("width", svgWidth)
+	.attr("height", svgHeight);
+
+// Append an SVG group
+var chartGroup = svg.append("g")
+  .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
 d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeData){
 	// console.log(collegeData);
 
-	d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
-		// console.log(nbaData.school)
-		// console.log(collegeData)
-		schools = []
-		nbaData.forEach(function(d){
-			// console.log(d.school)
-			schools.push(d.school)
-		});
+	// d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
+	// 	// console.log(nbaData.school)
+	// 	// console.log(collegeData)
+	// 	schools = []
+	// 	nbaData.forEach(function(d){
+	// 		// console.log(d.school)
+	// 		schools.push(d.school)
+	// 	});
 
-		var top10 = schools.slice(0,10)
-		// console.log(top10);
+	// 	var top10 = schools.slice(0,10)
+	// 	// console.log(top10);
 
-		// var filteredData = collegeData.filter(function(d){
-		// 	if(collegeData.institution_name == top10){
-		// 		return d;
-		// 	}
-		// });
+	// 	// var filteredData = collegeData.filter(function(d){
+	// 	// 	if(collegeData.institution_name == top10){
+	// 	// 		return d;
+	// 	// 	}
+	// 	// });
 
-	});
+	// });
 
 	
 	// console.log(filteredData);
 
 	var chart = new CanvasJS.Chart("combined", {
 		animationEnabled: true,
-		theme: "light2",
+		theme: "dark2",
 		title: {
-			text: "NCAA College Athletics"
+			text: "NCAA Basketball and Football",
+			fontSize: 18,
 		},
 		axisX: {
 			labelAngle: 90,
 			title: "Universities",
+			titleFontSize: 14,
 			interval: 1
 		},
 		axisY: {
-			title: "Players"
+			title: "Players",
+			titleFontSize: 14
 		},
 		axisY2: {
 			prefix: "$",
@@ -47,6 +75,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			contentFromatter: function(e){
 				var content = "";
 				for (var i = 0; i<e.entries.length; i++){
+					
+					if (e.entries)
 					content += e.entries[i].dataSeries.name + " " + "<strong>" + e.entries[i].dataPoint.y + "</strong>";
 					content += "<br/>";
 				}
@@ -55,7 +85,10 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 		},
 		legend: {
 			cursor: "pointer",
-			itemclick: toggleDataSeries
+			itemclick: toggleDataSeries,
+			fontSize: 12,
+			fontWeigth: "bold",
+			verticalAlign: "top"
 		},
 		data: [
 		{
