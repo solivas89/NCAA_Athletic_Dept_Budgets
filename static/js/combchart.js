@@ -1,50 +1,25 @@
-var svgWidth = 500;
-var svgHeight = 500;
-
-var margin = {
-	top: 20,
-	right: 40,
-	bottom: 80,
-	left: 100
-  };
-  
-  var width = svgWidth - margin.left - margin.right;
-  var height = svgHeight - margin.top - margin.bottom;
-  
-  // Create an SVG wrapper, append an SVG group that will hold our chart,
-  // and shift the latter by left and top margins.
-  var svg = d3
-	.select("#combined")
-	.append("svg")
-	.attr("width", svgWidth)
-	.attr("height", svgHeight);
-
-// Append an SVG group
-var chartGroup = svg.append("g")
-  .attr("transform", `translate(${margin.left}, ${margin.top})`);
-
 d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeData){
 	// console.log(collegeData);
 
-	// d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
-	// 	// console.log(nbaData.school)
-	// 	// console.log(collegeData)
-	// 	schools = []
-	// 	nbaData.forEach(function(d){
-	// 		// console.log(d.school)
-	// 		schools.push(d.school)
-	// 	});
+	d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
+		// console.log(nbaData.school)
+		// console.log(collegeData)
+		schools = []
+		nbaData.forEach(function(d){
+			// console.log(d.school)
+			schools.push(d.school)
+		});
 
-	// 	var top10 = schools.slice(0,10)
-	// 	// console.log(top10);
+		var top10 = schools.slice(0,10)
+		// console.log(top10);
 
-	// 	// var filteredData = collegeData.filter(function(d){
-	// 	// 	if(collegeData.institution_name == top10){
-	// 	// 		return d;
-	// 	// 	}
-	// 	// });
+		// var filteredData = collegeData.filter(function(d){
+		// 	if(collegeData.institution_name == top10){
+		// 		return d;
+		// 	}
+		// });
 
-	// });
+	});
 
 	
 	// console.log(filteredData);
@@ -60,7 +35,7 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			labelAngle: 90,
 			title: "Universities",
 			titleFontSize: 14,
-			interval: 1
+			interval: 1,
 		},
 		axisY: {
 			title: "Players",
@@ -72,31 +47,28 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 		},
 		toolTip: {
 			shared: true,
-			contentFromatter: function(e){
-				var content = "";
-				for (var i = 0; i<e.entries.length; i++){
-					
-					if (e.entries)
-					content += e.entries[i].dataSeries.name + " " + "<strong>" + e.entries[i].dataPoint.y + "</strong>";
-					content += "<br/>";
-				}
-				return content;
-			}
+			// contentFormatter: function(e){
+			// 	var content = "";
+			// 	for (var i = 0; i < e.entries.length; i++){
+			// 		content += e.entries[i].dataSeries.name + " " + "<strong>" + e.entries[i].dataPoint.y + "</strong>";
+			// 		content += "<br/>";
+			// 	}
+			// 	return content;
+			// }
 		},
 		legend: {
 			cursor: "pointer",
 			itemclick: toggleDataSeries,
 			fontSize: 12,
 			fontWeigth: "bold",
-			verticalAlign: "top"
+			verticalAlign: "top",
 		},
 		data: [
 		{
 			type: "column",
 			name: "Basketball",
 			showInLegend: true,
-			// xValueFormatString: "",
-			yValueFormatString: "##",
+			// yValueFormatString: "##",
 			dataPoints: [
 				{ label: "Kentucky", y: 13 },
 				{ label: "Duke", y: 15 },
@@ -125,7 +97,6 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			name: "Bball Rev",
 			showInLegend: true,
 			axisYType: "secondary",
-		// 	yValueFormatString: "$#,##0",
 			dataPoints: [
 				{ label: "Kentucky", y: 38829651 },
 				{ label: "Duke", y: 35489891 },
@@ -156,7 +127,6 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			markerBorderColor: "white",
 			markerBorderThickness: 2,
 			showInLegend: true,
-		// 	yValueFormatString: "$#,##0",
 			dataPoints: [
 				{ label: "Kentucky", y: 20202558 },
 				{ label: "Duke", y: 22178473 },
@@ -185,7 +155,6 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			name: "Football",
 			visible: false,
 			showInLegend: true,
-			// xValueFormatString: "",
 			yValueFormatString: "##",
 			dataPoints: [
 				{ label: "Kentucky", y: 124 },
@@ -216,7 +185,6 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			visible: false,
 			showInLegend: true,
 			axisYType: "secondary",
-		// 	yValueFormatString: "$#,##0",
 			dataPoints: [
 				{ label: "Kentucky", y: 41366437 },
 				{ label: "Duke", y: 40328603 },
@@ -248,7 +216,6 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 			markerBorderThickness: 2,
 			visible: false,
 			showInLegend: true,
-		// 	yValueFormatString: "$#,##0",
 			dataPoints: [
 				{ label: "Kentucky", y: 31446474 },
 				{ label: "Duke", y: 28806459 },

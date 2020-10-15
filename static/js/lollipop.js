@@ -8,7 +8,7 @@ var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select(".lollipop")
+var svg = d3.select("#lollipop")
   .append("svg")
     .attr("width", svgWidth)
     .attr("height", svgHeight)
