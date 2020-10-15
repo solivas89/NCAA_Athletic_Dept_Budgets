@@ -75,7 +75,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		},
 		{
@@ -103,7 +104,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		}, 
 		{
@@ -131,7 +133,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		},
 		{
@@ -159,7 +162,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		},
 		{
@@ -189,7 +193,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		},
 		{
@@ -219,7 +224,8 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 				{ label: "Miami", y:  15},
 				{ label: "Oklahoma", y:  15},
 				{ label: "Clemson", y:  15},
-				{ label: "Florida State", y:  15}
+				{ label: "Florida State", y:  15},
+				{ label: "Notre Dame", y:  15}
 			]
 		}
 	]
