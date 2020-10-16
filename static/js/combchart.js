@@ -33,17 +33,19 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 		theme: "dark2",
 		title: {
 			text: "NCAA Basketball and Football",
-			fontSize: 18,
+			fontSize: 16,
 		},
 		axisX: {
 			labelAngle: 90,
 			title: "Universities",
 			titleFontSize: 14,
+			labelFontSize: 14,
 			interval: 1,
 		},
 		axisY: {
 			title: "Players",
-			titleFontSize: 14
+			titleFontSize: 14,
+			labelFontSize: 14,
 		},
 		axisY2: {
 			prefix: "$",

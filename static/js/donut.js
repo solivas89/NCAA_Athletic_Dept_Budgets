@@ -1,14 +1,16 @@
 var chart = new CanvasJS.Chart("revenue", {
-	animationEnabled: true,
+    animationEnabled: true,
+    theme: "dark2",
 	title:{
 		text: "Division I - FBS Averages",
-		horizontalAlign: "left"
+        horizontalAlign: "left",
+        fontSize: 16
 	},
 	data: [{
 		type: "doughnut",
 		startAngle: 60,
 		innerRadius: 60,
-		indexLabelFontSize: 17,
+		indexLabelFontSize: 15,
 		indexLabel: "{label} - #percent%",
 		toolTipContent: "<b>{label}:</b> {y} (#percent%)",
 		dataPoints: [
