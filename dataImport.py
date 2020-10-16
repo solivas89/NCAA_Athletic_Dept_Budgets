@@ -29,21 +29,27 @@ def gatherData():
     df10 = pd.read_csv(file10)
 
     Tax_Data = df1.to_dict('records')
-    # Budget_Data = df2.to_dict('records')
-    # NFL_Raw = df3.to_dict('records')
-    
+    Budget_Data = df2.to_dict('records')
+    Nfl_Raw = df3.to_dict('records')
+    Nfl_Coord = df4.to_dict('records')
+    Nba_Raw = df5.to_dict('records')
+    Nba_Coord = df6.to_dict('records')
+    Merged_St_Ct = df7.to_dict('records')
+    Lat_Lng = df8.to_dict('records')
+    FBall_St_Ct = df9.to_dict('records')
+    BBall_St_Ct = df10.to_dict('records')
 
-    # Converting to dictionaries
-    # NCAA_Data["Tax_Data"] = df1
-    # NCAA_Data["College_Budget"] = df2
-    # NCAA_Data["NFL_Raw"] = df3
-    # NCAA_Data["NFL_Coord"] = df4
-    # NCAA_Data["NBA_Raw"] = df5
-    # NCAA_Data["NBA_Coord"] = df6
-    # # NCAA_Data["Merged_St_Ct"] = df7
-    # NCAA_Data["Lat_Lng"] = df8
-    # NCAA_Data["FBall_St_Ct"] = df9
-    # NCAA_Data["BBall_St_Ct"] = df10
+    DataSet = {}
+    DataSet['Tax_Data'] = Tax_Data
+    DataSet['Budget_Data'] = Budget_Data
+    DataSet['Nfl_Raw'] = Nfl_Raw
+    DataSet['Nfl_Coord'] = Nfl_Coord
+    DataSet['Nba_Raw'] = Nba_Raw
+    DataSet['Nba_Coord'] = Nba_Coord
+    DataSet['Merged_St_Ct'] = Merged_St_Ct
+    DataSet['Lat_Lng'] = Lat_Lng
+    DataSet['FBall_St_Ct'] = FBall_St_Ct
+    DataSet['BBall_St_Ct'] = BBall_St_Ct
 
     return Tax_Data
     

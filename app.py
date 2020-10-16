@@ -13,9 +13,7 @@ mongo = PyMongo(app, uri='mongodb://localhost:27017/NCAA_app')
 @app.route('/')
 def home():
 
-    Tax_Data = mongo.db.Tax_Data.find()
-
-    return render_template("index.html", Tax_Data=Tax_Data)
+    return render_template("index.html")
 
 # Route that will trigger the scrape function
 @app.route('/gatherData')
