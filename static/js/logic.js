@@ -4,7 +4,6 @@ var satelliteMap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}
     maxZoom: 18,
     id: "mapbox.satellite",
     accessToken: API_KEY
-​
 });
 ​
 var darkMap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -68,9 +67,6 @@ d3.csv(nbaLink, function(data) {
       }).bindPopup("<h1>" + data[i].school + "</h1> <hr> <h3>Player Count: " + playerCount + "</h3>")
     );
   }
-​
-  // Create a new marker cluster group
-  var basketballMarkers2 = L.markerClusterGroup();
 ​
   d3.csv(nflLink, function(data1) {
     // console.log(data1)

@@ -23,7 +23,7 @@ def gatherData():
     df4 = pd.read_csv(file4)
     df5 = pd.read_csv(file5)
     df6 = pd.read_csv(file6)
-    # df7 = pd.read_csv(file7)
+    df7 = pd.read_csv(file7)
     df8 = pd.read_csv(file8)
     df9 = pd.read_csv(file9)
     df10 = pd.read_csv(file10)
@@ -43,7 +43,7 @@ def gatherData():
     # NCAA_Data["FBall_St_Ct"] = df9
     # NCAA_Data["BBall_St_Ct"] = df10
 
-    return Tax_Data, Budget_Data
+    return Tax_Data
     
 
 

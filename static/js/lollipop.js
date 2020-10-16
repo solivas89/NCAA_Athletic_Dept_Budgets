@@ -1,5 +1,5 @@
 var svgWidth = 400;
-var svgHeight = 500;
+var svgHeight = 550;
 
 // set the dimensions and margins of the graph
 var margin = {top: 25, right: 30, bottom: 40, left: 100};
@@ -12,6 +12,7 @@ var svg = d3.select("#lollipop")
   .append("svg")
     .attr("width", svgWidth)
     .attr("height", svgHeight)
+    .style("background-color", "#343a40")
 
 var chartGroup = svg.append("g")
     .attr("transform",
@@ -22,30 +23,33 @@ chartGroup.append('text')
     .attr('x', (width/2))
     .attr('y', -10)
     .attr('text-anchor', 'middle')
-    .style('font-size', '14px')
+    .style('font-size', '16px')
+    .style("fill", "white")
     .style('font-weight', 'bold')
-    .text('Change in Q2 Taxes from 2019 to 2020 (%) ')
+    .text('Change in Q2 Taxes from 2019 to 2020')
 
 // X axis label
 chartGroup.append('text')
     .attr('x', width/2)
     .attr('y', height)
     .style('text-anchor', 'middle')
+    .style('fill', 'white')
     .text('Percentage change')
 
 // Y axis label
 chartGroup.append('text')
     .attr("transform", "rotate(-90)")
-    .attr('y', 0-margin.left-5)
+    .attr('y', 0-margin.left)
     .attr('x', 0-(height/2))
     .attr('dy', '1em')
     .style('text-anchor', 'middle')
+    .style('fill', 'white')
     .text('State')
 
 // Read json file
-d3.json("static/data/Tax_Data.json").then(function(taxData) {
+d3.json("/TaxData").then(function(taxData) {
     // console.log(taxData)
-
+    
     taxData.forEach(function(data){
         data.Q2_2020 = +data.Q2_2020,
         data.Q1_2020 = +data.Q1_2020,
@@ -63,7 +67,7 @@ var sortedData = taxData.sort(function(a, b) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([d3.min(taxData, d=>d.Q2_2020/10000), d3.max(taxData, d => d.Q2_2019/100000)])
+  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+2])
   .range([ 0, width]);
 
 var xAxis = chartGroup.append("g")
@@ -89,12 +93,12 @@ var linesGroup = chartGroup.selectAll("myline")
   .append('g')
 
 var lines = linesGroup.append('line')
-    .attr("x1", function(d) { return x(d.Q2_2019/000000);})
-    .attr("x2", function(d) { return x(d.Q2_2020/10000000);})
+    .attr("x1", x(0))
+    .attr("x2", x(0))
     .attr("y1", function(d) { return y(d.State); })
     .attr("y2", function(d) { return y(d.State); })
-    .attr("stroke", "black")
-    .attr("stroke-width", "1px")
+    .attr("stroke", "white")
+    .attr("stroke-width", "1px");
 
 // Circles -> start at X=0
 var circlesGroup = chartGroup.selectAll("mycircle")
@@ -103,18 +107,11 @@ var circlesGroup = chartGroup.selectAll("mycircle")
   .append('g')
 
 var circles = circlesGroup.append("circle")
-    .attr("cx", function(d) { return x(d.Q2_2019)} )
+    .attr("cx", x(0))
     .attr("cy", function(d) { return y(d.State); })
     .attr("r", "3")
-    .style("fill", "#69b3a2")
-    .attr("stroke", "black")
-
-var circles = circlesGroup.append("circle")
-    .attr("cx", function(d) { return x(d.Q2_2020)} )
-    .attr("cy", function(d) { return y(d.State); })
-    .attr("r", "3")
-    .style("fill", "#69b3a2")
-    .attr("stroke", "black")
+    .style("fill", "#007bff")
+    .attr("stroke", "white")
 
 // Tooltip
 var toolTip = d3.tip()
@@ -138,4 +135,4 @@ chartGroup.selectAll("line")
   .duration(2000)
   .attr("x1", function(d) { return x(d.Q2_2019_2020_Delta); })
 
-})
+});

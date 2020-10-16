@@ -13,29 +13,31 @@ mongo = PyMongo(app, uri='mongodb://localhost:27017/NCAA_app')
 @app.route('/')
 def home():
 
-    return render_template("index.html", Tax_Data=Tax_list)
+    Tax_Data = mongo.db.Tax_Data.find_one()
+
+    return render_template("index.html", Tax_Data=Tax_Data)
 
 # Route that will trigger the scrape function
 @app.route('/gatherData')
 def gatherData():
 
     # Running the scrape function
-    tax_Data, budget_Data = dataImport.gatherData()
-    print(tax_Data)
+    Tax_Data = dataImport.gatherData()
+    # print(tax_Data)
     # Update the Mongo database using updated and upsert=True
     # mongo.db.Tax_Data.update({}, tax_Data, upsert=True)
-    for i in tax_Data:
+    for i in Tax_Data:
         mongo.db.Tax_Data.insert_one(i)
     # mongo.db.Budget_Data.update({}, budget_Data, upsert=True)
     # Redirect back to home page
-    return redirect('/', code=302)
+    return redirect('/TaxData', code=302)
 
-@app.route('/outputData')
-def outputData():
+@app.route('/TaxData')
+def TaxData():
     Tax_Data = mongo.db.Tax_Data.find()
-    Tax_list = dumps([i for i in Tax_Data])       
-    # print(Tax_Data)
-    return Tax_list
+    Tax_Dump = dumps(Tax_Data)       
+    # print(Tax_list)
+    return Tax_Dump
 
 if __name__ == "__main__":
     app.run(debug=True)
