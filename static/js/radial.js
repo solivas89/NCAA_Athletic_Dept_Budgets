@@ -1,8 +1,13 @@
 // set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 40, left: 100},
-    width = 500 - margin.left - margin.right,
-    height = 550 - margin.top - margin.bottom;
-​
+
+
+var svgWidth = 960;
+var svgHeight = 800;
+
+
+var margin = {top: 10, right: 30, bottom: 40, left: 100};
+    width = svgWidth - margin.left - margin.right,
+    height = svgHeight - margin.top - margin.bottom;
 // append the svg object to the body of the page
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -10,7 +15,7 @@ var svg = d3.select("svg"),
     innerRadius = 180,
     outerRadius = Math.min(width, height) / 2.5,
     g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-​
+
 var xScaleOffset = Math.PI * 75/180;
 ​
 var x = d3.scaleBand()
