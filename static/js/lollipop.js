@@ -63,7 +63,7 @@ var sortedData = taxData.sort(function(a, b) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+2])
+  .domain([d3.min(taxData, d=>d.Q2_2020/10000), d3.max(taxData, d => d.Q2_2019/100000)])
   .range([ 0, width]);
 
 var xAxis = chartGroup.append("g")
@@ -89,8 +89,8 @@ var linesGroup = chartGroup.selectAll("myline")
   .append('g')
 
 var lines = linesGroup.append('line')
-    .attr("x1", x(0))
-    .attr("x2", x(0))
+    .attr("x1", function(d) { return x(d.Q2_2019/000000);})
+    .attr("x2", function(d) { return x(d.Q2_2020/10000000);})
     .attr("y1", function(d) { return y(d.State); })
     .attr("y2", function(d) { return y(d.State); })
     .attr("stroke", "black")
@@ -103,7 +103,14 @@ var circlesGroup = chartGroup.selectAll("mycircle")
   .append('g')
 
 var circles = circlesGroup.append("circle")
-    .attr("cx", x(0) )
+    .attr("cx", function(d) { return x(d.Q2_2019)} )
+    .attr("cy", function(d) { return y(d.State); })
+    .attr("r", "3")
+    .style("fill", "#69b3a2")
+    .attr("stroke", "black")
+
+var circles = circlesGroup.append("circle")
+    .attr("cx", function(d) { return x(d.Q2_2020)} )
     .attr("cy", function(d) { return y(d.State); })
     .attr("r", "3")
     .style("fill", "#69b3a2")
