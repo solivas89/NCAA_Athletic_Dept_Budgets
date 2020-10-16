@@ -1,23 +1,30 @@
 // set the dimensions and margins of the graph
-
-
-var svgWidth = 960;
-var svgHeight = 800;
+var svgWidth = 300;
+var svgHeight = 550;
 
 
 var margin = {top: 10, right: 30, bottom: 40, left: 100};
-    width = svgWidth - margin.left - margin.right,
-    height = svgHeight - margin.top - margin.bottom;
+    
+var width = svgWidth - margin.left - margin.right;
+var height = svgHeight - margin.top - margin.bottom;
+
 // append the svg object to the body of the page
-var svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height"),
-    innerRadius = 180,
-    outerRadius = Math.min(width, height) / 2.5,
-    g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+var svg = d3.select("#radial")
+    .append("svg")
+    .attr("width", svgWidth)
+    .attr("height", svgHeight)
+    .attr("innerRadius", 180)
+    .attr("outerRadius", Math.min(svgWidth,svgHeight)/2.5)
+
+    // innerRadius = 180,
+    // outerRadius = Math.min(width, height) / 2.5,
+    // g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+var chartGroup = svg.append('g')
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var xScaleOffset = Math.PI * 75/180;
-​
+
 var x = d3.scaleBand()
     .range([xScaleOffset, 2 * Math.PI + xScaleOffset])
     .align(0);
@@ -37,7 +44,8 @@ var zClasses = ['Football', 'Basketball'];
         d.Football = (+d.Football);
         d.Basketball =  (+d.Basketball);
         return d;
-        }, function(error, data) {
+        console.log(d)
+        }, function(data, error) {
         if (error) throw error;
         console.log(data)
       
@@ -46,7 +54,7 @@ var zClasses = ['Football', 'Basketball'];
         z.domain(data.columns.slice(1));
       
         
-        g.append('g')
+        chartGroup.append('g')
             .selectAll("g")
           .data(d3.stack().keys(data.columns.slice(1))(data))
           .enter().append("g")
@@ -64,7 +72,7 @@ var zClasses = ['Football', 'Basketball'];
       
         //yAxis
       
-        var yAxis = g.append("g")
+        var yAxis = chartGroup.append("g")
             .attr("text-anchor", "middle");
       
         var yTicksValues = d3.ticks(0, 200, 4);
@@ -99,7 +107,7 @@ var zClasses = ['Football', 'Basketball'];
       
         // Labels for xAxis
       
-        var label = g.append("g")
+        var label = chartGroup.append("g")
           .selectAll("g")
           .data(data)
           .enter().append("g")
@@ -117,7 +125,7 @@ var zClasses = ['Football', 'Basketball'];
               return xlabel; });
       
       // Legend
-        var legend = g.append("g")
+        var legend = chartGroup.append("g")
           .selectAll("g")
           .data(zClasses)
           .enter().append("g")
