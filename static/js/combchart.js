@@ -1,25 +1,25 @@
-d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeData){
+// d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeData){
 	// console.log(collegeData);
 
-	d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
-		// console.log(nbaData.school)
-		// console.log(collegeData)
-		schools = []
-		nbaData.forEach(function(d){
-			// console.log(d.school)
-			schools.push(d.school)
-		});
+	// d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
+	// 	// console.log(nbaData.school)
+	// 	// console.log(collegeData)
+	// 	schools = []
+	// 	nbaData.forEach(function(d){
+	// 		// console.log(d.school)
+	// 		schools.push(d.school)
+	// 	});
 
-		var top10 = schools.slice(0,10)
-		// console.log(top10);
+	// 	var top10 = schools.slice(0,10)
+	// 	// console.log(top10);
 
-		// var filteredData = collegeData.filter(function(d){
-		// 	if(collegeData.institution_name == top10){
-		// 		return d;
-		// 	}
-		// });
+	// 	// var filteredData = collegeData.filter(function(d){
+	// 	// 	if(collegeData.institution_name == top10){
+	// 	// 		return d;
+	// 	// 	}
+	// 	// });
 
-	});
+	// });
 
 	
 	// console.log(filteredData);
@@ -248,7 +248,7 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 	]
 	});
 	chart.render();
-});
+// });
 
 
 

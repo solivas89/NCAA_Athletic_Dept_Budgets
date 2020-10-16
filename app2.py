@@ -13,9 +13,7 @@ mongo = PyMongo(app, uri='mongodb://localhost:27017/NCAA_app')
 @app.route('/')
 def home():
 
-    NCAA_data = mongo.db.NCAA_data.find_one()
-
-    return render_template("index.html", NCAA_data=NCAA_data)
+    return render_template("index.html", Tax_Data=Tax_list)
 
 # Route that will trigger the scrape function
 @app.route('/gatherData')
@@ -34,9 +32,9 @@ def gatherData():
 
 @app.route('/outputData')
 def outputData():
-    Tax_data = mongo.db.Tax_Data.find()
-    Tax_list = dumps([i for i in Tax_data])       
-    # print(Tax_data)
+    Tax_Data = mongo.db.Tax_Data.find()
+    Tax_list = dumps([i for i in Tax_Data])       
+    # print(Tax_Data)
     return Tax_list
 
 if __name__ == "__main__":
