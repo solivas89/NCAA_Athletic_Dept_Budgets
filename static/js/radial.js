@@ -1,5 +1,5 @@
-var svgWidth = 800,
-  svgHeight = 800,
+var svgWidth = 725,
+  svgHeight = 550,
   chartRadius = svgHeight / 2;
 
 var color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -13,7 +13,7 @@ var svg = d3.select('#radial').append('svg')
   .attr('width', svgWidth)
   .attr('height', svgHeight)
   .append('g')
-    .attr('transform', 'translate(' + svgWidth / 3 + ',' + svgHeight / 3 + ')');
+    .attr('transform', 'translate(' + svgWidth / 3 + ',' + svgHeight / 2 + ')');
 
 var chartGroup = svg.append("g")
 .attr("transform",
@@ -43,7 +43,7 @@ var PI = Math.PI,
   numTicks = 10;
 
 
-d3.csv('static/data/mergedstatecount.csv', (error, StateData) => {
+d3.csv('static/data/mergedstatecount.csv').then((StateData,error) => {
   var data = StateData.slice(0,10)
   var scale = d3.scaleLinear()
     .domain([0, d3.max(data, d => d.value) * 1.1])

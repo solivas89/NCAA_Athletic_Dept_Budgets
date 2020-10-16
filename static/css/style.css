@@ -64,7 +64,7 @@ body {
   font: 12px sans-serif;
 }
 
-svg {
+#radial.svg {
   margin: 60px auto;
   display: block;
 }
