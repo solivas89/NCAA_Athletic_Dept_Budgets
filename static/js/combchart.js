@@ -1,27 +1,50 @@
-// d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeData){
+BballPlayers = [];
+FballPlayers = [];
+BballRev = [];
+FballRev = [];
+BballExp = [];
+FballExp = [];
+
+function getData(csv){
+	var csvLines = column = []; 
+	// csvLines = csv.split(/[\r?\n|\r|\n]+/);
+
+	for (var i = 0; i < csvLines.length; i++){
+		if (csvLines[i].length > 0) {
+			column = csvLines[i].split(",");
+			BballPlayers.push({
+				x: column[0],
+				y: parseFloat(column[1])
+			});
+			FballPlayers.push({
+				x: column[0],
+				y: parseFloat(column[2])
+			});
+			BballRev.push({
+				x: column[0],
+				y: parseFloat(column[3])
+			});
+			FballRev.push({
+				x: column[0],
+				y: parseFloat(column[4])
+			});
+			BballExp.push({
+				x: column[0],
+				y: parseFloat(column[5])
+			});
+			FballExp.push({
+				x: column[0],
+				y: parseFloat(column[6])
+			});
+		}
+	return [BballPlayers, FballPlayers, BballRev, FballRev, BballExp, FballExp];
+	}
+}
+
+d3.csv('static/data/combinedchart.csv').then(function(collegeData){
 	// console.log(collegeData);
+	// console.log(getData(collegeData))
 
-	// d3.csv('static/data/nba_cleaned.csv').then(function(nbaData){
-	// 	// console.log(nbaData.school)
-	// 	// console.log(collegeData)
-	// 	schools = []
-	// 	nbaData.forEach(function(d){
-	// 		// console.log(d.school)
-	// 		schools.push(d.school)
-	// 	});
-
-	// 	var top10 = schools.slice(0,10)
-	// 	// console.log(top10);
-
-	// 	// var filteredData = collegeData.filter(function(d){
-	// 	// 	if(collegeData.institution_name == top10){
-	// 	// 		return d;
-	// 	// 	}
-	// 	// });
-
-	// });
-
-	
 	// console.log(filteredData);
 	// var ctx = document.getElementById("combined");
 	// var width = window.innerWidth/2;
@@ -52,15 +75,7 @@
 			labelFormatter: addSymbols
 		},
 		toolTip: {
-			shared: true,
-			// contentFormatter: function(e){
-			// 	var content = "";
-			// 	for (var i = 0; i < e.entries.length; i++){
-			// 		content += e.entries[i].dataSeries.name + " " + "<strong>" + e.entries[i].dataPoint.y + "</strong>";
-			// 		content += "<br/>";
-			// 	}
-			// 	return content;
-			// }
+			shared: true
 		},
 		legend: {
 			cursor: "pointer",
@@ -74,7 +89,6 @@
 			type: "column",
 			name: "Basketball",
 			showInLegend: true,
-			// yValueFormatString: "##",
 			dataPoints: [
 				{ label: "Kentucky", y: 13 },
 				{ label: "Duke", y: 15 },
@@ -248,7 +262,7 @@
 	]
 	});
 	chart.render();
-// });
+});
 
 
 
