@@ -1,8 +1,8 @@
 var svgWidth = 400;
-var svgHeight = 1000;
+var svgHeight = 500;
 
 // set the dimensions and margins of the graph
-var margin = {top: 500, right: 30, bottom: 40, left: 100};
+var margin = {top: 25, right: 30, bottom: 40, left: 100};
 
 var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
@@ -20,7 +20,7 @@ var chartGroup = svg.append("g")
 // Title of the chart
 chartGroup.append('text')
     .attr('x', (width/2))
-    .attr('y', 0)
+    .attr('y', -10)
     .attr('text-anchor', 'middle')
     .style('font-size', '14px')
     .style('font-weight', 'bold')
@@ -69,9 +69,9 @@ var x = d3.scaleLinear()
 var xAxis = chartGroup.append("g")
   .attr("transform", "translate(0," + (height-50) + ")")
   .call(d3.axisBottom(x))
-  // .selectAll("text")
-  //   .attr("transform", "translate(-10,0)rotate(-45)")
-  //   .style("text-anchor", "end")
+  .selectAll("text")
+    .attr("transform", "translate(-10,0)rotate(-45)")
+    .style("text-anchor", "end")
 
 // Y axis
 var y = d3.scaleBand()
@@ -83,7 +83,7 @@ var yAxis = chartGroup.append("g")
   .call(d3.axisLeft(y))
 
 // Lines
-var linesGroup = chartGroup.selectAll("line")
+var linesGroup = chartGroup.selectAll("myline")
   .data(taxData)
   .enter()
   .append('g')
@@ -93,10 +93,11 @@ var lines = linesGroup.append('line')
     .attr("x2", x(0))
     .attr("y1", function(d) { return y(d.State); })
     .attr("y2", function(d) { return y(d.State); })
-    .attr("stroke", "grey")
+    .attr("stroke", "black")
+    .attr("stroke-width", "1px")
 
 // Circles -> start at X=0
-var circlesGroup = chartGroup.selectAll("circle")
+var circlesGroup = chartGroup.selectAll("mycircle")
   .data(taxData)
   .enter()
   .append('g')

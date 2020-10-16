@@ -23,7 +23,11 @@ d3.csv('static/data/College Budget File Flattened.csv').then(function(collegeDat
 
 	
 	// console.log(filteredData);
-
+	// var ctx = document.getElementById("combined");
+	// var width = window.innerWidth/2;
+	// ctx.width = width;
+	// var height = window.innerHeight/2;
+	// ctx.height = height;
 	var chart = new CanvasJS.Chart("combined", {
 		animationEnabled: true,
 		theme: "dark2",
