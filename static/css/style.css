@@ -59,3 +59,45 @@
   border: black solid 1px;
   border-radius: 2px;
 }
+
+body {
+  font: 12px sans-serif;
+}
+
+svg {
+  margin: 60px auto;
+  display: block;
+}
+
+path.arc {
+  opacity: 0.9;
+  transition: opacity 0.5s;
+  stroke: #FFFFFF;
+}
+
+path.arc:hover {
+  opacity: 0.5;
+}
+
+.axis line, .axis circle  {
+  stroke: rgb(29, 26, 233);
+  stroke-width: 1px
+}
+
+.axis circle {
+  fill: black;
+}
+
+.r.axis text {
+  text-anchor: end
+}
+
+.tooltipradial {
+  position: absolute;
+  display: none;
+  background: rgba(0, 4, 245, 0.76);
+  border-radius: 3px;
+  box-shadow: -3px 3px 15px #888;
+  color: white;
+  padding: 6px;
+}
