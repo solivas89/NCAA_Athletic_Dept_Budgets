@@ -1,4 +1,4 @@
-var svgWidth = 400;
+var svgWidth = 900;
 var svgHeight = 550;
 
 // set the dimensions and margins of the graph
@@ -14,12 +14,12 @@ var svg = d3.select("#lollipop")
     .attr("height", svgHeight)
     .style("background-color", "#343a40")
 
-var chartGroup = svg.append("g")
+var chartGroup1 = svg.append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
 // Title of the chart
-chartGroup.append('text')
+chartGroup1.append('text')
     .attr('x', (width/2))
     .attr('y', -10)
     .attr('text-anchor', 'middle')
@@ -29,7 +29,7 @@ chartGroup.append('text')
     .text('Change in Q2 Taxes from 2019 to 2020')
 
 // X axis label
-chartGroup.append('text')
+chartGroup1.append('text')
     .attr('x', width/2)
     .attr('y', height)
     .style('text-anchor', 'middle')
@@ -37,7 +37,7 @@ chartGroup.append('text')
     .text('Percentage change')
 
 // Y axis label
-chartGroup.append('text')
+chartGroup1.append('text')
     .attr("transform", "rotate(-90)")
     .attr('y', 0-margin.left)
     .attr('x', 0-(height/2))
@@ -67,10 +67,10 @@ var sortedData = taxData.sort(function(a, b) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+2])
+  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta), d3.max(taxData, d => d.Q2_2019_2020_Delta)])
   .range([ 0, width]);
 
-var xAxis = chartGroup.append("g")
+var xAxis = chartGroup1.append("g")
   .attr("transform", "translate(0," + (height-50) + ")")
   .call(d3.axisBottom(x))
   .selectAll("text")
@@ -83,11 +83,11 @@ var y = d3.scaleBand()
   .domain(taxData.map(function(d) { return d.State; }))
   .padding(1);
 
-var yAxis = chartGroup.append("g")
+var yAxis = chartGroup1.append("g")
   .call(d3.axisLeft(y))
 
 // Lines
-var linesGroup = chartGroup.selectAll("myline")
+var linesGroup = chartGroup1.selectAll("myline")
   .data(taxData)
   .enter()
   .append('g')
@@ -101,7 +101,7 @@ var lines = linesGroup.append('line')
     .attr("stroke-width", "1px");
 
 // Circles -> start at X=0
-var circlesGroup = chartGroup.selectAll("mycircle")
+var circlesGroup = chartGroup1.selectAll("mycircle")
   .data(taxData)
   .enter()
   .append('g')
@@ -119,18 +119,18 @@ var toolTip = d3.tip()
     .offset([10,30])
     .html(d => (`${d.Q2_2019_2020_Delta}%`))
 
-chartGroup.call(toolTip);
+chartGroup1.call(toolTip);
 
 circlesGroup.on('mouseover', d => toolTip.show(d, this))
     .on('mouseout', d=>toolTip.hide(d));
 
 // Change the X coordinates of line and circle
-chartGroup.selectAll("circle")
+chartGroup1.selectAll("circle")
   .transition()
   .duration(2000)
   .attr("cx", function(d) { return x(d.Q2_2019_2020_Delta); })
 
-chartGroup.selectAll("line")
+chartGroup1.selectAll("line")
   .transition()
   .duration(2000)
   .attr("x1", function(d) { return x(d.Q2_2019_2020_Delta); })

@@ -13,7 +13,7 @@ mongo = PyMongo(app, uri='mongodb://localhost:27017/NCAA_app')
 @app.route('/')
 def home():
 
-    Tax_Data = mongo.db.Tax_Data.find_one()
+    Tax_Data = mongo.db.Tax_Data.find()
 
     return render_template("index.html", Tax_Data=Tax_Data)
 
@@ -21,9 +21,9 @@ def home():
 @app.route('/gatherData')
 def gatherData():
 
-    # Running the scrape function
     Tax_Data = dataImport.gatherData()
     # print(tax_Data)
+
     # Update the Mongo database using updated and upsert=True
     # mongo.db.Tax_Data.update({}, tax_Data, upsert=True)
     for i in Tax_Data:
@@ -38,6 +38,13 @@ def TaxData():
     Tax_Dump = dumps(Tax_Data)       
     # print(Tax_list)
     return Tax_Dump
+
+# @app.route('/RadialData')
+# def RadialData():
+#     Radial_Data = mongo.db.Tax_Data.find()
+#     Radial_Dump = dumps(Radial_Data)       
+#     # print(Tax_list)
+#     return Radial_Dump
 
 if __name__ == "__main__":
     app.run(debug=True)

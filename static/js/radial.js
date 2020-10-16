@@ -1,4 +1,4 @@
-var svgWidth = 725,
+var svgWidth = 900,
   svgHeight = 550,
   chartRadius = svgHeight / 2;
 
@@ -13,19 +13,19 @@ var svg = d3.select('#radial').append('svg')
   .attr('width', svgWidth)
   .attr('height', svgHeight)
   .append('g')
-    .attr('transform', 'translate(' + svgWidth / 3 + ',' + svgHeight / 2 + ')');
+    .attr('transform', 'translate(' + svgWidth / 4 + ',' + svgHeight / 2 + ')');
 
-var chartGroup = svg.append("g")
+var chartGroup2 = svg.append("g")
 .attr("transform",
         "translate(" + margin.left + "," + margin.top + ")");
-chartGroup.append('text')
+chartGroup2.append('text')
 .attr('x', (-100))
 .attr('y', 205)
 .attr('text-anchor', 'middle')
 .style('font-size', '20px')
 .style('font-weight', 'bold')
-.text('States that produce the most Pro Athletes (Top 10)')
-chartGroup.append('text')
+.text('Top 10 States Producing Pro Athletes')
+chartGroup2.append('text')
 .attr('x', (-100))
 .attr('y', 220)
 .attr('text-anchor', 'middle')

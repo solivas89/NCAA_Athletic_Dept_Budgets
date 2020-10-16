@@ -60,6 +60,11 @@
   border-radius: 2px;
 }
 
+.row {
+  padding: 5px;
+  margin: 5px;
+}
+
 body {
   font: 12px sans-serif;
 }

@@ -29,7 +29,9 @@ def gatherData():
     df10 = pd.read_csv(file10)
 
     Tax_Data = df1.to_dict('records')
-    Budget_Data = df2.to_dict('records')
+    # Budget_Data = df2.to_dict('records')
+    # NFL_Raw = df3.to_dict('records')
+    
 
     # Converting to dictionaries
     # NCAA_Data["Tax_Data"] = df1
