@@ -33,6 +33,8 @@ chartGroup.append('text')
     .attr('y', height)
     .style('text-anchor', 'middle')
     .style('fill', 'white')
+    .style('font-size', '14px')
+    .style('font-weight', 'bold')
     .text('Percentage change')
 
 // Y axis label
@@ -41,13 +43,15 @@ chartGroup.append('text')
     .attr('y', 0-margin.left)
     .attr('x', 0-(height/2))
     .attr('dy', '1em')
-    .style('text-anchor', 'middle')
     .style('fill', 'white')
+    .style('font-size', '14px')
+    .style('font-weight', 'bold')
+    .style('text-anchor', 'middle')
     .text('State')
 
 // Read json file
-d3.json("static/data/Tax_Data.json").then(function(taxData) {
-    // console.log(taxData)
+d3.json("/outputData").then(function(taxData) {
+    console.log(taxData)
 
     taxData.forEach(function(data){
         data.Q2_2020 = +data.Q2_2020,
