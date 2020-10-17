@@ -67,7 +67,7 @@ var sortedData = taxData.sort(function(a, b) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta), d3.max(taxData, d => d.Q2_2019_2020_Delta)])
+  .domain([d3.min(taxData, d=>d.Q2_2019_2020_Delta)-5, d3.max(taxData, d => d.Q2_2019_2020_Delta)+5])
   .range([ 0, width]);
 
 var xAxis = chartGroup1.append("g")
