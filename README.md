@@ -13,7 +13,7 @@ To do this we looked at:
 ## Instructions to run the application
  * Clone the repository on local drive
  * Run app.py on terminal
- * Navigate to route /gatherData
+ * Navigate to route "/gatherData"
  * Navigate back to home after viewing the data output
 
 ## Process
